@@ -11,6 +11,7 @@ jobs:
           use-public-rspm: true
       - uses: r-lib/actions/setup-r-dependencies@v2
         with:
-          extra-packages: fitzroy
+          extra-packages: jimmyday12/fitzRoy
       - name: Update Disposals
         run: Rscript -e 'source("~/afl_disposals_by_week_git.R")'
+

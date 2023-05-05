@@ -13,7 +13,11 @@ jobs:
           use-public-rspm: true
       - uses: r-lib/actions/setup-r-dependencies@v2
         with:
-          extra-packages: jimmyday12/fitzRoy
+          extra-packages: 'any:rcmdcheck'
+      - name: Install fitZroy
+        run: 'pak::pkg_install("jimmyday12/fitzRoy")'
+        shell: 'Rscript{0}'
       - name: Update Disposals
-        run: Rscript -e 'source("~/afl_disposals_by_week_git.R")'
-
+        run: >-
+          Rscript -e
+          'source("afl_disposals_by_week/afldispbyweek/R/afl_disposals_by_week_git.R")'

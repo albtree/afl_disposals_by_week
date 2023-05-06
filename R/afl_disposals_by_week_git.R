@@ -42,6 +42,8 @@ player_stats_all <- do.call(bind_rows, player_stats) %>% as.data.frame() %>%
          disposals_last_5 = mean(c(disposals_lag_1, disposals_lag_2, disposals_lag_3, disposals_lag_4, disposals_lag_5))) %>%
   ungroup()
 
+player_stats_2023 <- player_stats_all %>% filter(season == 2023)
+
 player_stats_by_venue <- player_stats_all %>%
   group_by(full_name, team.name, season, venue.name) %>%
   summarise(mean_disposals = mean(disposals, na.rm = TRUE),
@@ -61,5 +63,6 @@ player_stats_by_home_away <- player_stats_all %>%
   mutate(mean_disposals = round(mean_disposals, digits = 2))
 
 write.csv(player_stats_all, file = "player_stats_all.csv")
+write.csv(player_stats_2023, file = "player_stats_2023.csv")
 write.csv(player_stats_by_venue, file = "player_stats_by_venue.csv")
 write.csv(player_stats_by_home_away, file = "player_stats_by_home_away.csv")

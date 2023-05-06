@@ -33,7 +33,19 @@ player_stats_all <- fetch_player_stats(season = 2023) %>%
          is_home = if_else(team.name == home.team.name, "Home", "Away")) %>%
   select(season, round.roundNumber, venue.name, full_name, team.name, starting_position, is_home, opponent, kicks, goals, behinds, handballs, disposals, timeOnGroundPercentage,
          extendedStats.centreBounceAttendances, extendedStats.kickins, extendedStats.kickinsPlayon) %>%
-  drop_na(team.name)
+  drop_na(team.name)%>%
+  group_by(full_name, team.name, season) %>%
+  arrange(-round.roundNumber) %>%
+  mutate(disposals_lag_1 = lag(disposals),
+         disposals_lag_2 = lag(disposals, n = 2),
+         disposals_lag_3 = lag(disposals, n = 3),
+         disposals_lag_4 = lag(disposals, n = 4),
+         disposals_lag_5 = lag(disposals, n = 5)) %>%
+  ungroup() %>%
+  rowwise() %>%
+  mutate(disposals_last_3 = mean(c(disposals_lag_1, disposals_lag_2, disposals_lag_3)),
+         disposals_last_5 = mean(c(disposals_lag_1, disposals_lag_2, disposals_lag_3, disposals_lag_4, disposals_lag_5))) %>%
+  ungroup()
 
 player_stats_2023 <- player_stats_all %>%
   filter(season == 2023)
@@ -57,3 +69,5 @@ player_stats_by_home_away <- player_stats_all %>%
   mutate(mean_disposals = round(mean_disposals, digits = 2))
 
 write.csv(player_stats_all, file = "player_stats_all.csv")
+write.csv(player_stats_by_venue, file = "player_stats_by_venue.csv")
+write.csv(player_stats_by_home_away, file = "player_stats_by_home_away.csv")

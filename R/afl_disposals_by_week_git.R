@@ -1,14 +1,9 @@
 library(tidyverse)
 library(fitzRoy)
 
-#player_stats <- vector("list", length = 30)
-#for(varx in 2014:2023){
-  #player_stats[[varx]] <- try(fetch_player_stats(season = varx)) %>%
-   # mutate(season = varx)
-#}
-#player_stats_all <- do.call(bind_rows, player_stats) %>% as.data.frame() %>%
-player_stats_all <- fetch_player_stats(season = 2023) %>%
-  mutate(season = 2023) %>%
+player_stats <- vector("list", length = 30)
+for(varx in 2014:2023){player_stats[[varx]] <- try(fetch_player_stats(season = varx)) %>%mutate(season = varx)}
+player_stats_all <- do.call(bind_rows, player_stats) %>% as.data.frame() %>%
   mutate(full_name = paste(player.givenName, player.surname)) %>%
   mutate(starting_position = case_when(player.player.position  == "RK" ~ "Ruck",
                                        player.player.position == "R" ~ "Mid",
@@ -46,9 +41,6 @@ player_stats_all <- fetch_player_stats(season = 2023) %>%
   mutate(disposals_last_3 = mean(c(disposals_lag_1, disposals_lag_2, disposals_lag_3)),
          disposals_last_5 = mean(c(disposals_lag_1, disposals_lag_2, disposals_lag_3, disposals_lag_4, disposals_lag_5))) %>%
   ungroup()
-
-player_stats_2023 <- player_stats_all %>%
-  filter(season == 2023)
 
 player_stats_by_venue <- player_stats_all %>%
   group_by(full_name, team.name, season, venue.name) %>%

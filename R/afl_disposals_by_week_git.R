@@ -35,7 +35,7 @@ player_stats_all <- fetch_player_stats(season = 2023) %>%
          extendedStats.centreBounceAttendances, extendedStats.kickins, extendedStats.kickinsPlayon) %>%
   drop_na(team.name)%>%
   group_by(full_name, team.name, season) %>%
-  arrange(-round.roundNumber) %>%
+  arrange(round.roundNumber) %>%
   mutate(disposals_lag_1 = lag(disposals),
          disposals_lag_2 = lag(disposals, n = 2),
          disposals_lag_3 = lag(disposals, n = 3),

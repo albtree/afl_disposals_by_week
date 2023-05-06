@@ -1,7 +1,7 @@
 on:
   schedule:
     # * is a special character in YAML so you have to quote this string
-    - cron:  '0 0 16 ? 3-10 SUN,THU,FRI,SAT *'
+    - cron:  '0 16 * * *'
   workflow_dispatch:
 
 name: Update-Disposals

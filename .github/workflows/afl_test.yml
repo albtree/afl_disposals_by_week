@@ -2,6 +2,8 @@ on:
   schedule:
   #Runs at 1600h UTC (2am AEST) every Sunday, Thursday, Friday, Saturday from March to October
     - cron '0 0 16 ? 3-10 SUN,THU,FRI,SAT *'
+  workflow_dispatch:
+  
 name: Update-Disposals
 jobs:
   update-rosters:

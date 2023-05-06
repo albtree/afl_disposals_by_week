@@ -2943,95 +2943,233 @@
 "2942",2023,8,"Marvel Stadium","Brandon Starcevich","Brisbane Lions","Back","Away","Carlton",12,0,0,1,13,86,0,0,0,13,5,15,16,20,11,13.8
 "2943",2023,8,"Marvel Stadium","Jack Payne","Brisbane Lions","Back","Away","Carlton",12,0,0,1,13,95,0,0,0,14,11,11,7,13,12,11.2
 "2944",2023,8,"Marvel Stadium","Lincoln McCarthy","Brisbane Lions","Forward","Away","Carlton",4,1,0,4,8,76,0,0,0,11,9,17,11,8,12.3333333333333,11.2
-"2945",2023,8,"MCG","Judson Clarke","Richmond","INT","Home","West Coast Eagles",0,0,0,1,1,59,NA,NA,NA,5,16,11,20,12,10.6666666666667,12.8
-"2946",2023,8,"MCG","Noah Cumberland","Richmond","INT","Home","West Coast Eagles",0,0,0,0,0,44,NA,NA,NA,6,7,7,21,7,6.66666666666667,9.6
-"2947",2023,8,"MCG","Kamdyn McIntosh","Richmond","Mid","Home","West Coast Eagles",1,0,0,0,1,100,NA,NA,NA,16,9,19,15,19,14.6666666666667,15.6
-"2948",2023,8,"MCG","Dylan Grimes","Richmond","Back","Home","West Coast Eagles",1,0,0,0,1,75,NA,NA,NA,7,8,9,9,11,8,8.8
-"2949",2023,8,"MCG","Ben Miller","Richmond","Ruck","Home","West Coast Eagles",0,0,0,0,0,56,NA,NA,NA,2,6,15,9,NA,7.66666666666667,NA
-"2950",2023,8,"MCG","Marlion Pickett","Richmond","Forward","Home","West Coast Eagles",2,1,0,0,2,100,NA,NA,NA,18,23,14,20,19,18.3333333333333,18.8
-"2951",2023,8,"MCG","Jacob Hopper","Richmond","INT","Home","West Coast Eagles",3,0,0,1,4,48,NA,NA,NA,21,23,32,24,23,25.3333333333333,24.6
-"2952",2023,8,"MCG","Rhyan Mansell","Richmond","SUB","Home","West Coast Eagles",0,0,0,0,0,0,NA,NA,NA,4,12,12,8,3,9.33333333333333,7.8
-"2953",2023,8,"MCG","Hugo Ralphsmith","Richmond","INT","Home","West Coast Eagles",0,0,0,0,0,60,NA,NA,NA,4,18,19,12,NA,13.6666666666667,NA
-"2954",2023,8,"MCG","Nick Vlastuin","Richmond","Back","Home","West Coast Eagles",0,0,0,1,1,100,NA,NA,NA,18,21,20,21,20,19.6666666666667,20
-"2955",2023,8,"MCG","Liam Baker","Richmond","Back","Home","West Coast Eagles",0,0,0,4,4,88,NA,NA,NA,21,14,35,25,32,23.3333333333333,25.4
-"2956",2023,8,"MCG","Nathan Broad","Richmond","Back","Home","West Coast Eagles",0,0,0,2,2,100,NA,NA,NA,20,16,13,NA,NA,16.3333333333333,NA
-"2957",2023,8,"MCG","Shai Bolton","Richmond","Mid","Home","West Coast Eagles",2,0,0,3,5,85,NA,NA,NA,19,20,22,16,22,20.3333333333333,19.8
-"2958",2023,8,"MCG","Samson Ryan","Richmond","Forward","Home","West Coast Eagles",2,0,0,1,3,100,NA,NA,NA,11,10,8,7,2,9.66666666666667,7.6
-"2959",2023,8,"MCG","Tim Taranto","Richmond","Mid","Home","West Coast Eagles",4,0,0,0,4,100,NA,NA,NA,32,33,34,27,29,33,31
-"2960",2023,8,"MCG","Jack Ross","Richmond","Mid","Home","West Coast Eagles",1,0,0,1,2,82,NA,NA,NA,17,23,4,NA,NA,14.6666666666667,NA
-"2961",2023,8,"MCG","Dion Prestia","Richmond","Forward","Home","West Coast Eagles",0,0,0,0,0,72,NA,NA,NA,20,22,20,20,21,20.6666666666667,20.6
-"2962",2023,8,"MCG","Jack Riewoldt","Richmond","Forward","Home","West Coast Eagles",2,0,0,0,2,100,NA,NA,NA,4,11,8,6,9,7.66666666666667,7.6
-"2963",2023,8,"MCG","Jayden Short","Richmond","Mid","Home","West Coast Eagles",1,0,0,0,1,81,NA,NA,NA,32,30,20,17,NA,27.3333333333333,NA
-"2964",2023,8,"MCG","Dustin Martin","Richmond","Forward","Home","West Coast Eagles",4,0,0,1,5,86,NA,NA,NA,19,25,17,23,14,20.3333333333333,19.6
-"2965",2023,8,"MCG","Daniel Rioli","Richmond","Back","Home","West Coast Eagles",2,0,0,0,2,77,NA,NA,NA,21,21,22,29,25,21.3333333333333,23.6
-"2966",2023,8,"MCG","Noah Balta","Richmond","Back","Home","West Coast Eagles",1,0,0,1,2,100,NA,NA,NA,10,10,20,16,11,13.3333333333333,13.4
-"2967",2023,8,"MCG","Jack Graham","Richmond","Forward","Home","West Coast Eagles",0,0,0,1,1,86,NA,NA,NA,10,14,15,20,NA,13,NA
-"2968",2023,8,"MCG","Oscar Allen","West Coast Eagles","Forward","Away","Richmond",2,1,0,2,4,100,NA,NA,NA,9,9,14,14,12,10.6666666666667,11.6
-"2969",2023,8,"MCG","Greg Clark","West Coast Eagles","Mid","Away","Richmond",2,0,0,1,3,100,NA,NA,NA,12,19,18,15,NA,16.3333333333333,NA
-"2970",2023,8,"MCG","Jack Darling","West Coast Eagles","Forward","Away","Richmond",1,0,0,0,1,100,NA,NA,NA,8,8,12,10,9,9.33333333333333,9.4
-"2971",2023,8,"MCG","Andrew Gaff","West Coast Eagles","INT","Away","Richmond",0,0,0,2,2,46,NA,NA,NA,17,32,18,24,28,22.3333333333333,23.8
-"2972",2023,8,"MCG","Reuben Ginbey","West Coast Eagles","Mid","Away","Richmond",1,0,0,3,4,74,NA,NA,NA,10,12,9,14,20,10.3333333333333,13
-"2973",2023,8,"MCG","Xavier O'Neill","West Coast Eagles","INT","Away","Richmond",1,0,0,2,3,60,NA,NA,NA,16,11,8,NA,NA,11.6666666666667,NA
-"2974",2023,8,"MCG","Josh Rotham","West Coast Eagles","INT","Away","Richmond",1,0,0,1,2,77,NA,NA,NA,5,8,9,2,NA,7.33333333333333,NA
-"2975",2023,8,"MCG","Tim Kelly","West Coast Eagles","Mid","Away","Richmond",3,0,0,1,4,100,NA,NA,NA,27,34,22,36,33,27.6666666666667,30.4
-"2976",2023,8,"MCG","Zane Trew","West Coast Eagles","SUB","Away","Richmond",0,0,0,0,0,0,NA,NA,NA,9,NA,NA,NA,NA,NA,NA
-"2977",2023,8,"MCG","Jack Petruccelle","West Coast Eagles","Forward","Away","Richmond",2,1,0,1,3,77,NA,NA,NA,10,14,10,1,NA,11.3333333333333,NA
-"2978",2023,8,"MCG","Bailey J. Williams","West Coast Eagles","Ruck","Away","Richmond",1,0,0,0,1,69,NA,NA,NA,13,21,12,17,13,15.3333333333333,15.2
-"2979",2023,8,"MCG","Connor West","West Coast Eagles","Forward","Away","Richmond",0,0,0,1,1,64,NA,NA,NA,13,14,4,11,NA,10.3333333333333,NA
-"2980",2023,8,"MCG","Liam Duggan","West Coast Eagles","Back","Away","Richmond",4,0,0,0,4,82,NA,NA,NA,23,20,23,19,18,22,20.6
-"2981",2023,8,"MCG","Dom Sheed","West Coast Eagles","Mid","Away","Richmond",0,0,0,3,3,82,NA,NA,NA,22,26,25,NA,NA,24.3333333333333,NA
-"2982",2023,8,"MCG","Alex Witherden","West Coast Eagles","Back","Away","Richmond",2,0,0,0,2,100,NA,NA,NA,15,23,19,7,15,19,15.8
-"2983",2023,8,"MCG","Luke Edwards","West Coast Eagles","Forward","Away","Richmond",0,0,0,3,3,88,NA,NA,NA,15,17,10,16,NA,14,NA
-"2984",2023,8,"MCG","Tom Barrass","West Coast Eagles","Back","Away","Richmond",1,0,0,0,1,65,NA,NA,NA,4,17,11,17,21,10.6666666666667,14
-"2985",2023,8,"MCG","Shannon Hurn","West Coast Eagles","Back","Away","Richmond",3,0,0,2,5,89,NA,NA,NA,19,12,27,21,25,19.3333333333333,20.8
-"2986",2023,8,"MCG","Jayden Hunt","West Coast Eagles","Mid","Away","Richmond",1,0,1,3,4,86,NA,NA,NA,23,19,17,20,22,19.6666666666667,20.2
-"2987",2023,8,"MCG","Jamaine Jones","West Coast Eagles","Back","Away","Richmond",2,0,0,1,3,100,NA,NA,NA,15,22,25,22,14,20.6666666666667,19.6
-"2988",2023,8,"MCG","Jai Culley","West Coast Eagles","INT","Away","Richmond",0,0,0,1,1,50,NA,NA,NA,5,10,14,12,NA,9.66666666666667,NA
-"2989",2023,8,"MCG","Luke Foley","West Coast Eagles","Back","Away","Richmond",2,0,0,2,4,100,NA,NA,NA,9,15,NA,NA,NA,NA,NA
-"2990",2023,8,"MCG","Jake Waterman","West Coast Eagles","Forward","Away","Richmond",2,0,0,0,2,90,NA,NA,NA,10,23,20,13,12,17.6666666666667,15.6
-"2991",2023,8,"GMHBA Stadium","Tom Atkins","Geelong Cats","Mid","Home","Adelaide Crows",0,0,0,0,0,0,NA,NA,NA,17,16,15,14,21,16,16.6
-"2992",2023,8,"GMHBA Stadium","Jed Bews","Geelong Cats","Forward","Home","Adelaide Crows",0,0,0,0,0,0,NA,NA,NA,12,2,13,10,11,9,9.6
-"2993",2023,8,"GMHBA Stadium","Mark Blicavs","Geelong Cats","Mid","Home","Adelaide Crows",0,0,0,0,0,0,NA,NA,NA,15,15,17,9,17,15.6666666666667,14.6
-"2994",2023,8,"GMHBA Stadium","Tanner Bruhn","Geelong Cats","INT","Home","Adelaide Crows",0,0,0,0,0,0,NA,NA,NA,11,12,10,17,NA,11,NA
-"2995",2023,8,"GMHBA Stadium","Jeremy Cameron","Geelong Cats","Forward","Home","Adelaide Crows",0,0,0,0,0,0,NA,NA,NA,20,17,18,22,15,18.3333333333333,18.4
-"2996",2023,8,"GMHBA Stadium","Jonathon Ceglar","Geelong Cats","Ruck","Home","Adelaide Crows",0,0,0,0,0,0,NA,NA,NA,14,NA,NA,NA,NA,NA,NA
-"2997",2023,8,"GMHBA Stadium","Brad Close","Geelong Cats","Forward","Home","Adelaide Crows",0,0,0,0,0,0,NA,NA,NA,15,15,16,17,12,15.3333333333333,15
-"2998",2023,8,"GMHBA Stadium","Patrick Dangerfield","Geelong Cats","Mid","Home","Adelaide Crows",0,0,0,0,0,0,NA,NA,NA,28,31,23,27,19,27.3333333333333,25.6
-"2999",2023,8,"GMHBA Stadium","Oliver Dempsey","Geelong Cats","INT","Home","Adelaide Crows",0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"3000",2023,8,"GMHBA Stadium","Mitch Duncan","Geelong Cats","Mid","Home","Adelaide Crows",0,0,0,0,0,0,NA,NA,NA,16,16,14,31,NA,15.3333333333333,NA
-"3001",2023,8,"GMHBA Stadium","Zach Guthrie","Geelong Cats","Back","Home","Adelaide Crows",0,0,0,0,0,0,NA,NA,NA,18,13,12,19,13,14.3333333333333,15
-"3002",2023,8,"GMHBA Stadium","Tom Hawkins","Geelong Cats","Forward","Home","Adelaide Crows",0,0,0,0,0,0,NA,NA,NA,16,8,14,15,5,12.6666666666667,11.6
-"3003",2023,8,"GMHBA Stadium","Oliver Henry","Geelong Cats","Forward","Home","Adelaide Crows",0,0,0,0,0,0,NA,NA,NA,17,11,15,9,13,14.3333333333333,13
-"3004",2023,8,"GMHBA Stadium","Max Holmes","Geelong Cats","INT","Home","Adelaide Crows",0,0,0,0,0,0,NA,NA,NA,18,23,20,26,15,20.3333333333333,20.4
-"3005",2023,8,"GMHBA Stadium","Mitch Knevitt","Geelong Cats","INT","Home","Adelaide Crows",0,0,0,0,0,0,NA,NA,NA,15,3,NA,NA,NA,NA,NA
-"3006",2023,8,"GMHBA Stadium","Jake Kolodjashnij","Geelong Cats","Back","Home","Adelaide Crows",0,0,0,0,0,0,NA,NA,NA,9,17,14,15,NA,13.3333333333333,NA
-"3007",2023,8,"GMHBA Stadium","Gryan Miers","Geelong Cats","Forward","Home","Adelaide Crows",0,0,0,0,0,0,NA,NA,NA,24,17,17,25,16,19.3333333333333,19.8
-"3008",2023,8,"GMHBA Stadium","Mark O'Connor","Geelong Cats","Back","Home","Adelaide Crows",0,0,0,0,0,0,NA,NA,NA,13,16,11,15,15,13.3333333333333,14
-"3009",2023,8,"GMHBA Stadium","Esava Ratugolea","Geelong Cats","Back","Home","Adelaide Crows",0,0,0,0,0,0,NA,NA,NA,5,11,14,13,11,10,10.8
-"3010",2023,8,"GMHBA Stadium","Sam Simpson","Geelong Cats","INT","Home","Adelaide Crows",0,0,0,0,0,0,NA,NA,NA,10,14,NA,NA,NA,NA,NA
-"3011",2023,8,"GMHBA Stadium","Isaac Smith","Geelong Cats","Mid","Home","Adelaide Crows",0,0,0,0,0,0,NA,NA,NA,19,19,23,27,23,20.3333333333333,22.2
-"3012",2023,8,"GMHBA Stadium","Tom Stewart","Geelong Cats","Back","Home","Adelaide Crows",0,0,0,0,0,0,NA,NA,NA,26,23,24,20,29,24.3333333333333,24.4
-"3013",2023,8,"GMHBA Stadium","Zach Tuohy","Geelong Cats","Back","Home","Adelaide Crows",0,0,0,0,0,0,NA,NA,NA,11,14,15,21,18,13.3333333333333,15.8
-"3014",2023,8,"GMHBA Stadium","Jordon Butts","Adelaide Crows","Back","Away","Geelong Cats",0,0,0,0,0,0,NA,NA,NA,10,9,13,4,7,10.6666666666667,8.6
-"3015",2023,8,"GMHBA Stadium","Matt Crouch","Adelaide Crows","INT","Away","Geelong Cats",0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"3016",2023,8,"GMHBA Stadium","Jordan Dawson","Adelaide Crows","Mid","Away","Geelong Cats",0,0,0,0,0,0,NA,NA,NA,30,24,32,27,18,28.6666666666667,26.2
-"3017",2023,8,"GMHBA Stadium","Tom Doedee","Adelaide Crows","Back","Away","Geelong Cats",0,0,0,0,0,0,NA,NA,NA,24,12,24,18,10,20,17.6
-"3018",2023,8,"GMHBA Stadium","Darcy Fogarty","Adelaide Crows","Forward","Away","Geelong Cats",0,0,0,0,0,0,NA,NA,NA,10,11,16,12,14,12.3333333333333,12.6
-"3019",2023,8,"GMHBA Stadium","Mitchell Hinge","Adelaide Crows","Back","Away","Geelong Cats",0,0,0,0,0,0,NA,NA,NA,18,18,24,16,21,20,19.4
-"3020",2023,8,"GMHBA Stadium","Chayce Jones","Adelaide Crows","Forward","Away","Geelong Cats",0,0,0,0,0,0,NA,NA,NA,20,9,28,21,9,19,17.4
-"3021",2023,8,"GMHBA Stadium","Ben Keays","Adelaide Crows","Mid","Away","Geelong Cats",0,0,0,0,0,0,NA,NA,NA,12,12,16,19,19,13.3333333333333,15.6
-"3022",2023,8,"GMHBA Stadium","Rory Laird","Adelaide Crows","Mid","Away","Geelong Cats",0,0,0,0,0,0,NA,NA,NA,29,29,37,28,26,31.6666666666667,29.8
-"3023",2023,8,"GMHBA Stadium","Max Michalanney","Adelaide Crows","INT","Away","Geelong Cats",0,0,0,0,0,0,NA,NA,NA,12,6,10,16,12,9.33333333333333,11.2
-"3024",2023,8,"GMHBA Stadium","Wayne Milera","Adelaide Crows","Back","Away","Geelong Cats",0,0,0,0,0,0,NA,NA,NA,13,11,23,18,15,15.6666666666667,16
-"3025",2023,8,"GMHBA Stadium","Lachlan Murphy","Adelaide Crows","Forward","Away","Geelong Cats",0,0,0,0,0,0,NA,NA,NA,12,15,16,14,18,14.3333333333333,15
-"3026",2023,8,"GMHBA Stadium","Nick Murray","Adelaide Crows","Back","Away","Geelong Cats",0,0,0,0,0,0,NA,NA,NA,15,8,13,8,12,12,11.2
-"3027",2023,8,"GMHBA Stadium","Reilly O'Brien","Adelaide Crows","Ruck","Away","Geelong Cats",0,0,0,0,0,0,NA,NA,NA,12,10,17,11,16,13,13.2
-"3028",2023,8,"GMHBA Stadium","Luke Pedlar","Adelaide Crows","Forward","Away","Geelong Cats",0,0,0,0,0,0,NA,NA,NA,13,15,8,12,12,12,12
-"3029",2023,8,"GMHBA Stadium","Josh Rachele","Adelaide Crows","INT","Away","Geelong Cats",0,0,0,0,0,0,NA,NA,NA,18,21,22,20,18,20.3333333333333,19.8
-"3030",2023,8,"GMHBA Stadium","Izak Rankine","Adelaide Crows","Forward","Away","Geelong Cats",0,0,0,0,0,0,NA,NA,NA,13,14,14,15,17,13.6666666666667,14.6
-"3031",2023,8,"GMHBA Stadium","Lachlan Sholl","Adelaide Crows","Mid","Away","Geelong Cats",0,0,0,0,0,0,NA,NA,NA,18,23,16,14,16,19,17.4
-"3032",2023,8,"GMHBA Stadium","Rory Sloane","Adelaide Crows","INT","Away","Geelong Cats",0,0,0,0,0,0,NA,NA,NA,18,30,17,23,22,21.6666666666667,22
-"3033",2023,8,"GMHBA Stadium","Brodie Smith","Adelaide Crows","Back","Away","Geelong Cats",0,0,0,0,0,0,NA,NA,NA,19,19,21,24,15,19.6666666666667,19.6
-"3034",2023,8,"GMHBA Stadium","Jake Soligo","Adelaide Crows","Mid","Away","Geelong Cats",0,0,0,0,0,0,NA,NA,NA,24,25,4,21,13,17.6666666666667,17.4
-"3035",2023,8,"GMHBA Stadium","Riley Thilthorpe","Adelaide Crows","INT","Away","Geelong Cats",0,0,0,0,0,0,NA,NA,NA,15,12,8,18,11,11.6666666666667,12.8
-"3036",2023,8,"GMHBA Stadium","Taylor Walker","Adelaide Crows","Forward","Away","Geelong Cats",0,0,0,0,0,0,NA,NA,NA,7,20,15,10,11,14,12.6
+"2945",2023,8,"MCG","Samson Ryan","Richmond","Forward","Home","West Coast Eagles",4,1,0,4,8,81,14,0,0,11,10,8,7,2,9.66666666666667,7.6
+"2946",2023,8,"MCG","Hugo Ralphsmith","Richmond","INT","Home","West Coast Eagles",7,0,0,8,15,73,0,0,0,4,18,19,12,NA,13.6666666666667,NA
+"2947",2023,8,"MCG","Judson Clarke","Richmond","INT","Home","West Coast Eagles",2,1,0,5,7,71,0,0,0,5,16,11,20,12,10.6666666666667,12.8
+"2948",2023,8,"MCG","Kamdyn McIntosh","Richmond","Mid","Home","West Coast Eagles",8,0,0,2,10,90,0,0,0,16,9,19,15,19,14.6666666666667,15.6
+"2949",2023,8,"MCG","Dylan Grimes","Richmond","Back","Home","West Coast Eagles",3,0,0,3,6,85,0,0,0,7,8,9,9,11,8,8.8
+"2950",2023,8,"MCG","Jacob Hopper","Richmond","INT","Home","West Coast Eagles",19,1,1,13,32,76,19,0,0,21,23,32,24,23,25.3333333333333,24.6
+"2951",2023,8,"MCG","Rhyan Mansell","Richmond","SUB","Home","West Coast Eagles",3,0,1,1,4,37,0,0,0,4,12,12,8,3,9.33333333333333,7.8
+"2952",2023,8,"MCG","Nick Vlastuin","Richmond","Back","Home","West Coast Eagles",11,0,0,6,17,89,0,1,1,18,21,20,21,20,19.6666666666667,20
+"2953",2023,8,"MCG","Liam Baker","Richmond","Back","Home","West Coast Eagles",13,0,0,9,22,89,0,0,0,21,14,35,25,32,23.3333333333333,25.4
+"2954",2023,8,"MCG","Shai Bolton","Richmond","Mid","Home","West Coast Eagles",16,3,2,15,31,85,14,0,0,19,20,22,16,22,20.3333333333333,19.8
+"2955",2023,8,"MCG","Dion Prestia","Richmond","Forward","Home","West Coast Eagles",12,3,0,11,23,87,9,0,0,20,22,20,20,21,20.6666666666667,20.6
+"2956",2023,8,"MCG","Jack Riewoldt","Richmond","Forward","Home","West Coast Eagles",8,0,0,4,12,89,0,0,0,4,11,8,6,9,7.66666666666667,7.6
+"2957",2023,8,"MCG","Jayden Short","Richmond","Mid","Home","West Coast Eagles",16,0,0,2,18,75,12,0,0,32,30,20,17,NA,27.3333333333333,NA
+"2958",2023,8,"MCG","Dustin Martin","Richmond","Forward","Home","West Coast Eagles",16,1,1,11,27,84,9,0,0,19,25,17,23,14,20.3333333333333,19.6
+"2959",2023,8,"MCG","Daniel Rioli","Richmond","Back","Home","West Coast Eagles",14,0,0,8,22,85,0,2,2,21,21,22,29,25,21.3333333333333,23.6
+"2960",2023,8,"MCG","Noah Balta","Richmond","Back","Home","West Coast Eagles",10,0,0,3,13,88,0,1,1,10,10,20,16,11,13.3333333333333,13.4
+"2961",2023,8,"MCG","Jack Graham","Richmond","Forward","Home","West Coast Eagles",5,1,1,7,12,79,0,0,0,10,14,15,20,NA,13,NA
+"2962",2023,8,"MCG","Noah Cumberland","Richmond","INT","Home","West Coast Eagles",0,0,0,2,2,31,0,0,0,6,7,7,21,7,6.66666666666667,9.6
+"2963",2023,8,"MCG","Jack Ross","Richmond","Mid","Home","West Coast Eagles",9,0,0,13,22,83,0,0,0,17,23,4,NA,NA,14.6666666666667,NA
+"2964",2023,8,"MCG","Nathan Broad","Richmond","Back","Home","West Coast Eagles",10,0,0,6,16,91,0,5,2,20,16,13,NA,NA,16.3333333333333,NA
+"2965",2023,8,"MCG","Marlion Pickett","Richmond","Forward","Home","West Coast Eagles",9,1,1,6,15,79,0,0,0,18,23,14,20,19,18.3333333333333,18.8
+"2966",2023,8,"MCG","Tim Taranto","Richmond","Mid","Home","West Coast Eagles",14,2,1,16,30,77,18,0,0,32,33,34,27,29,33,31
+"2967",2023,8,"MCG","Ben Miller","Richmond","Ruck","Home","West Coast Eagles",8,1,0,5,13,76,13,0,0,2,6,15,9,NA,7.66666666666667,NA
+"2968",2023,8,"MCG","Greg Clark","West Coast Eagles","Mid","Away","Richmond",8,0,0,5,13,88,0,0,0,12,19,18,15,NA,16.3333333333333,NA
+"2969",2023,8,"MCG","Reuben Ginbey","West Coast Eagles","Mid","Away","Richmond",5,0,0,11,16,64,11,0,0,10,12,9,14,20,10.3333333333333,13
+"2970",2023,8,"MCG","Oscar Allen","West Coast Eagles","Forward","Away","Richmond",12,4,0,3,15,81,0,0,0,9,9,14,14,12,10.6666666666667,11.6
+"2971",2023,8,"MCG","Andrew Gaff","West Coast Eagles","INT","Away","Richmond",8,0,0,6,14,81,6,0,0,17,32,18,24,28,22.3333333333333,23.8
+"2972",2023,8,"MCG","Xavier O'Neill","West Coast Eagles","INT","Away","Richmond",8,0,1,5,13,70,5,0,0,16,11,8,NA,NA,11.6666666666667,NA
+"2973",2023,8,"MCG","Tim Kelly","West Coast Eagles","Mid","Away","Richmond",11,0,0,18,29,82,20,0,0,27,34,22,36,33,27.6666666666667,30.4
+"2974",2023,8,"MCG","Zane Trew","West Coast Eagles","SUB","Away","Richmond",3,0,0,6,9,62,3,0,0,9,NA,NA,NA,NA,NA,NA
+"2975",2023,8,"MCG","Jack Petruccelle","West Coast Eagles","Forward","Away","Richmond",8,1,0,5,13,78,3,0,0,10,14,10,1,NA,11.3333333333333,NA
+"2976",2023,8,"MCG","Bailey J. Williams","West Coast Eagles","Ruck","Away","Richmond",8,1,0,5,13,84,22,0,0,13,21,12,17,13,15.3333333333333,15.2
+"2977",2023,8,"MCG","Connor West","West Coast Eagles","Forward","Away","Richmond",7,1,1,7,14,84,0,0,0,13,14,4,11,NA,10.3333333333333,NA
+"2978",2023,8,"MCG","Liam Duggan","West Coast Eagles","Back","Away","Richmond",20,0,0,7,27,86,11,2,2,23,20,23,19,18,22,20.6
+"2979",2023,8,"MCG","Dom Sheed","West Coast Eagles","Mid","Away","Richmond",14,0,0,15,29,76,19,0,0,22,26,25,NA,NA,24.3333333333333,NA
+"2980",2023,8,"MCG","Alex Witherden","West Coast Eagles","Back","Away","Richmond",14,0,0,6,20,83,0,2,2,15,23,19,7,15,19,15.8
+"2981",2023,8,"MCG","Luke Edwards","West Coast Eagles","Forward","Away","Richmond",6,0,0,5,11,78,3,0,0,15,17,10,16,NA,14,NA
+"2982",2023,8,"MCG","Tom Barrass","West Coast Eagles","Back","Away","Richmond",6,0,0,3,9,95,0,0,0,4,17,11,17,21,10.6666666666667,14
+"2983",2023,8,"MCG","Shannon Hurn","West Coast Eagles","Back","Away","Richmond",15,0,0,7,22,79,0,8,8,19,12,27,21,25,19.3333333333333,20.8
+"2984",2023,8,"MCG","Jamaine Jones","West Coast Eagles","Back","Away","Richmond",18,0,1,12,30,80,0,2,0,15,22,25,22,14,20.6666666666667,19.6
+"2985",2023,8,"MCG","Jai Culley","West Coast Eagles","INT","Away","Richmond",0,0,0,1,1,7,0,0,0,5,10,14,12,NA,9.66666666666667,NA
+"2986",2023,8,"MCG","Luke Foley","West Coast Eagles","Back","Away","Richmond",5,0,0,6,11,81,0,0,0,9,15,NA,NA,NA,NA,NA
+"2987",2023,8,"MCG","Jake Waterman","West Coast Eagles","Forward","Away","Richmond",12,0,1,1,13,92,5,0,0,10,23,20,13,12,17.6666666666667,15.6
+"2988",2023,8,"MCG","Jack Darling","West Coast Eagles","Forward","Away","Richmond",4,1,0,0,4,97,0,0,0,8,8,12,10,9,9.33333333333333,9.4
+"2989",2023,8,"MCG","Josh Rotham","West Coast Eagles","INT","Away","Richmond",10,0,0,3,13,83,0,0,0,5,8,9,2,NA,7.33333333333333,NA
+"2990",2023,8,"MCG","Jayden Hunt","West Coast Eagles","Mid","Away","Richmond",14,0,1,5,19,89,0,0,0,23,19,17,20,22,19.6666666666667,20.2
+"2991",2023,8,"GMHBA Stadium","Mitch Knevitt","Geelong Cats","INT","Home","Adelaide Crows",6,1,0,9,15,58,3,0,0,15,3,NA,NA,NA,NA,NA
+"2992",2023,8,"GMHBA Stadium","Gryan Miers","Geelong Cats","Forward","Home","Adelaide Crows",6,1,0,6,12,80,0,0,0,24,17,17,25,16,19.3333333333333,19.8
+"2993",2023,8,"GMHBA Stadium","Tom Atkins","Geelong Cats","Mid","Home","Adelaide Crows",8,1,0,9,17,78,24,0,0,17,16,15,14,21,16,16.6
+"2994",2023,8,"GMHBA Stadium","Mark Blicavs","Geelong Cats","Mid","Home","Adelaide Crows",8,1,0,8,16,82,24,0,0,15,15,17,9,17,15.6666666666667,14.6
+"2995",2023,8,"GMHBA Stadium","Jeremy Cameron","Geelong Cats","Forward","Home","Adelaide Crows",14,3,2,1,15,95,0,0,0,20,17,18,22,15,18.3333333333333,18.4
+"2996",2023,8,"GMHBA Stadium","Patrick Dangerfield","Geelong Cats","Mid","Home","Adelaide Crows",13,0,0,3,16,38,15,0,0,28,31,23,27,19,27.3333333333333,25.6
+"2997",2023,8,"GMHBA Stadium","Oliver Dempsey","Geelong Cats","SUB","Home","Adelaide Crows",3,0,1,3,6,30,0,0,0,NA,NA,NA,NA,NA,NA,NA
+"2998",2023,8,"GMHBA Stadium","Zach Guthrie","Geelong Cats","Back","Home","Adelaide Crows",11,0,0,7,18,84,0,0,0,18,13,12,19,13,14.3333333333333,15
+"2999",2023,8,"GMHBA Stadium","Max Holmes","Geelong Cats","INT","Home","Adelaide Crows",13,1,0,9,22,72,10,0,0,18,23,20,26,15,20.3333333333333,20.4
+"3000",2023,8,"GMHBA Stadium","Sam Simpson","Geelong Cats","INT","Home","Adelaide Crows",5,2,1,4,9,80,0,0,0,10,14,NA,NA,NA,NA,NA
+"3001",2023,8,"GMHBA Stadium","Isaac Smith","Geelong Cats","Mid","Home","Adelaide Crows",14,1,2,7,21,82,0,0,0,19,19,23,27,23,20.3333333333333,22.2
+"3002",2023,8,"GMHBA Stadium","Jonathon Ceglar","Geelong Cats","Ruck","Home","Adelaide Crows",6,0,0,6,12,75,21,0,0,14,NA,NA,NA,NA,NA,NA
+"3003",2023,8,"GMHBA Stadium","Mark O'Connor","Geelong Cats","Back","Home","Adelaide Crows",11,0,0,5,16,86,2,0,0,13,16,11,15,15,13.3333333333333,14
+"3004",2023,8,"GMHBA Stadium","Esava Ratugolea","Geelong Cats","Back","Home","Adelaide Crows",7,0,0,6,13,94,0,0,0,5,11,14,13,11,10,10.8
+"3005",2023,8,"GMHBA Stadium","Mitch Duncan","Geelong Cats","Mid","Home","Adelaide Crows",17,0,0,3,20,85,0,2,2,16,16,14,31,NA,15.3333333333333,NA
+"3006",2023,8,"GMHBA Stadium","Zach Tuohy","Geelong Cats","Back","Home","Adelaide Crows",9,0,0,3,12,81,0,0,0,11,14,15,21,18,13.3333333333333,15.8
+"3007",2023,8,"GMHBA Stadium","Tom Stewart","Geelong Cats","Back","Home","Adelaide Crows",17,0,0,7,24,90,0,3,3,26,23,24,20,29,24.3333333333333,24.4
+"3008",2023,8,"GMHBA Stadium","Brad Close","Geelong Cats","Forward","Home","Adelaide Crows",1,0,0,10,11,83,0,0,0,15,15,16,17,12,15.3333333333333,15
+"3009",2023,8,"GMHBA Stadium","Jake Kolodjashnij","Geelong Cats","Back","Home","Adelaide Crows",10,0,0,5,15,95,0,0,0,9,17,14,15,NA,13.3333333333333,NA
+"3010",2023,8,"GMHBA Stadium","Tom Hawkins","Geelong Cats","Forward","Home","Adelaide Crows",8,1,2,6,14,100,0,0,0,16,8,14,15,5,12.6666666666667,11.6
+"3011",2023,8,"GMHBA Stadium","Oliver Henry","Geelong Cats","Forward","Home","Adelaide Crows",7,1,3,2,9,81,0,0,0,17,11,15,9,13,14.3333333333333,13
+"3012",2023,8,"GMHBA Stadium","Jed Bews","Geelong Cats","Forward","Home","Adelaide Crows",1,0,0,8,9,84,0,0,0,12,2,13,10,11,9,9.6
+"3013",2023,8,"GMHBA Stadium","Tanner Bruhn","Geelong Cats","INT","Home","Adelaide Crows",8,1,0,5,13,65,17,0,0,11,12,10,17,NA,11,NA
+"3014",2023,8,"GMHBA Stadium","Jordan Dawson","Adelaide Crows","Mid","Away","Geelong Cats",18,0,0,11,29,85,22,0,0,30,24,32,27,18,28.6666666666667,26.2
+"3015",2023,8,"GMHBA Stadium","Chayce Jones","Adelaide Crows","Forward","Away","Geelong Cats",10,0,0,6,16,87,0,1,1,20,9,28,21,9,19,17.4
+"3016",2023,8,"GMHBA Stadium","Jordon Butts","Adelaide Crows","Back","Away","Geelong Cats",4,0,0,7,11,94,0,0,0,10,9,13,4,7,10.6666666666667,8.6
+"3017",2023,8,"GMHBA Stadium","Matt Crouch","Adelaide Crows","SUB","Away","Geelong Cats",2,0,0,10,12,39,11,0,0,NA,NA,NA,NA,NA,NA,NA
+"3018",2023,8,"GMHBA Stadium","Darcy Fogarty","Adelaide Crows","Forward","Away","Geelong Cats",6,0,0,3,9,86,0,0,0,10,11,16,12,14,12.3333333333333,12.6
+"3019",2023,8,"GMHBA Stadium","Nick Murray","Adelaide Crows","Back","Away","Geelong Cats",4,0,0,1,5,51,0,0,0,15,8,13,8,12,12,11.2
+"3020",2023,8,"GMHBA Stadium","Josh Rachele","Adelaide Crows","INT","Away","Geelong Cats",7,0,0,1,8,69,5,0,0,18,21,22,20,18,20.3333333333333,19.8
+"3021",2023,8,"GMHBA Stadium","Izak Rankine","Adelaide Crows","Forward","Away","Geelong Cats",11,2,1,10,21,95,0,0,0,13,14,14,15,17,13.6666666666667,14.6
+"3022",2023,8,"GMHBA Stadium","Riley Thilthorpe","Adelaide Crows","INT","Away","Geelong Cats",1,0,0,4,5,61,6,0,0,15,12,8,18,11,11.6666666666667,12.8
+"3023",2023,8,"GMHBA Stadium","Taylor Walker","Adelaide Crows","Forward","Away","Geelong Cats",5,3,1,2,7,77,0,0,0,7,20,15,10,11,14,12.6
+"3024",2023,8,"GMHBA Stadium","Reilly O'Brien","Adelaide Crows","Ruck","Away","Geelong Cats",6,1,0,9,15,78,23,0,0,12,10,17,11,16,13,13.2
+"3025",2023,8,"GMHBA Stadium","Brodie Smith","Adelaide Crows","Back","Away","Geelong Cats",16,0,0,8,24,83,0,7,5,19,19,21,24,15,19.6666666666667,19.6
+"3026",2023,8,"GMHBA Stadium","Mitchell Hinge","Adelaide Crows","Back","Away","Geelong Cats",11,1,0,3,14,85,0,3,3,18,18,24,16,21,20,19.4
+"3027",2023,8,"GMHBA Stadium","Lachlan Murphy","Adelaide Crows","Forward","Away","Geelong Cats",11,0,0,8,19,80,0,0,0,12,15,16,14,18,14.3333333333333,15
+"3028",2023,8,"GMHBA Stadium","Luke Pedlar","Adelaide Crows","Forward","Away","Geelong Cats",7,2,0,1,8,85,0,0,0,13,15,8,12,12,12,12
+"3029",2023,8,"GMHBA Stadium","Jake Soligo","Adelaide Crows","Mid","Away","Geelong Cats",12,0,1,8,20,82,10,0,0,24,25,4,21,13,17.6666666666667,17.4
+"3030",2023,8,"GMHBA Stadium","Tom Doedee","Adelaide Crows","Back","Away","Geelong Cats",9,0,0,8,17,100,0,1,1,24,12,24,18,10,20,17.6
+"3031",2023,8,"GMHBA Stadium","Rory Laird","Adelaide Crows","Mid","Away","Geelong Cats",8,0,1,13,21,81,23,0,0,29,29,37,28,26,31.6666666666667,29.8
+"3032",2023,8,"GMHBA Stadium","Max Michalanney","Adelaide Crows","INT","Away","Geelong Cats",10,0,0,2,12,67,0,0,0,12,6,10,16,12,9.33333333333333,11.2
+"3033",2023,8,"GMHBA Stadium","Wayne Milera","Adelaide Crows","Back","Away","Geelong Cats",8,0,0,10,18,80,0,2,2,13,11,23,18,15,15.6666666666667,16
+"3034",2023,8,"GMHBA Stadium","Ben Keays","Adelaide Crows","Mid","Away","Geelong Cats",6,0,0,6,12,80,0,0,0,12,12,16,19,19,13.3333333333333,15.6
+"3035",2023,8,"GMHBA Stadium","Lachlan Sholl","Adelaide Crows","Mid","Away","Geelong Cats",5,1,0,7,12,83,0,0,0,18,23,16,14,16,19,17.4
+"3036",2023,8,"GMHBA Stadium","Rory Sloane","Adelaide Crows","INT","Away","Geelong Cats",12,1,0,6,18,73,16,0,0,18,30,17,23,22,21.6666666666667,22
+"3037",2023,8,"Heritage Bank Stadium","Darcy Macpherson","Gold Coast Suns","Back","Home","Melbourne",22,0,1,8,30,92,0,0,0,31,24,17,25,24,24,24.2
+"3038",2023,8,"Heritage Bank Stadium","Matt Rowell","Gold Coast Suns","Mid","Home","Melbourne",14,0,0,4,18,87,22,0,0,26,18,17,12,24,20.3333333333333,19.4
+"3039",2023,8,"Heritage Bank Stadium","Noah Anderson","Gold Coast Suns","Mid","Home","Melbourne",16,1,0,21,37,85,21,0,0,32,28,25,38,21,28.3333333333333,28.8
+"3040",2023,8,"Heritage Bank Stadium","Jarrod Witts","Gold Coast Suns","Ruck","Home","Melbourne",6,0,0,7,13,85,24,0,0,16,17,13,12,25,15.3333333333333,16.6
+"3041",2023,8,"Heritage Bank Stadium","Thomas Berry","Gold Coast Suns","Forward","Home","Melbourne",5,0,0,5,10,80,0,0,0,NA,NA,NA,NA,NA,NA,NA
+"3042",2023,8,"Heritage Bank Stadium","Bailey Humphrey","Gold Coast Suns","INT","Home","Melbourne",10,0,0,5,15,75,0,0,0,1,10,5,11,NA,5.33333333333333,NA
+"3043",2023,8,"Heritage Bank Stadium","David Swallow","Gold Coast Suns","Mid","Home","Melbourne",9,0,0,16,25,82,23,0,0,17,16,20,17,15,17.6666666666667,17
+"3044",2023,8,"Heritage Bank Stadium","Rory Atkins","Gold Coast Suns","INT","Home","Melbourne",19,0,1,3,22,75,0,5,5,25,NA,NA,NA,NA,NA,NA
+"3045",2023,8,"Heritage Bank Stadium","Sam Flanders","Gold Coast Suns","INT","Home","Melbourne",9,0,0,4,13,54,1,0,0,7,11,19,NA,NA,12.3333333333333,NA
+"3046",2023,8,"Heritage Bank Stadium","Brandon Ellis","Gold Coast Suns","Mid","Home","Melbourne",7,1,0,4,11,85,0,0,0,25,21,16,NA,NA,20.6666666666667,NA
+"3047",2023,8,"Heritage Bank Stadium","Mabior Chol","Gold Coast Suns","Forward","Home","Melbourne",4,2,0,1,5,75,4,0,0,3,13,8,6,NA,8,NA
+"3048",2023,8,"Heritage Bank Stadium","Wil Powell","Gold Coast Suns","Back","Home","Melbourne",18,0,0,7,25,84,0,4,2,28,20,13,19,15,20.3333333333333,19
+"3049",2023,8,"Heritage Bank Stadium","Malcolm Rosas","Gold Coast Suns","Forward","Home","Melbourne",6,4,0,3,9,70,1,0,0,6,3,9,11,7,6,7.2
+"3050",2023,8,"Heritage Bank Stadium","Jack Lukosius","Gold Coast Suns","Forward","Home","Melbourne",13,1,3,2,15,87,0,2,2,12,20,19,11,13,17,15
+"3051",2023,8,"Heritage Bank Stadium","Charlie Ballard","Gold Coast Suns","Back","Home","Melbourne",15,0,0,1,16,85,0,0,0,24,17,10,13,14,17,15.6
+"3052",2023,8,"Heritage Bank Stadium","Sean Lemmens","Gold Coast Suns","Back","Home","Melbourne",6,0,1,4,10,71,0,0,0,13,13,8,NA,NA,11.3333333333333,NA
+"3053",2023,8,"Heritage Bank Stadium","Ben King","Gold Coast Suns","Forward","Home","Melbourne",4,2,0,1,5,84,0,0,0,10,10,4,6,7,8,7.4
+"3054",2023,8,"Heritage Bank Stadium","Sam Collins","Gold Coast Suns","Back","Home","Melbourne",5,0,0,3,8,100,0,0,0,14,12,10,17,16,12,13.8
+"3055",2023,8,"Heritage Bank Stadium","Alex Davies","Gold Coast Suns","INT","Home","Melbourne",3,0,0,9,12,66,10,0,0,10,16,NA,NA,NA,NA,NA
+"3056",2023,8,"Heritage Bank Stadium","Levi Casboult","Gold Coast Suns","Forward","Home","Melbourne",7,2,0,2,9,100,0,0,0,10,13,18,8,4,13.6666666666667,10.6
+"3057",2023,8,"Heritage Bank Stadium","Brayden Fiorini","Gold Coast Suns","Mid","Home","Melbourne",17,0,0,7,24,82,6,0,0,20,21,14,8,9,18.3333333333333,14.4
+"3058",2023,8,"Heritage Bank Stadium","James Tsitas","Gold Coast Suns","SUB","Home","Melbourne",2,0,0,0,2,21,0,0,0,NA,NA,NA,NA,NA,NA,NA
+"3059",2023,8,"Heritage Bank Stadium","Ben Long","Gold Coast Suns","Back","Home","Melbourne",10,0,0,4,14,77,0,0,0,12,12,9,9,19,11,12.2
+"3060",2023,8,"Heritage Bank Stadium","Jake Lever","Melbourne","Back","Away","Gold Coast Suns",5,0,0,5,10,100,0,0,0,11,20,16,14,20,15.6666666666667,16.2
+"3061",2023,8,"Heritage Bank Stadium","Ed Langdon","Melbourne","Forward","Away","Gold Coast Suns",5,0,1,7,12,88,0,0,0,20,20,24,22,24,21.3333333333333,22
+"3062",2023,8,"Heritage Bank Stadium","Alex Neal-Bullen","Melbourne","Forward","Away","Gold Coast Suns",5,1,1,3,8,73,0,0,0,19,11,17,15,15,15.6666666666667,15.4
+"3063",2023,8,"Heritage Bank Stadium","Clayton Oliver","Melbourne","Mid","Away","Gold Coast Suns",12,0,0,16,28,80,24,0,0,37,31,41,34,25,36.3333333333333,33.6
+"3064",2023,8,"Heritage Bank Stadium","Max Gawn","Melbourne","Ruck","Away","Gold Coast Suns",9,2,1,6,15,90,14,0,0,14,17,1,21,NA,10.6666666666667,NA
+"3065",2023,8,"Heritage Bank Stadium","Daniel Turner","Melbourne","Back","Away","Gold Coast Suns",8,0,0,1,9,74,0,0,0,NA,NA,NA,NA,NA,NA,NA
+"3066",2023,8,"Heritage Bank Stadium","Kysaiah Pickett","Melbourne","Forward","Away","Gold Coast Suns",5,2,0,3,8,84,3,0,0,16,8,11,15,19,11.6666666666667,13.8
+"3067",2023,8,"Heritage Bank Stadium","Lachie Hunter","Melbourne","Mid","Away","Gold Coast Suns",13,0,0,10,23,88,0,0,0,20,20,22,27,23,20.6666666666667,22.4
+"3068",2023,8,"Heritage Bank Stadium","Brodie Grundy","Melbourne","INT","Away","Gold Coast Suns",4,2,0,2,6,68,14,0,0,18,15,18,22,21,17,18.8
+"3069",2023,8,"Heritage Bank Stadium","Tom Sparrow","Melbourne","INT","Away","Gold Coast Suns",8,1,1,7,15,67,12,0,0,23,20,13,20,10,18.6666666666667,17.2
+"3070",2023,8,"Heritage Bank Stadium","Steven May","Melbourne","Back","Away","Gold Coast Suns",11,0,0,2,13,100,0,6,5,14,22,13,19,20,16.3333333333333,17.6
+"3071",2023,8,"Heritage Bank Stadium","Judd McVee","Melbourne","Back","Away","Gold Coast Suns",5,0,0,7,12,75,0,0,0,13,16,14,16,18,14.3333333333333,15.4
+"3072",2023,8,"Heritage Bank Stadium","Jake Bowey","Melbourne","INT","Away","Gold Coast Suns",12,1,0,5,17,77,0,1,1,18,13,22,18,16,17.6666666666667,17.4
+"3073",2023,8,"Heritage Bank Stadium","Harrison Petty","Melbourne","Back","Away","Gold Coast Suns",5,0,0,4,9,81,0,0,0,8,17,10,13,8,11.6666666666667,11.2
+"3074",2023,8,"Heritage Bank Stadium","Jack Viney","Melbourne","Mid","Away","Gold Coast Suns",11,0,1,10,21,80,20,0,0,22,30,28,22,19,26.6666666666667,24.2
+"3075",2023,8,"Heritage Bank Stadium","Trent Rivers","Melbourne","Back","Away","Gold Coast Suns",12,0,0,7,19,84,0,0,0,20,12,20,27,19,17.3333333333333,19.6
+"3076",2023,8,"Heritage Bank Stadium","Christian Petracca","Melbourne","Mid","Away","Gold Coast Suns",12,1,1,14,26,83,15,0,0,35,26,27,29,33,29.3333333333333,30
+"3077",2023,8,"Heritage Bank Stadium","Kade Chandler","Melbourne","Forward","Away","Gold Coast Suns",4,1,0,6,10,74,0,0,0,21,12,10,15,9,14.3333333333333,13.4
+"3078",2023,8,"Heritage Bank Stadium","Bayley Fritsch","Melbourne","Forward","Away","Gold Coast Suns",5,0,3,2,7,91,0,0,0,13,8,9,17,11,10,11.6
+"3079",2023,8,"Heritage Bank Stadium","James Jordon","Melbourne","INT","Away","Gold Coast Suns",7,1,0,10,17,67,7,0,0,22,17,6,8,21,15,14.8
+"3080",2023,8,"Heritage Bank Stadium","Angus Brayshaw","Melbourne","Mid","Away","Gold Coast Suns",10,0,0,14,24,80,0,0,0,29,20,12,17,19,20.3333333333333,19.4
+"3081",2023,8,"Heritage Bank Stadium","James Harmes","Melbourne","SUB","Away","Gold Coast Suns",4,0,1,2,6,18,3,0,0,3,10,15,NA,NA,9.33333333333333,NA
+"3082",2023,8,"Heritage Bank Stadium","Jacob van Rooyen","Melbourne","Forward","Away","Gold Coast Suns",5,1,0,3,8,79,0,0,0,5,8,7,9,9,6.66666666666667,7.6
+"3083",2023,8,"Manuka Oval","Xavier O'Halloran","GWS Giants","Forward","Home","Western Bulldogs",6,1,1,7,13,88,0,0,0,15,17,14,NA,NA,15.3333333333333,NA
+"3084",2023,8,"Manuka Oval","Stephen Coniglio","GWS Giants","Mid","Home","Western Bulldogs",12,0,2,14,26,79,19,0,0,28,38,33,25,29,33,30.6
+"3085",2023,8,"Manuka Oval","Josh Kelly","GWS Giants","Mid","Home","Western Bulldogs",13,0,1,21,34,84,20,0,0,27,41,21,28,30,29.6666666666667,29.4
+"3086",2023,8,"Manuka Oval","Ryan Angwin","GWS Giants","Mid","Home","Western Bulldogs",4,0,0,6,10,73,0,0,0,10,20,NA,NA,NA,NA,NA
+"3087",2023,8,"Manuka Oval","Callum M. Brown","GWS Giants","Back","Home","Western Bulldogs",4,0,0,4,8,74,0,0,0,13,NA,NA,NA,NA,NA,NA
+"3088",2023,8,"Manuka Oval","Harry Himmelberg","GWS Giants","Forward","Home","Western Bulldogs",12,1,0,5,17,77,13,0,0,15,20,12,5,12,15.6666666666667,12.8
+"3089",2023,8,"Manuka Oval","Callan Ward","GWS Giants","Forward","Home","Western Bulldogs",4,2,0,5,9,81,0,0,0,11,17,22,19,22,16.6666666666667,18.2
+"3090",2023,8,"Manuka Oval","Matt Flynn","GWS Giants","Ruck","Home","Western Bulldogs",8,0,1,8,16,72,14,0,0,8,11,10,7,13,9.66666666666667,9.8
+"3091",2023,8,"Manuka Oval","Lachie Ash","GWS Giants","Back","Home","Western Bulldogs",20,0,0,8,28,80,0,0,0,24,20,18,26,30,20.6666666666667,23.6
+"3092",2023,8,"Manuka Oval","Finn Callaghan","GWS Giants","Mid","Home","Western Bulldogs",12,0,0,12,24,86,0,0,0,26,19,18,25,13,21,20.2
+"3093",2023,8,"Manuka Oval","Tom Green","GWS Giants","Mid","Home","Western Bulldogs",21,3,1,17,38,85,22,0,0,31,32,34,34,27,32.3333333333333,31.6
+"3094",2023,8,"Manuka Oval","Lachie Whitfield","GWS Giants","Back","Home","Western Bulldogs",21,0,0,10,31,80,0,5,3,23,23,23,24,27,23,24
+"3095",2023,8,"Manuka Oval","Daniel Lloyd","GWS Giants","INT","Home","Western Bulldogs",5,1,0,7,12,74,0,0,0,10,13,15,13,10,12.6666666666667,12.2
+"3096",2023,8,"Manuka Oval","Jesse Hogan","GWS Giants","Forward","Home","Western Bulldogs",10,2,3,7,17,86,0,0,0,9,10,16,15,9,11.6666666666667,11.8
+"3097",2023,8,"Manuka Oval","Isaac Cumming","GWS Giants","Back","Home","Western Bulldogs",12,0,0,4,16,80,0,3,2,17,17,25,22,22,19.6666666666667,20.6
+"3098",2023,8,"Manuka Oval","Nick Haynes","GWS Giants","INT","Home","Western Bulldogs",18,0,0,11,29,91,0,0,0,18,27,15,26,22,20,21.6
+"3099",2023,8,"Manuka Oval","Brent Daniels","GWS Giants","Forward","Home","Western Bulldogs",7,0,1,10,17,85,0,0,0,13,20,22,15,13,18.3333333333333,16.6
+"3100",2023,8,"Manuka Oval","Aaron Cadman","GWS Giants","INT","Home","Western Bulldogs",3,0,0,0,3,50,0,0,0,4,5,6,NA,NA,5,NA
+"3101",2023,8,"Manuka Oval","Connor Idun","GWS Giants","Back","Home","Western Bulldogs",13,0,0,15,28,95,0,0,0,12,18,23,15,14,17.6666666666667,16.4
+"3102",2023,8,"Manuka Oval","Harry Perryman","GWS Giants","INT","Home","Western Bulldogs",7,0,0,11,18,67,13,0,0,21,24,1,NA,NA,15.3333333333333,NA
+"3103",2023,8,"Manuka Oval","Toby Bedford","GWS Giants","Forward","Home","Western Bulldogs",7,0,0,5,12,82,7,0,0,10,NA,NA,NA,NA,NA,NA
+"3104",2023,8,"Manuka Oval","Jack Buckley","GWS Giants","Back","Home","Western Bulldogs",10,0,0,6,16,100,0,0,0,17,20,16,14,12,17.6666666666667,15.8
+"3105",2023,8,"Manuka Oval","James Peatling","GWS Giants","SUB","Home","Western Bulldogs",6,0,0,1,7,29,0,0,0,16,14,7,7,9,12.3333333333333,10.6
+"3106",2023,8,"Manuka Oval","Taylor Duryea","Western Bulldogs","Back","Away","GWS Giants",10,0,0,2,12,72,0,0,0,10,12,8,19,11,10,12
+"3107",2023,8,"Manuka Oval","Ed Richards","Western Bulldogs","Back","Away","GWS Giants",15,0,0,6,21,83,0,3,2,19,16,22,19,25,19,20.2
+"3108",2023,8,"Manuka Oval","Aaron Naughton","Western Bulldogs","Forward","Away","GWS Giants",7,3,2,4,11,86,0,0,0,15,11,13,10,13,13,12.4
+"3109",2023,8,"Manuka Oval","Rory Lobb","Western Bulldogs","Forward","Away","GWS Giants",5,2,0,2,7,81,4,0,0,9,12,8,14,4,9.66666666666667,9.4
+"3110",2023,8,"Manuka Oval","Liam Jones","Western Bulldogs","Back","Away","GWS Giants",8,0,0,2,10,100,0,0,0,10,10,15,7,10,11.6666666666667,10.4
+"3111",2023,8,"Manuka Oval","Oskar Baker","Western Bulldogs","Mid","Away","GWS Giants",7,0,0,8,15,75,0,0,0,20,15,11,20,18,15.3333333333333,16.8
+"3112",2023,8,"Manuka Oval","Bailey Dale","Western Bulldogs","Back","Away","GWS Giants",14,0,0,1,15,79,0,4,3,25,16,15,30,30,18.6666666666667,23.2
+"3113",2023,8,"Manuka Oval","Arthur Jones","Western Bulldogs","INT","Away","GWS Giants",5,2,0,7,12,78,0,0,0,12,9,5,9,5,8.66666666666667,8
+"3114",2023,8,"Manuka Oval","Lachlan McNeil","Western Bulldogs","SUB","Away","GWS Giants",0,0,0,3,3,18,0,0,0,10,4,NA,NA,NA,NA,NA
+"3115",2023,8,"Manuka Oval","Tom Liberatore","Western Bulldogs","Forward","Away","GWS Giants",13,1,1,16,29,80,22,0,0,25,27,23,29,24,25,25.6
+"3116",2023,8,"Manuka Oval","Anthony Scott","Western Bulldogs","INT","Away","GWS Giants",7,1,0,6,13,75,0,0,0,11,8,12,12,16,10.3333333333333,11.8
+"3117",2023,8,"Manuka Oval","Caleb Daniel","Western Bulldogs","INT","Away","GWS Giants",11,0,0,9,20,79,13,0,0,27,22,24,19,19,24.3333333333333,22.2
+"3118",2023,8,"Manuka Oval","Alex Keath","Western Bulldogs","INT","Away","GWS Giants",6,0,0,3,9,94,0,0,0,18,10,2,21,17,10,13.6
+"3119",2023,8,"Manuka Oval","Bailey Williams","Western Bulldogs","Mid","Away","GWS Giants",7,0,0,9,16,83,0,0,0,24,23,11,16,17,19.3333333333333,18.2
+"3120",2023,8,"Manuka Oval","Jack Macrae","Western Bulldogs","Mid","Away","GWS Giants",15,0,0,14,29,81,11,0,0,26,29,24,21,30,26.3333333333333,26
+"3121",2023,8,"Manuka Oval","Tim English","Western Bulldogs","Ruck","Away","GWS Giants",14,0,0,9,23,86,23,0,0,11,20,23,20,16,18,18
+"3122",2023,8,"Manuka Oval","Ryan Gardner","Western Bulldogs","Back","Away","GWS Giants",11,0,0,1,12,95,0,0,0,NA,NA,NA,NA,NA,NA,NA
+"3123",2023,8,"Manuka Oval","Bailey Smith","Western Bulldogs","Forward","Away","GWS Giants",14,0,0,18,32,85,0,0,0,24,24,19,28,27,22.3333333333333,24.4
+"3124",2023,8,"Manuka Oval","Cody Weightman","Western Bulldogs","Forward","Away","GWS Giants",3,1,0,5,8,72,0,0,0,3,7,11,NA,NA,7,NA
+"3125",2023,8,"Manuka Oval","Jason Johannisen","Western Bulldogs","Back","Away","GWS Giants",14,1,0,4,18,79,0,3,3,24,22,28,21,15,24.6666666666667,22
+"3126",2023,8,"Manuka Oval","Jamarra Ugle-Hagan","Western Bulldogs","Forward","Away","GWS Giants",7,1,1,2,9,84,0,0,0,10,16,9,12,9,11.6666666666667,11.2
+"3127",2023,8,"Manuka Oval","Marcus Bontempelli","Western Bulldogs","Mid","Away","GWS Giants",20,1,1,12,32,81,23,0,0,19,31,23,25,28,24.3333333333333,25.2
+"3128",2023,8,"Manuka Oval","Adam Treloar","Western Bulldogs","Mid","Away","GWS Giants",10,0,0,14,24,54,12,0,0,23,35,35,25,28,31,29.2
+"3129",2023,8,"Optus Stadium","Luke Ryan","Fremantle","Back","Home","Hawthorn",21,0,0,6,27,92,0,5,5,18,30,17,22,19,21.6666666666667,21.2
+"3130",2023,8,"Optus Stadium","Sean Darcy","Fremantle","Ruck","Home","Hawthorn",4,0,0,7,11,78,22,0,0,18,12,18,17,20,16,17
+"3131",2023,8,"Optus Stadium","Brennan Cox","Fremantle","Back","Home","Hawthorn",13,0,0,5,18,86,0,0,0,23,14,14,14,8,17,14.6
+"3132",2023,8,"Optus Stadium","Brandon Walker","Fremantle","Back","Home","Hawthorn",9,0,0,4,13,82,0,0,0,14,8,16,12,NA,12.6666666666667,NA
+"3133",2023,8,"Optus Stadium","Ethan Hughes","Fremantle","INT","Home","Hawthorn",10,0,0,7,17,80,0,0,0,16,10,10,19,12,12,13.4
+"3134",2023,8,"Optus Stadium","James Aish","Fremantle","Mid","Home","Hawthorn",12,0,1,11,23,79,0,0,0,18,11,16,17,31,15,18.6
+"3135",2023,8,"Optus Stadium","Jye Amiss","Fremantle","Forward","Home","Hawthorn",7,3,1,3,10,73,0,0,0,7,2,10,8,9,6.33333333333333,7.2
+"3136",2023,8,"Optus Stadium","Bailey Banfield","Fremantle","INT","Home","Hawthorn",8,2,0,6,14,78,0,0,0,8,12,16,13,16,12,13
+"3137",2023,8,"Optus Stadium","Neil Erasmus","Fremantle","INT","Home","Hawthorn",8,0,0,8,16,75,8,0,0,4,NA,NA,NA,NA,NA,NA
+"3138",2023,8,"Optus Stadium","Luke Jackson","Fremantle","Forward","Home","Hawthorn",12,2,1,12,24,84,9,0,0,12,9,13,14,12,11.3333333333333,12
+"3139",2023,8,"Optus Stadium","Lachie Schultz","Fremantle","Forward","Home","Hawthorn",8,1,2,2,10,75,2,0,0,16,10,20,12,19,15.3333333333333,15.4
+"3140",2023,8,"Optus Stadium","Sam Switkowski","Fremantle","Forward","Home","Hawthorn",6,1,1,5,11,79,3,0,0,11,1,11,21,15,7.66666666666667,11.8
+"3141",2023,8,"Optus Stadium","Hayden Young","Fremantle","Back","Home","Hawthorn",17,0,0,9,26,88,0,1,1,33,23,18,17,18,24.6666666666667,21.8
+"3142",2023,8,"Optus Stadium","Caleb Serong","Fremantle","Mid","Home","Hawthorn",19,0,1,5,24,82,23,0,0,27,35,37,28,35,33,32.4
+"3143",2023,8,"Optus Stadium","Jaeger O'Meara","Fremantle","Mid","Home","Hawthorn",12,0,0,14,26,77,21,0,0,18,18,17,19,17,17.6666666666667,17.8
+"3144",2023,8,"Optus Stadium","Jordan Clark","Fremantle","Back","Home","Hawthorn",12,1,0,3,15,82,0,0,0,20,20,15,18,17,18.3333333333333,18
+"3145",2023,8,"Optus Stadium","Nathan O'Driscoll","Fremantle","Mid","Home","Hawthorn",16,0,0,4,20,86,0,0,0,14,5,12,NA,NA,10.3333333333333,NA
+"3146",2023,8,"Optus Stadium","Andrew Brayshaw","Fremantle","Mid","Home","Hawthorn",19,2,0,15,34,86,22,0,0,30,23,18,31,28,23.6666666666667,26
+"3147",2023,8,"Optus Stadium","Alex Pearce","Fremantle","Back","Home","Hawthorn",2,0,0,5,7,91,0,0,0,10,9,8,11,13,9,10.2
+"3148",2023,8,"Optus Stadium","Michael Walters","Fremantle","Forward","Home","Hawthorn",8,1,0,6,14,86,0,0,0,11,13,13,9,8,12.3333333333333,10.8
+"3149",2023,8,"Optus Stadium","Josh Treacy","Fremantle","Forward","Home","Hawthorn",3,1,1,3,6,57,0,0,0,3,NA,NA,NA,NA,NA,NA
+"3150",2023,8,"Optus Stadium","Michael Frederick","Fremantle","INT","Home","Hawthorn",11,3,0,3,14,73,0,0,0,13,12,17,12,15,14,13.8
+"3151",2023,8,"Optus Stadium","Nat Fyfe","Fremantle","SUB","Home","Hawthorn",5,1,0,5,10,32,6,0,0,9,NA,NA,NA,NA,NA,NA
+"3152",2023,8,"Optus Stadium","Will Day","Hawthorn","Back","Away","Fremantle",13,1,0,13,26,82,21,0,0,30,22,29,26,22,27,25.8
+"3153",2023,8,"Optus Stadium","Jarman Impey","Hawthorn","Back","Away","Fremantle",9,0,0,6,15,82,0,0,0,22,22,14,24,17,19.3333333333333,19.8
+"3154",2023,8,"Optus Stadium","Lachlan Bramble","Hawthorn","SUB","Away","Fremantle",3,0,0,6,9,37,1,0,0,7,22,18,NA,NA,15.6666666666667,NA
+"3155",2023,8,"Optus Stadium","Connor Macdonald","Hawthorn","INT","Away","Fremantle",8,1,1,4,12,77,0,0,0,15,17,12,16,15,14.6666666666667,15
+"3156",2023,8,"Optus Stadium","Conor Nash","Hawthorn","Mid","Away","Fremantle",7,0,0,19,26,76,23,0,0,26,28,31,10,24,28.3333333333333,23.8
+"3157",2023,8,"Optus Stadium","Jack Scrimshaw","Hawthorn","INT","Away","Fremantle",10,1,0,6,16,88,0,2,2,10,7,8,25,NA,8.33333333333333,NA
+"3158",2023,8,"Optus Stadium","Mitch Lewis","Hawthorn","Forward","Away","Fremantle",7,2,0,4,11,84,0,0,0,16,NA,NA,NA,NA,NA,NA
+"3159",2023,8,"Optus Stadium","Ned Reeves","Hawthorn","Ruck","Away","Fremantle",1,0,1,7,8,73,15,0,0,15,4,10,3,9,9.66666666666667,8.2
+"3160",2023,8,"Optus Stadium","Josh Ward","Hawthorn","Mid","Away","Fremantle",9,0,0,6,15,73,4,0,0,20,20,23,27,19,21,21.8
+"3161",2023,8,"Optus Stadium","James Worpel","Hawthorn","Mid","Away","Fremantle",16,0,0,9,25,76,17,0,0,25,21,35,18,15,27,22.8
+"3162",2023,8,"Optus Stadium","Tyler Brockman","Hawthorn","Forward","Away","Fremantle",2,0,1,7,9,68,0,0,0,11,10,16,5,11,12.3333333333333,10.6
+"3163",2023,8,"Optus Stadium","Lloyd Meek","Hawthorn","Forward","Away","Fremantle",3,0,0,9,12,80,14,0,0,10,10,8,9,9,9.33333333333333,9.2
+"3164",2023,8,"Optus Stadium","Sam Frost","Hawthorn","Back","Away","Fremantle",9,0,0,7,16,89,0,0,0,20,13,18,11,19,17,16.2
+"3165",2023,8,"Optus Stadium","Blake Hardwick","Hawthorn","Back","Away","Fremantle",10,0,0,13,23,81,0,0,0,27,22,18,11,23,22.3333333333333,20.2
+"3166",2023,8,"Optus Stadium","James Sicily","Hawthorn","Back","Away","Fremantle",9,0,0,12,21,93,0,3,2,26,27,20,14,28,24.3333333333333,23
+"3167",2023,8,"Optus Stadium","Chad Wingard","Hawthorn","Forward","Away","Fremantle",7,1,0,5,12,84,0,0,0,17,16,3,8,13,12,11.4
+"3168",2023,8,"Optus Stadium","Dylan Moore","Hawthorn","Forward","Away","Fremantle",13,0,1,6,19,88,0,0,0,15,19,23,17,26,19,20
+"3169",2023,8,"Optus Stadium","Fergus Greene","Hawthorn","Forward","Away","Fremantle",0,0,0,4,4,54,0,0,0,6,10,9,8,10,8.33333333333333,8.6
+"3170",2023,8,"Optus Stadium","Seamus Mitchell","Hawthorn","Mid","Away","Fremantle",10,0,0,4,14,80,0,3,2,11,15,17,NA,NA,14.3333333333333,NA
+"3171",2023,8,"Optus Stadium","Jai Newcombe","Hawthorn","INT","Away","Fremantle",9,1,0,11,20,84,21,0,0,24,26,31,15,22,27,23.6
+"3172",2023,8,"Optus Stadium","Karl Amon","Hawthorn","Mid","Away","Fremantle",15,0,1,10,25,85,0,0,0,18,22,20,18,24,20,20.4
+"3173",2023,8,"Optus Stadium","Harry Morrison","Hawthorn","INT","Away","Fremantle",17,0,0,7,24,84,0,0,0,18,18,18,17,24,18,19
+"3174",2023,8,"Optus Stadium","Josh Weddle","Hawthorn","Back","Away","Fremantle",4,0,0,8,12,82,0,1,1,8,NA,NA,NA,NA,NA,NA

@@ -56,4 +56,4 @@ player_stats_by_home_away <- player_stats_all %>%
   ungroup() %>%
   mutate(mean_disposals = round(mean_disposals, digits = 2))
 
-write.csv(player_stats_all, file = "data/csv/player_stats_all.csv")
+write.csv(player_stats_all, file = "player_stats_all.csv")

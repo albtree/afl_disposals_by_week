@@ -39,7 +39,9 @@ player_stats_all <- do.call(bind_rows, player_stats) %>% as.data.frame() %>%
   rowwise() %>%
   mutate(disposals_last_3 = mean(c(disposals, disposals_lag_1, disposals_lag_2)),
          disposals_last_5 = mean(c(disposals, disposals_lag_1, disposals_lag_2, disposals_lag_3, disposals_lag_4))) %>%
-  ungroup()
+  ungroup()%>%
+  mutate(disposals_last_3 = round(disposals_last_3, digits = 2),
+         disposals_last_5 = round(disposals_last_5, digits = 2))
 
 player_stats_2023 <- player_stats_all %>% filter(season == 2023)
 

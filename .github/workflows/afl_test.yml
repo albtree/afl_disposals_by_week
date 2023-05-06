@@ -15,4 +15,4 @@ jobs:
       - name: Update Disposals
         run: >-
           Rscript -e
-          'source("afl_disposals_by_week/R/afl_disposals_by_week_git.R")'
+          'source("R/afl_disposals_by_week_git.R")'

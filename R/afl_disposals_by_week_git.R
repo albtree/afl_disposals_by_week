@@ -1,12 +1,14 @@
 library(tidyverse)
 library(fitzRoy)
 
-player_stats <- vector("list", length = 30)
-for(varx in 2014:2023){
-  player_stats[[varx]] <- try(fetch_player_stats(season = varx)) %>%
-    mutate(season = varx)
-}
-player_stats_all <- do.call(bind_rows, player_stats) %>% as.data.frame() %>%
+#player_stats <- vector("list", length = 30)
+#for(varx in 2014:2023){
+  #player_stats[[varx]] <- try(fetch_player_stats(season = varx)) %>%
+   # mutate(season = varx)
+#}
+#player_stats_all <- do.call(bind_rows, player_stats) %>% as.data.frame() %>%
+player_stats_all <- fetch_player_stats(season = 2023) %>%
+  mutate(season = 2023) %>%
   mutate(full_name = paste(player.givenName, player.surname)) %>%
   mutate(starting_position = case_when(player.player.position  == "RK" ~ "Ruck",
                                        player.player.position == "R" ~ "Mid",
@@ -54,4 +56,4 @@ player_stats_by_home_away <- player_stats_all %>%
   ungroup() %>%
   mutate(mean_disposals = round(mean_disposals, digits = 2))
 
-save(player_stats_all, file = paste0("data-raw/player_stats_all_", make.names(Sys.time()), ".csv"))
+#save(player_stats_all, file = paste0("data-raw/player_stats_all_", make.names(Sys.time()), ".csv"))

@@ -13,7 +13,7 @@ jobs:
           use-public-rspm: true
       - uses: r-lib/actions/setup-r-dependencies@v2
       - name: Install fitZroy
-        run: 'pak::pkg_install("jimmyday12/fitzRoy")'
+        run: pak::pkg_install("jimmyday12/fitzRoy")
       - name: Update Disposals
         run: >-
           Rscript -e

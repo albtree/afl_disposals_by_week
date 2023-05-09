@@ -1,5 +1,5 @@
 FROM rocker/shiny:4.2.1
-RUN install2.r rsconnect shiny tidyverse nflplotR ggplot2 hrbrthemes
+RUN install2.r rsconnect shiny dplyr reactable nflplotR ggplot2 hrbrthemes
 WORKDIR /home/afl_disposals_shiny2/
 COPY ui.R ui.R 
 COPY server.R server.R 

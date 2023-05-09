@@ -5,6 +5,9 @@ library(ggplot2)
 library(ggrepel)
 library(hrbrthemes)
 
+afl_df <- read.csv("player_stats_2023.csv", stringsAsFactors = FALSE) 
+afl_tog <- read.csv("player_disp_tog.csv") %>% filter(season == 2023)
+
 server <- function(input, output, session) {
   output$table <- renderReactable({reactable(afl_df,
                                              columns = list(

@@ -4,6 +4,7 @@ library(dplyr)
 library(ggplot2)
 library(ggrepel)
 library(hrbrthemes)
+library(rsconnect)
 
 # Authenticate
 setAccountInfo(name = Sys.getenv("SHINY_ACC_NAME"),

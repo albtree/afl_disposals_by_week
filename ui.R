@@ -1,6 +1,6 @@
 library(shiny)
 library(reactable)
-library(tidyverse)
+library(dplyr)
 library(ggplot2)
 library(ggrepel)
 library(hrbrthemes)

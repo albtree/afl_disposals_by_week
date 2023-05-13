@@ -27,7 +27,7 @@
 "Aaron Francis","Essendon",2022,"Away",4,4,4,2
 "Aaron Francis","Essendon",2022,"Home",10,9,11,2
 "Aaron Francis","Sydney Swans",2023,"Away",7,7,7,2
-"Aaron Francis","Sydney Swans",2023,"Home",7,7,7,1
+"Aaron Francis","Sydney Swans",2023,"Home",11,7,15,2
 "Aaron Hall","Gold Coast Suns",2014,"Away",11.11,6,16,9
 "Aaron Hall","Gold Coast Suns",2014,"Home",15.71,11,22,7
 "Aaron Hall","Gold Coast Suns",2015,"Away",20.12,3,31,8
@@ -67,7 +67,7 @@
 "Aaron Naughton","Western Bulldogs",2021,"Home",11.2,5,18,10
 "Aaron Naughton","Western Bulldogs",2022,"Away",12.82,8,16,11
 "Aaron Naughton","Western Bulldogs",2022,"Home",10.4,8,15,10
-"Aaron Naughton","Western Bulldogs",2023,"Away",11.2,10,13,5
+"Aaron Naughton","Western Bulldogs",2023,"Away",11.33,10,13,6
 "Aaron Naughton","Western Bulldogs",2023,"Home",13,11,15,3
 "Aaron Sandilands","Fremantle",2014,"Away",13.4,8,21,10
 "Aaron Sandilands","Fremantle",2014,"Home",12.45,7,20,11
@@ -108,7 +108,7 @@
 "Adam Cerra","Carlton",2022,"Away",22,2,32,8
 "Adam Cerra","Carlton",2022,"Home",24.4,13,32,10
 "Adam Cerra","Carlton",2023,"Away",24,18,30,5
-"Adam Cerra","Carlton",2023,"Home",32.33,25,39,3
+"Adam Cerra","Carlton",2023,"Home",29.25,20,39,4
 "Adam Cerra","Fremantle",2018,"Away",13.2,7,23,10
 "Adam Cerra","Fremantle",2018,"Home",14.09,8,30,11
 "Adam Cerra","Fremantle",2019,"Away",14.7,9,25,10
@@ -160,7 +160,7 @@
 "Adam Saad","Carlton",2022,"Away",22,13,27,11
 "Adam Saad","Carlton",2022,"Home",21.7,14,28,10
 "Adam Saad","Carlton",2023,"Away",21.6,17,25,5
-"Adam Saad","Carlton",2023,"Home",26,23,29,2
+"Adam Saad","Carlton",2023,"Home",25,23,29,3
 "Adam Saad","Essendon",2018,"Away",19.36,12,26,11
 "Adam Saad","Essendon",2018,"Home",14.91,2,24,11
 "Adam Saad","Essendon",2019,"Away",16.91,12,27,11
@@ -238,7 +238,7 @@
 "Aidan Corr","North Melbourne",2022,"Away",13.44,7,23,9
 "Aidan Corr","North Melbourne",2022,"Home",15.64,9,29,11
 "Aidan Corr","North Melbourne",2023,"Away",14.6,6,22,5
-"Aidan Corr","North Melbourne",2023,"Home",15,13,17,2
+"Aidan Corr","North Melbourne",2023,"Home",14.67,13,17,3
 "Aidan Riley","Melbourne",2014,"Away",10.4,3,17,5
 "Aidan Riley","Melbourne",2014,"Home",12,4,17,4
 "Aidan Riley","Melbourne",2015,"Away",7.5,3,12,2
@@ -273,7 +273,7 @@
 "Alec Waterman","Essendon",2022,"Home",7.5,4,10,4
 "Alex Browne","Essendon",2015,"Home",9,4,17,3
 "Alex Cincotta","Carlton",2023,"Away",17,17,17,1
-"Alex Cincotta","Carlton",2023,"Home",22,20,24,2
+"Alex Cincotta","Carlton",2023,"Home",17.67,9,24,3
 "Alex Davies","Gold Coast Suns",2021,"Away",16,16,16,1
 "Alex Davies","Gold Coast Suns",2022,"Away",9,1,15,8
 "Alex Davies","Gold Coast Suns",2022,"Home",11,7,16,7
@@ -304,7 +304,7 @@
 "Alex Keath","Western Bulldogs",2021,"Home",12.89,8,20,9
 "Alex Keath","Western Bulldogs",2022,"Away",10.33,7,13,6
 "Alex Keath","Western Bulldogs",2022,"Home",11.75,5,19,8
-"Alex Keath","Western Bulldogs",2023,"Away",7.5,2,10,4
+"Alex Keath","Western Bulldogs",2023,"Away",7.8,2,10,5
 "Alex Keath","Western Bulldogs",2023,"Home",18.67,17,21,3
 "Alex Morgan","North Melbourne",2018,"Away",6,6,6,1
 "Alex Morgan","North Melbourne",2018,"Home",18,18,18,1
@@ -324,7 +324,7 @@
 "Alex Neal-Bullen","Melbourne",2021,"Home",16,11,25,11
 "Alex Neal-Bullen","Melbourne",2022,"Away",16.55,7,27,11
 "Alex Neal-Bullen","Melbourne",2022,"Home",15,10,20,10
-"Alex Neal-Bullen","Melbourne",2023,"Away",13.25,8,17,4
+"Alex Neal-Bullen","Melbourne",2023,"Away",14,8,17,5
 "Alex Neal-Bullen","Melbourne",2023,"Home",15.5,11,19,4
 "Alex Pearce","Fremantle",2015,"Away",10.29,5,16,7
 "Alex Pearce","Fremantle",2015,"Home",11,8,15,6
@@ -338,7 +338,7 @@
 "Alex Pearce","Fremantle",2021,"Home",11.4,6,16,5
 "Alex Pearce","Fremantle",2022,"Away",11.5,6,16,10
 "Alex Pearce","Fremantle",2022,"Home",11,7,16,9
-"Alex Pearce","Fremantle",2023,"Away",13.67,10,20,3
+"Alex Pearce","Fremantle",2023,"Away",12,7,20,4
 "Alex Pearce","Fremantle",2023,"Home",9.8,7,13,5
 "Alex Rance","Richmond",2014,"Away",16.78,8,21,9
 "Alex Rance","Richmond",2014,"Home",18,12,29,8
@@ -400,7 +400,7 @@
 "Aliir Aliir","Port Adelaide",2021,"Home",14.73,7,23,11
 "Aliir Aliir","Port Adelaide",2022,"Away",13.5,8,18,10
 "Aliir Aliir","Port Adelaide",2022,"Home",13.11,6,23,9
-"Aliir Aliir","Port Adelaide",2023,"Away",12,9,16,3
+"Aliir Aliir","Port Adelaide",2023,"Away",11.25,9,16,4
 "Aliir Aliir","Port Adelaide",2023,"Home",11.2,9,15,5
 "Aliir Aliir","Sydney Swans",2016,"Away",13.8,6,18,5
 "Aliir Aliir","Sydney Swans",2016,"Home",15.6,10,18,5
@@ -428,7 +428,7 @@
 "Allen Christensen","Brisbane Lions",2019,"Home",12.83,3,18,6
 "Allen Christensen","Geelong Cats",2014,"Away",22.6,19,29,5
 "Allen Christensen","Geelong Cats",2014,"Home",18.67,13,22,3
-"Alwyn Davey Jnr","Essendon",2023,"Away",9,6,12,4
+"Alwyn Davey Jnr","Essendon",2023,"Away",7.8,3,12,5
 "Alwyn Davey Jnr","Essendon",2023,"Home",10,10,10,2
 "Andrejs Everitt","Carlton",2014,"Away",16.67,13,20,9
 "Andrejs Everitt","Carlton",2014,"Home",17,7,23,8
@@ -448,7 +448,7 @@
 "Andrew Brayshaw","Fremantle",2021,"Home",27.44,15,39,9
 "Andrew Brayshaw","Fremantle",2022,"Away",27.91,21,36,11
 "Andrew Brayshaw","Fremantle",2022,"Home",30.27,20,40,11
-"Andrew Brayshaw","Fremantle",2023,"Away",29,26,31,3
+"Andrew Brayshaw","Fremantle",2023,"Away",29.5,26,31,4
 "Andrew Brayshaw","Fremantle",2023,"Home",26.4,18,34,5
 "Andrew Carrazzo","Carlton",2014,"Away",19.12,16,23,8
 "Andrew Carrazzo","Carlton",2014,"Home",21.33,13,32,6
@@ -494,7 +494,7 @@
 "Andrew McGrath","Essendon",2021,"Home",23.71,3,33,7
 "Andrew McGrath","Essendon",2022,"Away",20,13,29,10
 "Andrew McGrath","Essendon",2022,"Home",23.12,16,31,8
-"Andrew McGrath","Essendon",2023,"Away",22,19,25,4
+"Andrew McGrath","Essendon",2023,"Away",21.2,18,25,5
 "Andrew McGrath","Essendon",2023,"Home",22.25,20,25,4
 "Andrew McInnes","Carlton",2014,"Home",11,11,11,1
 "Andrew McPherson","Adelaide Crows",2020,"Away",12.25,8,17,4
@@ -521,7 +521,7 @@
 "Andrew Phillips","Essendon",2021,"Home",8.67,6,10,3
 "Andrew Phillips","Essendon",2022,"Away",7.4,5,12,5
 "Andrew Phillips","Essendon",2022,"Home",4.2,0,8,5
-"Andrew Phillips","Essendon",2023,"Away",5.67,4,9,3
+"Andrew Phillips","Essendon",2023,"Away",7,4,11,4
 "Andrew Phillips","Essendon",2023,"Home",7,3,12,4
 "Andrew Phillips","GWS Giants",2014,"Away",7,7,7,1
 "Andrew Phillips","GWS Giants",2015,"Away",5.5,4,7,2
@@ -568,7 +568,7 @@
 "Angus Brayshaw","Melbourne",2021,"Home",17.91,6,26,11
 "Angus Brayshaw","Melbourne",2022,"Away",24.45,18,29,11
 "Angus Brayshaw","Melbourne",2022,"Home",27.73,20,38,11
-"Angus Brayshaw","Melbourne",2023,"Away",20,12,27,4
+"Angus Brayshaw","Melbourne",2023,"Away",21,12,27,5
 "Angus Brayshaw","Melbourne",2023,"Home",22.5,19,29,4
 "Angus Dewar","West Coast Eagles",2022,"Away",7,7,7,1
 "Angus Litherland","Hawthorn",2014,"Away",12,8,17,5
@@ -600,7 +600,7 @@
 "Anthony McDonald-Tipungwuti","Essendon",2020,"Home",8.5,4,14,8
 "Anthony McDonald-Tipungwuti","Essendon",2021,"Away",9.4,5,15,10
 "Anthony McDonald-Tipungwuti","Essendon",2021,"Home",10.7,5,17,10
-"Anthony McDonald-Tipungwuti","Essendon",2023,"Away",8.5,4,13,2
+"Anthony McDonald-Tipungwuti","Essendon",2023,"Away",8.33,4,13,3
 "Anthony McDonald-Tipungwuti","Essendon",2023,"Home",6,6,6,1
 "Anthony Miles","Gold Coast Suns",2019,"Away",21.12,11,26,8
 "Anthony Miles","Gold Coast Suns",2019,"Home",21.67,17,28,9
@@ -619,14 +619,14 @@
 "Anthony Scott","Western Bulldogs",2021,"Home",9.33,5,17,9
 "Anthony Scott","Western Bulldogs",2022,"Away",10.12,5,17,8
 "Anthony Scott","Western Bulldogs",2022,"Home",13.67,9,22,6
-"Anthony Scott","Western Bulldogs",2023,"Away",11.6,8,13,5
+"Anthony Scott","Western Bulldogs",2023,"Away",11,8,13,6
 "Anthony Scott","Western Bulldogs",2023,"Home",12.33,10,16,3
 "Anton Tohill","Collingwood",2021,"Away",9,9,9,1
 "Archie Perkins","Essendon",2021,"Away",10.6,0,20,10
 "Archie Perkins","Essendon",2021,"Home",12.6,4,18,10
 "Archie Perkins","Essendon",2022,"Away",12.89,9,20,9
 "Archie Perkins","Essendon",2022,"Home",11.44,6,18,9
-"Archie Perkins","Essendon",2023,"Away",15,13,20,4
+"Archie Perkins","Essendon",2023,"Away",14.2,11,20,5
 "Archie Perkins","Essendon",2023,"Home",13.75,8,17,4
 "Archie Smith","Brisbane Lions",2016,"Away",15,15,15,1
 "Archie Smith","Brisbane Lions",2016,"Home",12.5,6,19,2
@@ -640,7 +640,7 @@
 "Ariel Steinberg","Essendon",2015,"Away",11.5,11,12,2
 "Ariel Steinberg","Essendon",2015,"Home",11.2,9,15,5
 "Arryn Siposs","St Kilda",2014,"Home",12.33,10,14,3
-"Arthur Jones","Western Bulldogs",2023,"Away",8.75,5,12,4
+"Arthur Jones","Western Bulldogs",2023,"Away",9.8,5,14,5
 "Arthur Jones","Western Bulldogs",2023,"Home",8.5,5,12,2
 "Ash Johnson","Collingwood",2022,"Away",7.25,3,11,4
 "Ash Johnson","Collingwood",2022,"Home",9,6,12,2
@@ -685,7 +685,7 @@
 "Bailey Banfield","Fremantle",2021,"Home",8,2,19,3
 "Bailey Banfield","Fremantle",2022,"Away",7.4,0,11,10
 "Bailey Banfield","Fremantle",2022,"Home",6.27,0,18,11
-"Bailey Banfield","Fremantle",2023,"Away",8,3,13,3
+"Bailey Banfield","Fremantle",2023,"Away",9.75,3,15,4
 "Bailey Banfield","Fremantle",2023,"Home",14.5,12,16,4
 "Bailey Dale","Western Bulldogs",2015,"Away",7.4,3,11,5
 "Bailey Dale","Western Bulldogs",2015,"Home",8.2,1,14,5
@@ -703,7 +703,7 @@
 "Bailey Dale","Western Bulldogs",2021,"Home",25.82,17,34,11
 "Bailey Dale","Western Bulldogs",2022,"Away",26.18,16,32,11
 "Bailey Dale","Western Bulldogs",2022,"Home",26.73,21,32,11
-"Bailey Dale","Western Bulldogs",2023,"Away",19,15,30,5
+"Bailey Dale","Western Bulldogs",2023,"Away",20.5,15,30,6
 "Bailey Dale","Western Bulldogs",2023,"Home",25.33,21,30,3
 "Bailey Humphrey","Gold Coast Suns",2023,"Away",9.25,1,20,4
 "Bailey Humphrey","Gold Coast Suns",2023,"Home",12.5,10,15,2
@@ -727,7 +727,7 @@
 "Bailey Scott","North Melbourne",2022,"Away",16.7,10,23,10
 "Bailey Scott","North Melbourne",2022,"Home",19.55,5,27,11
 "Bailey Scott","North Melbourne",2023,"Away",14.6,11,18,5
-"Bailey Scott","North Melbourne",2023,"Home",18.33,16,22,3
+"Bailey Scott","North Melbourne",2023,"Home",18.75,16,22,4
 "Bailey Smith","Western Bulldogs",2019,"Away",19,13,28,11
 "Bailey Smith","Western Bulldogs",2019,"Home",16.45,8,22,11
 "Bailey Smith","Western Bulldogs",2020,"Away",21,13,29,9
@@ -736,7 +736,7 @@
 "Bailey Smith","Western Bulldogs",2021,"Home",22.36,15,29,11
 "Bailey Smith","Western Bulldogs",2022,"Away",31.71,21,43,7
 "Bailey Smith","Western Bulldogs",2022,"Home",28,19,34,9
-"Bailey Smith","Western Bulldogs",2023,"Away",27.67,24,32,3
+"Bailey Smith","Western Bulldogs",2023,"Away",28.25,24,32,4
 "Bailey Smith","Western Bulldogs",2023,"Home",23.67,19,28,3
 "Bailey Williams","Western Bulldogs",2016,"Away",15,14,16,4
 "Bailey Williams","Western Bulldogs",2016,"Home",16.5,13,20,2
@@ -752,7 +752,7 @@
 "Bailey Williams","Western Bulldogs",2021,"Home",16.8,13,24,10
 "Bailey Williams","Western Bulldogs",2022,"Away",16.36,11,23,11
 "Bailey Williams","Western Bulldogs",2022,"Home",12.8,5,21,10
-"Bailey Williams","Western Bulldogs",2023,"Away",16.8,11,23,5
+"Bailey Williams","Western Bulldogs",2023,"Away",17.67,11,23,6
 "Bailey Williams","Western Bulldogs",2023,"Home",17.33,11,24,3
 "Bayley Fritsch","Melbourne",2018,"Away",16.55,8,26,11
 "Bayley Fritsch","Melbourne",2018,"Home",16.4,9,25,10
@@ -764,7 +764,7 @@
 "Bayley Fritsch","Melbourne",2021,"Home",10.73,6,16,11
 "Bayley Fritsch","Melbourne",2022,"Away",10.27,5,14,11
 "Bayley Fritsch","Melbourne",2022,"Home",8.73,4,15,11
-"Bayley Fritsch","Melbourne",2023,"Away",11.5,7,17,4
+"Bayley Fritsch","Melbourne",2023,"Away",12.2,7,17,5
 "Bayley Fritsch","Melbourne",2023,"Home",10.67,8,13,3
 "Beau Maister","St Kilda",2014,"Away",13,13,13,1
 "Beau Maister","St Kilda",2014,"Home",8.67,8,9,3
@@ -856,7 +856,7 @@
 "Ben Griffiths","Richmond",2017,"Home",6,6,6,1
 "Ben Hobbs","Essendon",2022,"Away",14.89,10,22,9
 "Ben Hobbs","Essendon",2022,"Home",13.88,0,19,8
-"Ben Hobbs","Essendon",2023,"Away",10.5,6,15,2
+"Ben Hobbs","Essendon",2023,"Away",14.33,6,22,3
 "Ben Hobbs","Essendon",2023,"Home",17,17,17,1
 "Ben Howlett","Essendon",2014,"Away",13.9,3,23,10
 "Ben Howlett","Essendon",2014,"Home",16.9,8,25,10
@@ -958,7 +958,7 @@
 "Ben McKay","North Melbourne",2022,"Away",7.78,0,14,9
 "Ben McKay","North Melbourne",2022,"Home",11.5,4,17,6
 "Ben McKay","North Melbourne",2023,"Away",9.33,9,10,3
-"Ben McKay","North Melbourne",2023,"Home",15,15,15,1
+"Ben McKay","North Melbourne",2023,"Home",12.5,10,15,2
 "Ben McNiece","Essendon",2017,"Home",12.5,11,14,2
 "Ben McNiece","Essendon",2018,"Away",10,7,13,3
 "Ben McNiece","Essendon",2018,"Home",14.4,11,21,5
@@ -1109,7 +1109,7 @@
 "Blaine Johnson","Carlton",2015,"Away",10,10,10,1
 "Blaine Johnson","Carlton",2015,"Home",5,5,5,1
 "Blake Acres","Carlton",2023,"Away",23.5,16,34,4
-"Blake Acres","Carlton",2023,"Home",30.33,26,36,3
+"Blake Acres","Carlton",2023,"Home",27,17,36,4
 "Blake Acres","Fremantle",2020,"Away",24.67,23,27,3
 "Blake Acres","Fremantle",2020,"Home",15,10,22,4
 "Blake Acres","Fremantle",2021,"Away",16.8,12,24,10
@@ -1128,7 +1128,7 @@
 "Blake Acres","St Kilda",2018,"Home",22.33,15,30,6
 "Blake Acres","St Kilda",2019,"Away",14.4,8,22,10
 "Blake Acres","St Kilda",2019,"Home",18.22,11,26,9
-"Blake Drury","North Melbourne",2023,"Home",13,13,13,1
+"Blake Drury","North Melbourne",2023,"Home",10,7,13,2
 "Blake Hardwick","Hawthorn",2016,"Home",8,8,8,1
 "Blake Hardwick","Hawthorn",2017,"Away",15.56,10,23,9
 "Blake Hardwick","Hawthorn",2017,"Home",13.4,5,20,10
@@ -1143,7 +1143,7 @@
 "Blake Hardwick","Hawthorn",2022,"Away",14.91,9,23,11
 "Blake Hardwick","Hawthorn",2022,"Home",18.36,11,32,11
 "Blake Hardwick","Hawthorn",2023,"Away",17.8,10,27,5
-"Blake Hardwick","Hawthorn",2023,"Home",20.67,17,23,3
+"Blake Hardwick","Hawthorn",2023,"Home",21.5,17,24,4
 "Blayne Wilson","West Coast Eagles",2014,"Away",13,12,14,2
 "Bobby Hill","Collingwood",2023,"Away",9.67,9,10,3
 "Bobby Hill","Collingwood",2023,"Home",8.6,3,12,5
@@ -1268,7 +1268,7 @@
 "Braeden Campbell","Sydney Swans",2022,"Away",8.71,0,13,7
 "Braeden Campbell","Sydney Swans",2022,"Home",9.86,0,21,7
 "Braeden Campbell","Sydney Swans",2023,"Away",15.6,12,20,5
-"Braeden Campbell","Sydney Swans",2023,"Home",15,14,16,3
+"Braeden Campbell","Sydney Swans",2023,"Home",14.75,14,16,4
 "Brandan Parfitt","Geelong Cats",2017,"Away",13.6,9,17,5
 "Brandan Parfitt","Geelong Cats",2017,"Home",12.71,9,23,7
 "Brandan Parfitt","Geelong Cats",2018,"Away",17.22,11,23,9
@@ -1332,12 +1332,12 @@
 "Brandon Starcevich","Brisbane Lions",2022,"Away",15.1,10,19,10
 "Brandon Starcevich","Brisbane Lions",2022,"Home",15.36,9,26,11
 "Brandon Starcevich","Brisbane Lions",2023,"Away",10.5,4,20,4
-"Brandon Starcevich","Brisbane Lions",2023,"Home",13,8,16,4
+"Brandon Starcevich","Brisbane Lions",2023,"Home",12.6,8,16,5
 "Brandon Walker","Fremantle",2021,"Away",10.5,9,14,4
 "Brandon Walker","Fremantle",2021,"Home",10.33,5,15,6
 "Brandon Walker","Fremantle",2022,"Away",12.7,2,16,10
 "Brandon Walker","Fremantle",2022,"Home",15.67,8,22,9
-"Brandon Walker","Fremantle",2023,"Away",13,12,14,2
+"Brandon Walker","Fremantle",2023,"Away",11.67,9,14,3
 "Brandon Walker","Fremantle",2023,"Home",12.33,8,16,3
 "Brandon White","St Kilda",2016,"Home",13,13,13,1
 "Brandon White","St Kilda",2017,"Away",11.5,10,13,2
@@ -1352,7 +1352,7 @@
 "Brandon Zerk-Thatcher","Essendon",2021,"Home",14,13,15,2
 "Brandon Zerk-Thatcher","Essendon",2022,"Away",14.67,7,21,3
 "Brandon Zerk-Thatcher","Essendon",2022,"Home",12,5,20,9
-"Brandon Zerk-Thatcher","Essendon",2023,"Away",12.67,6,19,3
+"Brandon Zerk-Thatcher","Essendon",2023,"Away",13.5,6,19,4
 "Brandon Zerk-Thatcher","Essendon",2023,"Home",9.25,8,11,4
 "Brant Colledge","West Coast Eagles",2014,"Away",11,11,11,1
 "Brant Colledge","West Coast Eagles",2014,"Home",8,8,8,1
@@ -1470,7 +1470,7 @@
 "Brennan Cox","Fremantle",2021,"Home",11,9,13,5
 "Brennan Cox","Fremantle",2022,"Away",16.91,10,23,11
 "Brennan Cox","Fremantle",2022,"Home",15.5,10,21,10
-"Brennan Cox","Fremantle",2023,"Away",22.33,14,30,3
+"Brennan Cox","Fremantle",2023,"Away",20.5,14,30,4
 "Brennan Cox","Fremantle",2023,"Home",14.8,8,20,5
 "Brent Daniels","GWS Giants",2018,"Away",9.67,9,10,3
 "Brent Daniels","GWS Giants",2018,"Home",8.75,7,11,4
@@ -1553,7 +1553,7 @@
 "Brodie Grundy","Collingwood",2021,"Home",19.36,11,28,11
 "Brodie Grundy","Collingwood",2022,"Away",15.67,14,17,3
 "Brodie Grundy","Collingwood",2022,"Home",18,15,20,3
-"Brodie Grundy","Melbourne",2023,"Away",14.5,6,22,4
+"Brodie Grundy","Melbourne",2023,"Away",13.4,6,22,5
 "Brodie Grundy","Melbourne",2023,"Home",17.75,15,21,4
 "Brodie Kemp","Carlton",2021,"Away",5,5,5,1
 "Brodie Kemp","Carlton",2021,"Home",14,14,14,1
@@ -1618,7 +1618,7 @@
 "Bryce Gibbs","Carlton",2017,"Away",25.64,8,43,11
 "Bryce Gibbs","Carlton",2017,"Home",28,20,38,11
 "Brynn Teakle","Port Adelaide",2022,"Home",8.5,5,12,2
-"Brynn Teakle","Port Adelaide",2023,"Away",8,8,8,1
+"Brynn Teakle","Port Adelaide",2023,"Away",10,8,12,2
 "Brynn Teakle","Port Adelaide",2023,"Home",10.5,7,14,2
 "Buku Khamis","Western Bulldogs",2021,"Home",11,11,11,1
 "Buku Khamis","Western Bulldogs",2022,"Away",10,8,13,4
@@ -1653,7 +1653,7 @@
 "Caleb Daniel","Western Bulldogs",2021,"Home",22.9,8,32,10
 "Caleb Daniel","Western Bulldogs",2022,"Away",24.78,13,34,9
 "Caleb Daniel","Western Bulldogs",2022,"Home",24.11,19,32,9
-"Caleb Daniel","Western Bulldogs",2023,"Away",22.8,19,29,5
+"Caleb Daniel","Western Bulldogs",2023,"Away",22.83,19,29,6
 "Caleb Daniel","Western Bulldogs",2023,"Home",23,19,27,3
 "Caleb Graham","Gold Coast Suns",2019,"Away",14,12,16,2
 "Caleb Graham","Gold Coast Suns",2019,"Home",7,7,7,1
@@ -1684,7 +1684,7 @@
 "Caleb Serong","Fremantle",2021,"Home",23.27,18,35,11
 "Caleb Serong","Fremantle",2022,"Away",25.4,20,32,10
 "Caleb Serong","Fremantle",2022,"Home",26,20,33,10
-"Caleb Serong","Fremantle",2023,"Away",28,27,29,3
+"Caleb Serong","Fremantle",2023,"Away",29.25,27,33,4
 "Caleb Serong","Fremantle",2023,"Home",32.4,24,37,5
 "Callan Ward","GWS Giants",2014,"Away",24.9,11,32,10
 "Callan Ward","GWS Giants",2014,"Home",24.9,14,40,10
@@ -1760,7 +1760,7 @@
 "Callum Mills","Sydney Swans",2022,"Away",23.82,13,37,11
 "Callum Mills","Sydney Swans",2022,"Home",25.91,20,30,11
 "Callum Mills","Sydney Swans",2023,"Away",22,14,31,5
-"Callum Mills","Sydney Swans",2023,"Home",24,21,28,3
+"Callum Mills","Sydney Swans",2023,"Home",18.25,1,28,4
 "Callum Moore","Carlton",2020,"Away",2,2,2,1
 "Callum Moore","Carlton",2020,"Home",4,4,4,1
 "Callum Moore","Richmond",2016,"Away",7,7,7,1
@@ -1799,7 +1799,7 @@
 "Cam Ellis-Yolmen","Adelaide Crows",2015,"Home",18.4,15,20,5
 "Cam Ellis-Yolmen","Adelaide Crows",2016,"Home",15.5,13,18,2
 "Cam Mackenzie","Hawthorn",2023,"Away",11,5,16,3
-"Cam Mackenzie","Hawthorn",2023,"Home",17.67,15,20,3
+"Cam Mackenzie","Hawthorn",2023,"Home",16.75,14,20,4
 "Cam McCarthy","Fremantle",2017,"Away",11.22,5,20,9
 "Cam McCarthy","Fremantle",2017,"Home",11.4,5,18,10
 "Cam McCarthy","Fremantle",2018,"Away",9.44,4,17,9
@@ -1823,7 +1823,7 @@
 "Cam Rayner","Brisbane Lions",2022,"Away",16.18,11,21,11
 "Cam Rayner","Brisbane Lions",2022,"Home",14.09,9,25,11
 "Cam Rayner","Brisbane Lions",2023,"Away",13.25,9,15,4
-"Cam Rayner","Brisbane Lions",2023,"Home",15.25,12,17,4
+"Cam Rayner","Brisbane Lions",2023,"Home",16.2,12,20,5
 "Cam Sutcliffe","Port Adelaide",2019,"Away",13,9,17,2
 "Cam Sutcliffe","Port Adelaide",2019,"Home",9,6,11,3
 "Cam Sutcliffe","Port Adelaide",2020,"Away",5,5,5,1
@@ -1905,7 +1905,7 @@
 "Cameron Zurhaar","North Melbourne",2022,"Away",11.2,6,18,10
 "Cameron Zurhaar","North Melbourne",2022,"Home",12.67,9,20,9
 "Cameron Zurhaar","North Melbourne",2023,"Away",17,9,26,5
-"Cameron Zurhaar","North Melbourne",2023,"Home",17,14,20,3
+"Cameron Zurhaar","North Melbourne",2023,"Home",17.25,14,20,4
 "Campbell Chesser","West Coast Eagles",2023,"Away",8.5,5,12,2
 "Campbell Chesser","West Coast Eagles",2023,"Home",6,6,6,1
 "Carter Michael","Brisbane Lions",2022,"Home",8,8,8,1
@@ -1921,7 +1921,7 @@
 "Chad Warner","Sydney Swans",2022,"Away",22.3,19,35,10
 "Chad Warner","Sydney Swans",2022,"Home",23.64,19,32,11
 "Chad Warner","Sydney Swans",2023,"Away",24.4,19,30,5
-"Chad Warner","Sydney Swans",2023,"Home",24.67,15,30,3
+"Chad Warner","Sydney Swans",2023,"Home",24.75,15,30,4
 "Chad Wingard","Hawthorn",2019,"Away",19.71,8,29,7
 "Chad Wingard","Hawthorn",2019,"Home",17.29,10,22,7
 "Chad Wingard","Hawthorn",2020,"Away",14.2,10,20,10
@@ -1931,7 +1931,7 @@
 "Chad Wingard","Hawthorn",2022,"Away",11,3,17,5
 "Chad Wingard","Hawthorn",2022,"Home",13.6,11,17,5
 "Chad Wingard","Hawthorn",2023,"Away",10,3,17,4
-"Chad Wingard","Hawthorn",2023,"Home",14.5,13,16,2
+"Chad Wingard","Hawthorn",2023,"Home",12.33,8,16,3
 "Chad Wingard","Port Adelaide",2014,"Away",14.18,5,22,11
 "Chad Wingard","Port Adelaide",2014,"Home",18,13,30,10
 "Chad Wingard","Port Adelaide",2015,"Away",17.91,12,25,11
@@ -1951,7 +1951,7 @@
 "Changkuoth Jiath","Hawthorn",2022,"Away",16,11,27,7
 "Changkuoth Jiath","Hawthorn",2022,"Home",20.29,12,24,7
 "Changkuoth Jiath","Hawthorn",2023,"Away",14.75,11,17,4
-"Changkuoth Jiath","Hawthorn",2023,"Home",20.33,19,21,3
+"Changkuoth Jiath","Hawthorn",2023,"Home",19.25,16,21,4
 "Charles Cameron","Brisbane Lions",2019,"Away",12.45,7,21,11
 "Charles Cameron","Brisbane Lions",2019,"Home",12.73,6,17,11
 "Charlie Ballard","Gold Coast Suns",2018,"Away",10,7,13,5
@@ -1983,7 +1983,7 @@
 "Charlie Cameron","Brisbane Lions",2022,"Away",11.64,6,16,11
 "Charlie Cameron","Brisbane Lions",2022,"Home",12.09,10,17,11
 "Charlie Cameron","Brisbane Lions",2023,"Away",10.25,6,15,4
-"Charlie Cameron","Brisbane Lions",2023,"Home",13,12,14,4
+"Charlie Cameron","Brisbane Lions",2023,"Home",12.2,9,14,5
 "Charlie Comben","North Melbourne",2021,"Home",6,6,6,1
 "Charlie Comben","North Melbourne",2022,"Home",6,6,6,1
 "Charlie Comben","North Melbourne",2023,"Away",7.4,1,11,5
@@ -2010,7 +2010,7 @@
 "Charlie Curnow","Carlton",2022,"Away",11.18,7,16,11
 "Charlie Curnow","Carlton",2022,"Home",12.82,8,21,11
 "Charlie Curnow","Carlton",2023,"Away",14,9,18,5
-"Charlie Curnow","Carlton",2023,"Home",12,10,15,3
+"Charlie Curnow","Carlton",2023,"Home",12.25,10,15,4
 "Charlie Dixon","Gold Coast Suns",2014,"Away",10.62,2,22,8
 "Charlie Dixon","Gold Coast Suns",2014,"Home",7.33,2,12,6
 "Charlie Dixon","Gold Coast Suns",2015,"Away",8.56,2,14,9
@@ -2046,7 +2046,7 @@
 "Charlie Spargo","Melbourne",2021,"Home",12.09,6,18,11
 "Charlie Spargo","Melbourne",2022,"Away",11.36,4,16,11
 "Charlie Spargo","Melbourne",2022,"Home",12.18,4,22,11
-"Charlie Spargo","Melbourne",2023,"Away",7.67,1,13,3
+"Charlie Spargo","Melbourne",2023,"Away",8.75,1,13,4
 "Charlie Spargo","Melbourne",2023,"Home",10.5,6,15,2
 "Chayce Jones","Adelaide Crows",2019,"Away",12,3,18,4
 "Chayce Jones","Adelaide Crows",2019,"Home",10.25,8,13,4
@@ -2126,7 +2126,7 @@
 "Christian Petracca","Melbourne",2021,"Home",29.36,23,38,11
 "Christian Petracca","Melbourne",2022,"Away",28.18,21,40,11
 "Christian Petracca","Melbourne",2022,"Home",28.36,10,38,11
-"Christian Petracca","Melbourne",2023,"Away",26.5,24,29,4
+"Christian Petracca","Melbourne",2023,"Away",27.2,24,30,5
 "Christian Petracca","Melbourne",2023,"Home",31,26,35,4
 "Christian Salem","Melbourne",2014,"Away",5.8,3,8,5
 "Christian Salem","Melbourne",2014,"Home",7.43,2,16,7
@@ -2197,7 +2197,7 @@
 "Clayton Oliver","Melbourne",2021,"Home",31.36,23,38,11
 "Clayton Oliver","Melbourne",2022,"Away",32.73,19,45,11
 "Clayton Oliver","Melbourne",2022,"Home",34.3,29,42,10
-"Clayton Oliver","Melbourne",2023,"Away",35,28,41,4
+"Clayton Oliver","Melbourne",2023,"Away",34.8,28,41,5
 "Clayton Oliver","Melbourne",2023,"Home",31.5,25,37,4
 "Clem Smith","Carlton",2015,"Away",7,5,12,4
 "Clem Smith","Carlton",2015,"Home",9,4,12,3
@@ -2210,7 +2210,7 @@
 "Cody Weightman","Western Bulldogs",2021,"Home",11,5,14,6
 "Cody Weightman","Western Bulldogs",2022,"Away",9.6,5,13,10
 "Cody Weightman","Western Bulldogs",2022,"Home",8.4,1,14,10
-"Cody Weightman","Western Bulldogs",2023,"Away",8.67,7,11,3
+"Cody Weightman","Western Bulldogs",2023,"Away",9.5,7,12,4
 "Cody Weightman","Western Bulldogs",2023,"Home",3,3,3,1
 "Colin Garland","Melbourne",2014,"Away",13.33,10,20,6
 "Colin Garland","Melbourne",2014,"Home",12.38,8,18,8
@@ -2285,7 +2285,7 @@
 "Connor Rozee","Port Adelaide",2021,"Home",14.9,6,23,10
 "Connor Rozee","Port Adelaide",2022,"Away",23.27,5,35,11
 "Connor Rozee","Port Adelaide",2022,"Home",23.09,13,34,11
-"Connor Rozee","Port Adelaide",2023,"Away",19.33,19,20,3
+"Connor Rozee","Port Adelaide",2023,"Away",20.75,19,25,4
 "Connor Rozee","Port Adelaide",2023,"Home",27,23,29,5
 "Connor West","West Coast Eagles",2021,"Away",14,10,19,3
 "Connor West","West Coast Eagles",2021,"Home",10.5,10,11,2
@@ -2302,7 +2302,7 @@
 "Conor Glass","Hawthorn",2020,"Away",11.5,11,12,2
 "Conor Glass","Hawthorn",2020,"Home",9.5,6,13,2
 "Conor McKenna","Brisbane Lions",2023,"Away",17,14,20,4
-"Conor McKenna","Brisbane Lions",2023,"Home",15.75,14,19,4
+"Conor McKenna","Brisbane Lions",2023,"Home",15.4,14,19,5
 "Conor McKenna","Essendon",2015,"Away",18,18,18,1
 "Conor McKenna","Essendon",2015,"Home",4,4,4,1
 "Conor McKenna","Essendon",2016,"Away",12.2,3,16,5
@@ -2325,7 +2325,7 @@
 "Conor Nash","Hawthorn",2022,"Away",15.2,10,21,10
 "Conor Nash","Hawthorn",2022,"Home",15.82,10,22,11
 "Conor Nash","Hawthorn",2023,"Away",22.4,10,31,5
-"Conor Nash","Hawthorn",2023,"Home",21.33,12,28,3
+"Conor Nash","Hawthorn",2023,"Home",22.75,12,28,4
 "Conor Stone","GWS Giants",2021,"Away",12,11,13,2
 "Conor Stone","GWS Giants",2021,"Home",1.5,0,3,2
 "Conor Stone","GWS Giants",2022,"Home",7,7,7,1
@@ -2348,7 +2348,7 @@
 "Corey Durdin","Carlton",2022,"Away",7.8,3,19,10
 "Corey Durdin","Carlton",2022,"Home",9.55,6,14,11
 "Corey Durdin","Carlton",2023,"Away",9.25,8,11,4
-"Corey Durdin","Carlton",2023,"Home",7.67,7,8,3
+"Corey Durdin","Carlton",2023,"Home",8.25,7,10,4
 "Corey Ellis","Gold Coast Suns",2019,"Away",20.5,20,21,2
 "Corey Ellis","Gold Coast Suns",2019,"Home",15.5,12,19,2
 "Corey Ellis","Richmond",2015,"Away",7,5,9,2
@@ -2410,7 +2410,7 @@
 "Curtis Taylor","North Melbourne",2022,"Away",14.64,6,23,11
 "Curtis Taylor","North Melbourne",2022,"Home",16.09,11,25,11
 "Curtis Taylor","North Melbourne",2023,"Away",13.6,11,17,5
-"Curtis Taylor","North Melbourne",2023,"Home",15.33,11,18,3
+"Curtis Taylor","North Melbourne",2023,"Home",14.25,11,18,4
 "Curtly Hampton","Adelaide Crows",2017,"Away",14.8,9,21,5
 "Curtly Hampton","Adelaide Crows",2017,"Home",13.75,11,15,4
 "Curtly Hampton","Adelaide Crows",2018,"Away",5.5,2,9,2
@@ -2501,7 +2501,7 @@
 "Dan Houston","Port Adelaide",2021,"Home",22.5,14,32,10
 "Dan Houston","Port Adelaide",2022,"Away",25.3,16,36,10
 "Dan Houston","Port Adelaide",2022,"Home",21.09,15,33,11
-"Dan Houston","Port Adelaide",2023,"Away",18,16,22,3
+"Dan Houston","Port Adelaide",2023,"Away",18.5,16,22,4
 "Dan Houston","Port Adelaide",2023,"Home",21.8,19,25,5
 "Dane Rampe","Sydney Swans",2014,"Away",17.82,12,25,11
 "Dane Rampe","Sydney Swans",2014,"Home",15.36,5,22,11
@@ -2860,9 +2860,9 @@
 "Darcy Tucker","Fremantle",2022,"Away",10.88,0,18,8
 "Darcy Tucker","Fremantle",2022,"Home",10.5,6,16,6
 "Darcy Tucker","North Melbourne",2023,"Away",14,6,17,4
-"Darcy Tucker","North Melbourne",2023,"Home",21,18,24,2
+"Darcy Tucker","North Melbourne",2023,"Home",15,3,24,3
 "Darcy Wilmot","Brisbane Lions",2023,"Away",10.5,8,15,4
-"Darcy Wilmot","Brisbane Lions",2023,"Home",11.5,8,15,4
+"Darcy Wilmot","Brisbane Lions",2023,"Home",12.4,8,16,5
 "Darragh Joyce","Brisbane Lions",2023,"Away",7.5,7,8,2
 "Darragh Joyce","Brisbane Lions",2023,"Home",9.33,6,13,3
 "Darragh Joyce","St Kilda",2018,"Away",6.5,3,10,2
@@ -3055,7 +3055,7 @@
 "Dayne Zorko","Brisbane Lions",2022,"Away",21.78,11,33,9
 "Dayne Zorko","Brisbane Lions",2022,"Home",18.7,1,28,10
 "Dayne Zorko","Brisbane Lions",2023,"Away",18,17,19,2
-"Dayne Zorko","Brisbane Lions",2023,"Home",19.75,16,22,4
+"Dayne Zorko","Brisbane Lions",2023,"Home",20.8,16,25,5
 "Dean Cox","West Coast Eagles",2014,"Away",14.14,8,18,7
 "Dean Cox","West Coast Eagles",2014,"Home",14.6,4,23,10
 "Dean Kent","Melbourne",2014,"Away",11.25,7,18,8
@@ -3294,7 +3294,7 @@
 "Dylan Moore","Hawthorn",2022,"Away",20.45,14,33,11
 "Dylan Moore","Hawthorn",2022,"Home",19.91,14,29,11
 "Dylan Moore","Hawthorn",2023,"Away",19.4,15,23,5
-"Dylan Moore","Hawthorn",2023,"Home",21.67,19,26,3
+"Dylan Moore","Hawthorn",2023,"Home",21,19,26,4
 "Dylan Roberton","St Kilda",2014,"Away",13.5,10,18,4
 "Dylan Roberton","St Kilda",2014,"Home",11.67,3,19,3
 "Dylan Roberton","St Kilda",2015,"Away",20.45,13,31,11
@@ -3314,7 +3314,7 @@
 "Dylan Shiel","Essendon",2021,"Home",18.25,13,22,4
 "Dylan Shiel","Essendon",2022,"Away",22.4,11,30,10
 "Dylan Shiel","Essendon",2022,"Home",23.56,15,29,9
-"Dylan Shiel","Essendon",2023,"Away",20.75,19,23,4
+"Dylan Shiel","Essendon",2023,"Away",20.2,18,23,5
 "Dylan Shiel","Essendon",2023,"Home",26.25,22,28,4
 "Dylan Shiel","GWS Giants",2014,"Away",24.5,14,31,8
 "Dylan Shiel","GWS Giants",2014,"Home",21.89,7,34,9
@@ -3336,7 +3336,7 @@
 "Dylan Stephens","Sydney Swans",2023,"Home",15.67,14,18,3
 "Dylan Van Unen","Essendon",2014,"Away",14,14,14,1
 "Dylan Williams","Port Adelaide",2021,"Home",7,7,7,1
-"Dylan Williams","Port Adelaide",2023,"Away",16.5,16,17,2
+"Dylan Williams","Port Adelaide",2023,"Away",16.33,16,17,3
 "Dylan Williams","Port Adelaide",2023,"Home",14.33,9,24,3
 "Dyson Heppell","Essendon",2014,"Away",30.09,17,40,11
 "Dyson Heppell","Essendon",2014,"Home",26.1,17,39,10
@@ -3353,7 +3353,7 @@
 "Dyson Heppell","Essendon",2021,"Home",24.89,22,28,9
 "Dyson Heppell","Essendon",2022,"Away",20.91,13,29,11
 "Dyson Heppell","Essendon",2022,"Home",23,16,34,11
-"Dyson Heppell","Essendon",2023,"Away",16.75,16,18,4
+"Dyson Heppell","Essendon",2023,"Away",17.6,16,21,5
 "Dyson Heppell","Essendon",2023,"Home",16.33,14,19,3
 "Easton Wood","Western Bulldogs",2014,"Away",15.33,11,22,9
 "Easton Wood","Western Bulldogs",2014,"Home",15,7,21,9
@@ -3388,7 +3388,7 @@
 "Ed Curnow","Carlton",2021,"Away",22.73,13,32,11
 "Ed Curnow","Carlton",2021,"Home",22.36,10,30,11
 "Ed Curnow","Carlton",2023,"Away",16.6,13,23,5
-"Ed Curnow","Carlton",2023,"Home",16,5,26,3
+"Ed Curnow","Carlton",2023,"Home",12.5,2,26,4
 "Ed Langdon","Fremantle",2015,"Away",14,14,14,1
 "Ed Langdon","Fremantle",2015,"Home",18,18,18,1
 "Ed Langdon","Fremantle",2016,"Away",13.57,9,23,7
@@ -3405,7 +3405,7 @@
 "Ed Langdon","Melbourne",2021,"Home",23.7,15,32,10
 "Ed Langdon","Melbourne",2022,"Away",20.36,6,33,11
 "Ed Langdon","Melbourne",2022,"Home",22.3,9,39,10
-"Ed Langdon","Melbourne",2023,"Away",19,12,24,4
+"Ed Langdon","Melbourne",2023,"Away",19.6,12,24,5
 "Ed Langdon","Melbourne",2023,"Home",19.5,14,24,4
 "Ed Phillips","St Kilda",2018,"Away",20.67,17,24,3
 "Ed Phillips","St Kilda",2018,"Home",18.5,14,21,4
@@ -3423,7 +3423,7 @@
 "Ed Richards","Western Bulldogs",2021,"Home",11,8,14,2
 "Ed Richards","Western Bulldogs",2022,"Away",18.9,12,28,10
 "Ed Richards","Western Bulldogs",2022,"Home",18.55,9,24,11
-"Ed Richards","Western Bulldogs",2023,"Away",21,16,27,5
+"Ed Richards","Western Bulldogs",2023,"Away",21.67,16,27,6
 "Ed Richards","Western Bulldogs",2023,"Home",21,19,25,3
 "Ed Vickers-Willis","North Melbourne",2017,"Away",12.33,8,15,3
 "Ed Vickers-Willis","North Melbourne",2017,"Home",14.75,12,21,4
@@ -3519,7 +3519,7 @@
 "Eric Hipwood","Brisbane Lions",2022,"Away",9.86,8,12,7
 "Eric Hipwood","Brisbane Lions",2022,"Home",9.71,6,13,7
 "Eric Hipwood","Brisbane Lions",2023,"Away",7.75,4,14,4
-"Eric Hipwood","Brisbane Lions",2023,"Home",9.5,7,15,4
+"Eric Hipwood","Brisbane Lions",2023,"Home",10.4,7,15,5
 "Eric Mackenzie","West Coast Eagles",2014,"Away",14.09,8,22,11
 "Eric Mackenzie","West Coast Eagles",2014,"Home",16.55,10,23,11
 "Eric Mackenzie","West Coast Eagles",2016,"Away",13,10,15,6
@@ -3531,7 +3531,7 @@
 "Errol Gulden","Sydney Swans",2022,"Away",20.45,16,27,11
 "Errol Gulden","Sydney Swans",2022,"Home",18.64,11,33,11
 "Errol Gulden","Sydney Swans",2023,"Away",23.4,15,37,5
-"Errol Gulden","Sydney Swans",2023,"Home",25,20,28,3
+"Errol Gulden","Sydney Swans",2023,"Home",28.5,20,39,4
 "Esava Ratugolea","Geelong Cats",2018,"Away",11,7,15,4
 "Esava Ratugolea","Geelong Cats",2018,"Home",6.25,0,11,4
 "Esava Ratugolea","Geelong Cats",2019,"Away",6.5,5,10,8
@@ -3559,7 +3559,7 @@
 "Ethan Hughes","Fremantle",2021,"Home",21,13,27,4
 "Ethan Hughes","Fremantle",2022,"Away",14.5,11,18,2
 "Ethan Hughes","Fremantle",2022,"Home",16,0,24,4
-"Ethan Hughes","Fremantle",2023,"Away",17,16,19,3
+"Ethan Hughes","Fremantle",2023,"Away",15,9,19,4
 "Ethan Hughes","Fremantle",2023,"Home",13,10,17,5
 "Farren Ray","North Melbourne",2016,"Away",4,2,6,2
 "Farren Ray","North Melbourne",2016,"Home",17.5,17,18,2
@@ -3607,10 +3607,11 @@
 "Flynn Perez","North Melbourne",2020,"Home",9.33,4,15,3
 "Flynn Perez","North Melbourne",2022,"Away",12.83,9,18,6
 "Flynn Perez","North Melbourne",2022,"Home",12.1,0,24,10
-"Flynn Perez","North Melbourne",2023,"Home",16,16,16,1
+"Flynn Perez","North Melbourne",2023,"Home",11.5,7,16,2
 "Francis Evans","Geelong Cats",2021,"Home",4,1,7,2
 "Francis Evans","Geelong Cats",2022,"Away",5,0,10,2
 "Francis Evans","Geelong Cats",2022,"Home",9.33,8,11,3
+"Francis Evans","Port Adelaide",2023,"Away",14,14,14,1
 "Francis Evans","Port Adelaide",2023,"Home",3.5,2,5,2
 "Francis Watson","West Coast Eagles",2019,"Away",14,14,14,1
 "Francis Watson","West Coast Eagles",2019,"Home",13,13,13,1
@@ -3668,7 +3669,7 @@
 "George Hewett","Carlton",2022,"Away",28.88,25,32,8
 "George Hewett","Carlton",2022,"Home",28,22,33,7
 "George Hewett","Carlton",2023,"Away",22.2,15,32,5
-"George Hewett","Carlton",2023,"Home",27.5,26,29,2
+"George Hewett","Carlton",2023,"Home",25,20,29,3
 "George Hewett","Sydney Swans",2016,"Away",13.44,2,20,9
 "George Hewett","Sydney Swans",2016,"Home",12.73,3,18,11
 "George Hewett","Sydney Swans",2017,"Away",20,14,29,11
@@ -3725,7 +3726,7 @@
 "Griffin Logue","Fremantle",2022,"Away",13.75,8,29,8
 "Griffin Logue","Fremantle",2022,"Home",12.5,6,17,10
 "Griffin Logue","North Melbourne",2023,"Away",14,11,17,5
-"Griffin Logue","North Melbourne",2023,"Home",9.5,9,10,2
+"Griffin Logue","North Melbourne",2023,"Home",10.33,9,12,3
 "Gryan Miers","Geelong Cats",2019,"Away",12.91,6,22,11
 "Gryan Miers","Geelong Cats",2019,"Home",17.45,11,25,11
 "Gryan Miers","Geelong Cats",2020,"Away",13.12,8,21,8
@@ -3782,7 +3783,7 @@
 "Harris Andrews","Brisbane Lions",2022,"Away",12.27,6,18,11
 "Harris Andrews","Brisbane Lions",2022,"Home",13.4,9,18,10
 "Harris Andrews","Brisbane Lions",2023,"Away",13.5,9,21,4
-"Harris Andrews","Brisbane Lions",2023,"Home",17.75,14,22,4
+"Harris Andrews","Brisbane Lions",2023,"Home",18,14,22,5
 "Harrison Himmelberg","GWS Giants",2016,"Away",12.67,10,16,3
 "Harrison Himmelberg","GWS Giants",2016,"Home",16,16,16,1
 "Harrison Himmelberg","GWS Giants",2017,"Away",11.2,8,14,5
@@ -3803,7 +3804,7 @@
 "Harrison Petty","Melbourne",2021,"Home",9,4,11,8
 "Harrison Petty","Melbourne",2022,"Away",11,6,17,9
 "Harrison Petty","Melbourne",2022,"Home",8.71,7,11,7
-"Harrison Petty","Melbourne",2023,"Away",11,8,17,4
+"Harrison Petty","Melbourne",2023,"Away",10.4,8,17,5
 "Harrison Petty","Melbourne",2023,"Home",11.67,8,14,3
 "Harry Cunningham","Sydney Swans",2014,"Away",13.27,9,22,11
 "Harry Cunningham","Sydney Swans",2014,"Home",12.64,9,17,11
@@ -3824,7 +3825,7 @@
 "Harry Cunningham","Sydney Swans",2022,"Away",9.83,0,16,6
 "Harry Cunningham","Sydney Swans",2022,"Home",13,8,20,4
 "Harry Cunningham","Sydney Swans",2023,"Away",11.4,7,16,5
-"Harry Cunningham","Sydney Swans",2023,"Home",8.67,3,14,3
+"Harry Cunningham","Sydney Swans",2023,"Home",10,3,14,4
 "Harry Edwards","West Coast Eagles",2020,"Home",3,3,3,1
 "Harry Edwards","West Coast Eagles",2021,"Away",8.33,5,15,6
 "Harry Edwards","West Coast Eagles",2021,"Home",13.25,9,16,4
@@ -3863,7 +3864,7 @@
 "Harry McKay","Carlton",2022,"Away",9.89,3,15,9
 "Harry McKay","Carlton",2022,"Home",12.8,9,18,10
 "Harry McKay","Carlton",2023,"Away",11.8,7,16,5
-"Harry McKay","Carlton",2023,"Home",11,6,17,3
+"Harry McKay","Carlton",2023,"Home",12,6,17,4
 "Harry Morrison","Hawthorn",2017,"Home",21,21,21,1
 "Harry Morrison","Hawthorn",2018,"Away",13.89,8,20,9
 "Harry Morrison","Hawthorn",2018,"Home",15.4,6,25,10
@@ -3876,7 +3877,7 @@
 "Harry Morrison","Hawthorn",2022,"Away",19.2,12,25,10
 "Harry Morrison","Hawthorn",2022,"Home",19.18,14,24,11
 "Harry Morrison","Hawthorn",2023,"Away",19.25,17,24,4
-"Harry Morrison","Hawthorn",2023,"Home",21,18,24,2
+"Harry Morrison","Hawthorn",2023,"Home",19.33,16,24,3
 "Harry Perryman","GWS Giants",2017,"Away",11,7,14,4
 "Harry Perryman","GWS Giants",2017,"Home",12.5,7,20,4
 "Harry Perryman","GWS Giants",2018,"Away",14.8,8,22,5
@@ -3906,8 +3907,9 @@
 "Harry Sharp","Brisbane Lions",2022,"Away",7.5,5,10,2
 "Harry Sharp","Brisbane Lions",2022,"Home",3.33,0,7,3
 "Harry Sharp","Brisbane Lions",2023,"Away",13,13,13,1
+"Harry Sharp","Brisbane Lions",2023,"Home",17,17,17,1
 "Harry Sheezel","North Melbourne",2023,"Away",25.6,11,31,5
-"Harry Sheezel","North Melbourne",2023,"Home",33.67,30,37,3
+"Harry Sheezel","North Melbourne",2023,"Home",30.75,22,37,4
 "Harry Taylor","Geelong Cats",2014,"Away",16.2,6,30,10
 "Harry Taylor","Geelong Cats",2014,"Home",15.09,6,27,11
 "Harry Taylor","Geelong Cats",2015,"Away",18.5,12,33,10
@@ -3963,14 +3965,14 @@
 "Hayden McLean","Sydney Swans",2022,"Away",11.75,9,13,4
 "Hayden McLean","Sydney Swans",2022,"Home",7.5,5,11,4
 "Hayden McLean","Sydney Swans",2023,"Away",13.25,10,19,4
-"Hayden McLean","Sydney Swans",2023,"Home",7,6,8,2
+"Hayden McLean","Sydney Swans",2023,"Home",9,6,13,3
 "Hayden Young","Fremantle",2020,"Away",13.67,11,15,3
 "Hayden Young","Fremantle",2020,"Home",4.5,1,8,2
 "Hayden Young","Fremantle",2021,"Away",13,3,19,4
 "Hayden Young","Fremantle",2021,"Home",18.75,16,23,4
 "Hayden Young","Fremantle",2022,"Away",22.5,16,31,10
 "Hayden Young","Fremantle",2022,"Home",22.8,16,31,10
-"Hayden Young","Fremantle",2023,"Away",26.67,17,33,3
+"Hayden Young","Fremantle",2023,"Away",25.75,17,33,4
 "Hayden Young","Fremantle",2023,"Home",19.8,14,26,5
 "Heath Chapman","Fremantle",2021,"Away",14.67,11,18,3
 "Heath Chapman","Fremantle",2021,"Home",13.67,11,18,3
@@ -4051,7 +4053,7 @@
 "Hugh Greenwood","North Melbourne",2022,"Away",15.36,6,21,11
 "Hugh Greenwood","North Melbourne",2022,"Home",18.6,8,29,10
 "Hugh Greenwood","North Melbourne",2023,"Away",11.33,10,14,3
-"Hugh Greenwood","North Melbourne",2023,"Home",13,11,15,2
+"Hugh Greenwood","North Melbourne",2023,"Home",14.33,11,17,3
 "Hugh McCluggage","Brisbane Lions",2017,"Away",15.75,13,20,8
 "Hugh McCluggage","Brisbane Lions",2017,"Home",14.6,7,19,10
 "Hugh McCluggage","Brisbane Lions",2018,"Away",17.91,9,29,11
@@ -4065,7 +4067,7 @@
 "Hugh McCluggage","Brisbane Lions",2022,"Away",23.91,19,29,11
 "Hugh McCluggage","Brisbane Lions",2022,"Home",26.1,14,33,10
 "Hugh McCluggage","Brisbane Lions",2023,"Away",20,13,27,4
-"Hugh McCluggage","Brisbane Lions",2023,"Home",21.25,21,22,4
+"Hugh McCluggage","Brisbane Lions",2023,"Home",22.2,21,26,5
 "Hugo Ralphsmith","Richmond",2021,"Away",5,0,8,3
 "Hugo Ralphsmith","Richmond",2021,"Home",11.33,7,17,3
 "Hugo Ralphsmith","Richmond",2022,"Away",14.14,10,20,7
@@ -4119,7 +4121,7 @@
 "Isaac Heeney","Sydney Swans",2022,"Away",18.55,9,25,11
 "Isaac Heeney","Sydney Swans",2022,"Home",15.55,11,21,11
 "Isaac Heeney","Sydney Swans",2023,"Away",14.4,10,20,5
-"Isaac Heeney","Sydney Swans",2023,"Home",15.67,13,19,3
+"Isaac Heeney","Sydney Swans",2023,"Home",16.25,13,19,4
 "Isaac Quaynor","Collingwood",2019,"Away",15.33,11,18,3
 "Isaac Quaynor","Collingwood",2019,"Home",12,12,12,1
 "Isaac Quaynor","Collingwood",2020,"Away",14.6,10,20,5
@@ -4304,7 +4306,7 @@
 "Jack Grimes","Melbourne",2016,"Away",15,15,15,1
 "Jack Grimes","Melbourne",2016,"Home",32,32,32,1
 "Jack Gunston","Brisbane Lions",2023,"Away",11.5,9,15,4
-"Jack Gunston","Brisbane Lions",2023,"Home",8.67,6,13,3
+"Jack Gunston","Brisbane Lions",2023,"Home",8.25,6,13,4
 "Jack Gunston","Hawthorn",2014,"Away",16.6,11,25,10
 "Jack Gunston","Hawthorn",2014,"Home",15.6,11,24,10
 "Jack Gunston","Hawthorn",2015,"Away",17.27,6,26,11
@@ -4417,7 +4419,7 @@
 "Jack Macrae","Western Bulldogs",2021,"Home",33.64,25,41,11
 "Jack Macrae","Western Bulldogs",2022,"Away",31.09,21,39,11
 "Jack Macrae","Western Bulldogs",2022,"Home",29.91,24,35,11
-"Jack Macrae","Western Bulldogs",2023,"Away",27.2,21,33,5
+"Jack Macrae","Western Bulldogs",2023,"Away",26.5,21,33,6
 "Jack Macrae","Western Bulldogs",2023,"Home",27,25,30,3
 "Jack Madgen","Collingwood",2018,"Away",13.5,13,14,2
 "Jack Madgen","Collingwood",2018,"Home",16.5,16,17,2
@@ -4435,7 +4437,7 @@
 "Jack Mahony","North Melbourne",2021,"Home",11.6,8,15,10
 "Jack Mahony","North Melbourne",2022,"Away",7.38,0,18,8
 "Jack Mahony","North Melbourne",2022,"Home",10,4,17,5
-"Jack Mahony","North Melbourne",2023,"Home",16,16,16,1
+"Jack Mahony","North Melbourne",2023,"Home",12.5,9,16,2
 "Jack Martin","Carlton",2020,"Away",14,3,21,8
 "Jack Martin","Carlton",2020,"Home",12.86,10,19,7
 "Jack Martin","Carlton",2021,"Away",13.4,11,18,5
@@ -4480,7 +4482,7 @@
 "Jack Payne","Brisbane Lions",2022,"Away",10.4,6,13,5
 "Jack Payne","Brisbane Lions",2022,"Home",11.25,9,13,4
 "Jack Payne","Brisbane Lions",2023,"Away",10.25,4,13,4
-"Jack Payne","Brisbane Lions",2023,"Home",10.75,7,14,4
+"Jack Payne","Brisbane Lions",2023,"Home",10.4,7,14,5
 "Jack Petruccelle","West Coast Eagles",2018,"Away",4.5,4,5,2
 "Jack Petruccelle","West Coast Eagles",2018,"Home",7,7,7,1
 "Jack Petruccelle","West Coast Eagles",2019,"Away",9.22,6,15,9
@@ -4577,7 +4579,7 @@
 "Jack Silvagni","Carlton",2022,"Away",15.3,9,20,10
 "Jack Silvagni","Carlton",2022,"Home",13.18,9,17,11
 "Jack Silvagni","Carlton",2023,"Away",15,5,19,5
-"Jack Silvagni","Carlton",2023,"Home",13,13,13,3
+"Jack Silvagni","Carlton",2023,"Home",12.75,12,13,4
 "Jack Sinclair","St Kilda",2015,"Away",11,3,20,11
 "Jack Sinclair","St Kilda",2015,"Home",10.43,5,15,7
 "Jack Sinclair","St Kilda",2016,"Away",11.25,3,19,4
@@ -4654,7 +4656,7 @@
 "Jack Viney","Melbourne",2021,"Home",23.4,16,32,5
 "Jack Viney","Melbourne",2022,"Away",26.22,14,35,9
 "Jack Viney","Melbourne",2022,"Home",26,17,34,11
-"Jack Viney","Melbourne",2023,"Away",22.5,19,28,4
+"Jack Viney","Melbourne",2023,"Away",24.2,19,31,5
 "Jack Viney","Melbourne",2023,"Home",23.67,19,30,3
 "Jack Watts","Melbourne",2014,"Away",18.55,13,27,11
 "Jack Watts","Melbourne",2014,"Home",16.45,11,23,11
@@ -4688,7 +4690,7 @@
 "Jack Ziebell","North Melbourne",2022,"Away",13.6,7,20,10
 "Jack Ziebell","North Melbourne",2022,"Home",13.33,6,29,9
 "Jack Ziebell","North Melbourne",2023,"Away",22.4,19,26,5
-"Jack Ziebell","North Melbourne",2023,"Home",30.33,26,36,3
+"Jack Ziebell","North Melbourne",2023,"Home",29.5,26,36,4
 "Jackson Archer","North Melbourne",2022,"Away",9,6,12,2
 "Jackson Archer","North Melbourne",2022,"Home",15,15,15,1
 "Jackson Callow","Hawthorn",2022,"Away",8,6,10,3
@@ -4702,7 +4704,7 @@
 "Jackson Hately","GWS Giants",2020,"Home",11.67,8,14,3
 "Jackson Mead","Port Adelaide",2022,"Away",9.67,0,18,6
 "Jackson Mead","Port Adelaide",2022,"Home",11.2,6,15,5
-"Jackson Mead","Port Adelaide",2023,"Away",9,9,9,1
+"Jackson Mead","Port Adelaide",2023,"Away",9.5,9,10,2
 "Jackson Mead","Port Adelaide",2023,"Home",8,8,8,1
 "Jackson Merrett","Essendon",2014,"Away",13,6,24,8
 "Jackson Merrett","Essendon",2014,"Home",16.67,8,35,6
@@ -4804,7 +4806,7 @@
 "Jacob Koschitzke","Hawthorn",2022,"Away",8.12,4,11,8
 "Jacob Koschitzke","Hawthorn",2022,"Home",7.5,0,13,8
 "Jacob Koschitzke","Hawthorn",2023,"Away",11,11,11,1
-"Jacob Koschitzke","Hawthorn",2023,"Home",4,4,4,1
+"Jacob Koschitzke","Hawthorn",2023,"Home",6,4,8,2
 "Jacob Townsend","Essendon",2020,"Away",6.83,5,10,6
 "Jacob Townsend","Essendon",2020,"Home",5.67,1,9,6
 "Jacob Townsend","GWS Giants",2014,"Away",9.75,5,14,4
@@ -4838,8 +4840,8 @@
 "Jacob Weitering","Carlton",2022,"Away",12.22,2,21,9
 "Jacob Weitering","Carlton",2022,"Home",11.78,7,15,9
 "Jacob Weitering","Carlton",2023,"Away",16,11,20,5
-"Jacob Weitering","Carlton",2023,"Home",15.33,12,22,3
-"Jacob van Rooyen","Melbourne",2023,"Away",8,7,9,3
+"Jacob Weitering","Carlton",2023,"Home",14.75,12,22,4
+"Jacob van Rooyen","Melbourne",2023,"Away",9.5,7,14,4
 "Jacob van Rooyen","Melbourne",2023,"Home",7.33,5,9,3
 "Jade Gresham","St Kilda",2016,"Away",16.1,8,25,10
 "Jade Gresham","St Kilda",2016,"Home",14.25,12,19,8
@@ -4859,7 +4861,7 @@
 "Jade Gresham","St Kilda",2023,"Home",19.75,17,23,4
 "Jaden McGrath","Brisbane Lions",2015,"Away",8,8,8,1
 "Jaden McGrath","Brisbane Lions",2015,"Home",13.5,13,14,2
-"Jaeger O'Meara","Fremantle",2023,"Away",18.67,18,19,3
+"Jaeger O'Meara","Fremantle",2023,"Away",20.75,18,27,4
 "Jaeger O'Meara","Fremantle",2023,"Home",19.8,17,26,5
 "Jaeger O'Meara","Gold Coast Suns",2014,"Away",21.45,12,29,11
 "Jaeger O'Meara","Gold Coast Suns",2014,"Home",21.45,15,30,11
@@ -4884,7 +4886,7 @@
 "Jai Newcombe","Hawthorn",2022,"Away",21.18,12,30,11
 "Jai Newcombe","Hawthorn",2022,"Home",23.91,16,31,11
 "Jai Newcombe","Hawthorn",2023,"Away",23,15,31,5
-"Jai Newcombe","Hawthorn",2023,"Home",22.33,19,26,3
+"Jai Newcombe","Hawthorn",2023,"Home",23.25,19,26,4
 "Jai Serong","Hawthorn",2022,"Away",4,4,4,1
 "Jai Serong","Hawthorn",2022,"Home",4.5,0,9,2
 "Jaidyn Stephenson","Collingwood",2018,"Away",12.73,6,21,11
@@ -4898,7 +4900,7 @@
 "Jaidyn Stephenson","North Melbourne",2022,"Away",18.44,9,34,9
 "Jaidyn Stephenson","North Melbourne",2022,"Home",17.57,5,31,7
 "Jaidyn Stephenson","North Melbourne",2023,"Away",11,9,13,5
-"Jaidyn Stephenson","North Melbourne",2023,"Home",11.33,8,14,3
+"Jaidyn Stephenson","North Melbourne",2023,"Home",12,8,14,4
 "Jake Aarts","Richmond",2020,"Away",9.57,5,16,7
 "Jake Aarts","Richmond",2020,"Home",10.17,4,16,6
 "Jake Aarts","Richmond",2021,"Away",10,0,18,11
@@ -4921,7 +4923,7 @@
 "Jake Bowey","Melbourne",2021,"Home",18,18,18,1
 "Jake Bowey","Melbourne",2022,"Away",16.89,10,34,9
 "Jake Bowey","Melbourne",2022,"Home",16.5,9,24,8
-"Jake Bowey","Melbourne",2023,"Away",18,15,22,4
+"Jake Bowey","Melbourne",2023,"Away",17.2,14,22,5
 "Jake Bowey","Melbourne",2023,"Home",16,13,18,4
 "Jake Carlisle","Essendon",2014,"Away",12,7,19,10
 "Jake Carlisle","Essendon",2014,"Home",14,6,26,9
@@ -4990,7 +4992,7 @@
 "Jake Lever","Melbourne",2021,"Home",14.91,9,20,11
 "Jake Lever","Melbourne",2022,"Away",12.75,7,17,8
 "Jake Lever","Melbourne",2022,"Home",11.89,7,20,9
-"Jake Lever","Melbourne",2023,"Away",15.33,10,20,3
+"Jake Lever","Melbourne",2023,"Away",14,10,20,4
 "Jake Lever","Melbourne",2023,"Home",16.5,11,21,4
 "Jake Lloyd","Sydney Swans",2014,"Away",15.33,6,29,9
 "Jake Lloyd","Sydney Swans",2014,"Home",14.78,4,22,9
@@ -5011,7 +5013,7 @@
 "Jake Lloyd","Sydney Swans",2022,"Away",22.2,18,29,10
 "Jake Lloyd","Sydney Swans",2022,"Home",25.82,18,39,11
 "Jake Lloyd","Sydney Swans",2023,"Away",23.4,19,28,5
-"Jake Lloyd","Sydney Swans",2023,"Home",24.33,24,25,3
+"Jake Lloyd","Sydney Swans",2023,"Home",24.25,24,25,4
 "Jake Long","Essendon",2016,"Home",11,10,13,3
 "Jake Long","Essendon",2018,"Away",10,10,10,1
 "Jake Long","Essendon",2018,"Home",17,17,17,1
@@ -5077,7 +5079,7 @@
 "Jake Stringer","Essendon",2021,"Home",18.38,12,24,8
 "Jake Stringer","Essendon",2022,"Away",12.86,9,16,7
 "Jake Stringer","Essendon",2022,"Home",13.25,3,22,8
-"Jake Stringer","Essendon",2023,"Away",12.33,8,18,3
+"Jake Stringer","Essendon",2023,"Away",12.5,8,18,4
 "Jake Stringer","Essendon",2023,"Home",16.67,9,26,3
 "Jake Stringer","Western Bulldogs",2014,"Away",12.78,9,18,9
 "Jake Stringer","Western Bulldogs",2014,"Home",11.67,6,17,9
@@ -5113,7 +5115,7 @@
 "Jamarra Ugle-Hagan","Western Bulldogs",2021,"Home",7.33,6,9,3
 "Jamarra Ugle-Hagan","Western Bulldogs",2022,"Away",7.12,0,10,8
 "Jamarra Ugle-Hagan","Western Bulldogs",2022,"Home",8.75,6,12,8
-"Jamarra Ugle-Hagan","Western Bulldogs",2023,"Away",10.6,7,16,5
+"Jamarra Ugle-Hagan","Western Bulldogs",2023,"Away",10.33,7,16,6
 "Jamarra Ugle-Hagan","Western Bulldogs",2023,"Home",9,8,10,3
 "James Aish","Brisbane Lions",2014,"Away",16.8,8,25,10
 "James Aish","Brisbane Lions",2014,"Home",18.36,8,25,11
@@ -5133,7 +5135,7 @@
 "James Aish","Fremantle",2021,"Home",18.55,14,31,11
 "James Aish","Fremantle",2022,"Away",20.5,16,24,10
 "James Aish","Fremantle",2022,"Home",22.18,11,30,11
-"James Aish","Fremantle",2023,"Away",17.67,17,18,3
+"James Aish","Fremantle",2023,"Away",16.25,12,18,4
 "James Aish","Fremantle",2023,"Home",22,11,31,5
 "James Bell","Sydney Swans",2019,"Away",7,6,8,2
 "James Bell","Sydney Swans",2020,"Away",8.5,6,15,4
@@ -5145,7 +5147,7 @@
 "James Blanck","Hawthorn",2022,"Away",8.2,6,11,5
 "James Blanck","Hawthorn",2022,"Home",6.5,0,12,4
 "James Blanck","Hawthorn",2023,"Away",6,6,6,1
-"James Blanck","Hawthorn",2023,"Home",7,7,7,1
+"James Blanck","Hawthorn",2023,"Home",4,1,7,2
 "James Cousins","Hawthorn",2017,"Away",13,12,14,2
 "James Cousins","Hawthorn",2017,"Home",13,13,13,1
 "James Cousins","Hawthorn",2018,"Away",12.33,8,17,3
@@ -5200,7 +5202,7 @@
 "James Jordon","Melbourne",2021,"Home",17.45,4,23,11
 "James Jordon","Melbourne",2022,"Away",20,2,29,11
 "James Jordon","Melbourne",2022,"Home",20.45,15,27,11
-"James Jordon","Melbourne",2023,"Away",10.33,6,17,3
+"James Jordon","Melbourne",2023,"Away",10.25,6,17,4
 "James Jordon","Melbourne",2023,"Home",20,17,22,3
 "James Kelly","Essendon",2016,"Away",26.89,18,33,9
 "James Kelly","Essendon",2016,"Home",24,16,30,11
@@ -5214,6 +5216,7 @@
 "James Madden","Brisbane Lions",2021,"Home",11.83,7,15,6
 "James Madden","Brisbane Lions",2022,"Away",4,4,4,1
 "James Madden","Brisbane Lions",2022,"Home",10,10,10,1
+"James O'Donnell","Western Bulldogs",2023,"Away",4,4,4,1
 "James Parsons","Geelong Cats",2017,"Away",11.78,6,21,9
 "James Parsons","Geelong Cats",2017,"Home",11,3,18,9
 "James Parsons","Geelong Cats",2018,"Away",11.86,8,17,7
@@ -5248,7 +5251,7 @@
 "James Rowbottom","Sydney Swans",2022,"Away",18.1,12,24,10
 "James Rowbottom","Sydney Swans",2022,"Home",18.55,12,26,11
 "James Rowbottom","Sydney Swans",2023,"Away",15.6,12,19,5
-"James Rowbottom","Sydney Swans",2023,"Home",14.33,12,17,3
+"James Rowbottom","Sydney Swans",2023,"Home",16.5,12,23,4
 "James Rowe","Adelaide Crows",2021,"Away",12.9,8,22,10
 "James Rowe","Adelaide Crows",2021,"Home",12.44,0,18,9
 "James Rowe","Adelaide Crows",2022,"Away",12.62,4,24,8
@@ -5268,7 +5271,7 @@
 "James Sicily","Hawthorn",2022,"Away",22.91,16,30,11
 "James Sicily","Hawthorn",2022,"Home",24.73,20,33,11
 "James Sicily","Hawthorn",2023,"Away",21.2,14,26,5
-"James Sicily","Hawthorn",2023,"Home",28.33,27,30,3
+"James Sicily","Hawthorn",2023,"Home",28,27,30,4
 "James Stewart","Essendon",2017,"Away",13.43,9,21,7
 "James Stewart","Essendon",2017,"Home",11.75,9,21,8
 "James Stewart","Essendon",2018,"Away",10.4,7,12,5
@@ -5301,7 +5304,7 @@
 "James Worpel","Hawthorn",2022,"Away",19.17,4,26,6
 "James Worpel","Hawthorn",2022,"Home",10.8,5,14,5
 "James Worpel","Hawthorn",2023,"Away",25,18,35,5
-"James Worpel","Hawthorn",2023,"Home",21.67,15,29,3
+"James Worpel","Hawthorn",2023,"Home",22.75,15,29,4
 "Jamie Bennell","West Coast Eagles",2014,"Away",11.2,3,15,10
 "Jamie Bennell","West Coast Eagles",2014,"Home",16.11,10,23,9
 "Jamie Bennell","West Coast Eagles",2015,"Away",7.75,5,10,4
@@ -5393,7 +5396,7 @@
 "Jarman Impey","Hawthorn",2022,"Away",15.57,11,23,7
 "Jarman Impey","Hawthorn",2022,"Home",15.67,2,25,9
 "Jarman Impey","Hawthorn",2023,"Away",19.6,14,24,5
-"Jarman Impey","Hawthorn",2023,"Home",19,17,22,3
+"Jarman Impey","Hawthorn",2023,"Home",18.5,17,22,4
 "Jarman Impey","Port Adelaide",2014,"Away",10.4,4,16,10
 "Jarman Impey","Port Adelaide",2014,"Home",12,3,20,8
 "Jarman Impey","Port Adelaide",2015,"Away",12.89,4,23,9
@@ -5448,7 +5451,7 @@
 "Jarrod Berry","Brisbane Lions",2022,"Away",15.3,7,21,10
 "Jarrod Berry","Brisbane Lions",2022,"Home",20,11,33,10
 "Jarrod Berry","Brisbane Lions",2023,"Away",18.5,12,29,4
-"Jarrod Berry","Brisbane Lions",2023,"Home",17.25,15,21,4
+"Jarrod Berry","Brisbane Lions",2023,"Home",15.8,10,21,5
 "Jarrod Brander","GWS Giants",2022,"Away",13.5,10,17,2
 "Jarrod Brander","GWS Giants",2022,"Home",12.67,10,16,3
 "Jarrod Brander","West Coast Eagles",2018,"Away",5,5,5,1
@@ -5605,7 +5608,7 @@
 "Jason Holmes","St Kilda",2016,"Home",2,2,2,1
 "Jason Horne-Francis","North Melbourne",2022,"Away",17.88,13,23,8
 "Jason Horne-Francis","North Melbourne",2022,"Home",15.33,8,20,9
-"Jason Horne-Francis","Port Adelaide",2023,"Away",19.33,15,25,3
+"Jason Horne-Francis","Port Adelaide",2023,"Away",18.25,15,25,4
 "Jason Horne-Francis","Port Adelaide",2023,"Home",18.6,13,25,5
 "Jason Johannisen","Western Bulldogs",2014,"Away",15.8,11,20,5
 "Jason Johannisen","Western Bulldogs",2014,"Home",16.5,4,25,6
@@ -5625,7 +5628,7 @@
 "Jason Johannisen","Western Bulldogs",2021,"Home",10.09,0,19,11
 "Jason Johannisen","Western Bulldogs",2022,"Away",9.25,8,12,4
 "Jason Johannisen","Western Bulldogs",2022,"Home",15,11,18,3
-"Jason Johannisen","Western Bulldogs",2023,"Away",19,6,28,5
+"Jason Johannisen","Western Bulldogs",2023,"Away",20.17,6,28,6
 "Jason Johannisen","Western Bulldogs",2023,"Home",19.5,15,24,2
 "Jason Porplyzia","Adelaide Crows",2014,"Away",9,7,11,2
 "Jason Porplyzia","Adelaide Crows",2014,"Home",7.5,2,13,2
@@ -5784,7 +5787,7 @@
 "Jed McEntee","Port Adelaide",2021,"Away",1,1,1,1
 "Jed McEntee","Port Adelaide",2022,"Away",7.75,0,13,4
 "Jed McEntee","Port Adelaide",2022,"Home",7.4,0,13,5
-"Jed McEntee","Port Adelaide",2023,"Away",11,11,11,2
+"Jed McEntee","Port Adelaide",2023,"Away",10.33,9,11,3
 "Jed McEntee","Port Adelaide",2023,"Home",9,7,11,3
 "Jeff Garlett","Carlton",2014,"Away",8.2,4,13,5
 "Jeff Garlett","Carlton",2014,"Home",7.75,3,14,4
@@ -5829,7 +5832,7 @@
 "Jeremy Finlayson","GWS Giants",2021,"Home",11.43,7,15,7
 "Jeremy Finlayson","Port Adelaide",2022,"Away",15.3,10,25,10
 "Jeremy Finlayson","Port Adelaide",2022,"Home",15.2,10,22,10
-"Jeremy Finlayson","Port Adelaide",2023,"Away",17,16,18,2
+"Jeremy Finlayson","Port Adelaide",2023,"Away",18,16,20,3
 "Jeremy Finlayson","Port Adelaide",2023,"Home",12.5,9,17,4
 "Jeremy Howe","Collingwood",2016,"Away",18,8,24,10
 "Jeremy Howe","Collingwood",2016,"Home",20.4,14,29,10
@@ -5924,7 +5927,7 @@
 "Jesse Motlop","Carlton",2022,"Away",8.67,6,13,6
 "Jesse Motlop","Carlton",2022,"Home",8,5,12,6
 "Jesse Motlop","Carlton",2023,"Away",11.75,7,17,4
-"Jesse Motlop","Carlton",2023,"Home",7.67,5,12,3
+"Jesse Motlop","Carlton",2023,"Home",7.75,5,12,4
 "Jesse Palmer","Port Adelaide",2016,"Away",14,14,14,1
 "Jesse Palmer","Port Adelaide",2016,"Home",10,8,12,2
 "Jesse Stringer","Geelong Cats",2014,"Away",12,12,12,1
@@ -5983,7 +5986,7 @@
 "Joe Daniher","Brisbane Lions",2022,"Away",10.12,3,15,8
 "Joe Daniher","Brisbane Lions",2022,"Home",11,7,15,9
 "Joe Daniher","Brisbane Lions",2023,"Away",12,7,16,4
-"Joe Daniher","Brisbane Lions",2023,"Home",16,12,20,4
+"Joe Daniher","Brisbane Lions",2023,"Home",16,12,20,5
 "Joe Daniher","Essendon",2014,"Away",11.56,8,15,9
 "Joe Daniher","Essendon",2014,"Home",11.09,7,15,11
 "Joe Daniher","Essendon",2015,"Away",9.09,3,14,11
@@ -6157,7 +6160,7 @@
 "Jordan Boyd","Carlton",2022,"Home",12.33,11,13,3
 "Jordan Clark","Fremantle",2022,"Away",22.73,20,30,11
 "Jordan Clark","Fremantle",2022,"Home",20.18,11,29,11
-"Jordan Clark","Fremantle",2023,"Away",22,18,28,3
+"Jordan Clark","Fremantle",2023,"Away",21,18,28,4
 "Jordan Clark","Fremantle",2023,"Home",17,15,20,5
 "Jordan Clark","Geelong Cats",2019,"Away",14.1,7,20,10
 "Jordan Clark","Geelong Cats",2019,"Home",13.5,7,23,8
@@ -6373,7 +6376,7 @@
 "Josh Deluca","Carlton",2019,"Away",13,12,14,2
 "Josh Deluca","Carlton",2019,"Home",11.25,8,15,4
 "Josh Dunkley","Brisbane Lions",2023,"Away",24.25,19,33,4
-"Josh Dunkley","Brisbane Lions",2023,"Home",26,25,28,4
+"Josh Dunkley","Brisbane Lions",2023,"Home",25.2,22,28,5
 "Josh Dunkley","Western Bulldogs",2016,"Away",15.17,12,18,6
 "Josh Dunkley","Western Bulldogs",2016,"Home",17.14,9,27,7
 "Josh Dunkley","Western Bulldogs",2017,"Away",14.67,12,16,3
@@ -6573,7 +6576,7 @@
 "Josh Treacy","Fremantle",2021,"Home",8.4,5,15,10
 "Josh Treacy","Fremantle",2022,"Away",6.33,5,8,3
 "Josh Treacy","Fremantle",2022,"Home",12,12,12,1
-"Josh Treacy","Fremantle",2023,"Away",3,3,3,1
+"Josh Treacy","Fremantle",2023,"Away",8.5,3,14,2
 "Josh Treacy","Fremantle",2023,"Home",6,6,6,1
 "Josh Wagner","Melbourne",2016,"Away",18.57,8,25,7
 "Josh Wagner","Melbourne",2016,"Home",16.71,13,21,7
@@ -6608,6 +6611,7 @@
 "Josh Ward","Hawthorn",2023,"Away",19.4,15,23,5
 "Josh Ward","Hawthorn",2023,"Home",26.5,26,27,2
 "Josh Weddle","Hawthorn",2023,"Away",10,8,12,2
+"Josh Weddle","Hawthorn",2023,"Home",15,15,15,1
 "Josh Williams","North Melbourne",2017,"Away",14,14,14,1
 "Josh Williams","North Melbourne",2017,"Home",12,12,12,1
 "Josh Worrell","Adelaide Crows",2021,"Away",3,3,3,1
@@ -6621,7 +6625,7 @@
 "Joshua Glenn","Gold Coast Suns",2015,"Away",10,10,10,1
 "Joshua Glenn","Gold Coast Suns",2015,"Home",11.25,7,21,4
 "Joshua Simpson","Fremantle",2014,"Home",13,13,13,1
-"Judd McVee","Melbourne",2023,"Away",12.5,8,16,4
+"Judd McVee","Melbourne",2023,"Away",12.4,8,16,5
 "Judd McVee","Melbourne",2023,"Home",15.25,13,18,4
 "Judson Clarke","Richmond",2022,"Away",4,4,4,1
 "Judson Clarke","Richmond",2022,"Home",10.5,10,11,2
@@ -6641,7 +6645,7 @@
 "Justin McInerney","Sydney Swans",2022,"Away",17.1,12,24,10
 "Justin McInerney","Sydney Swans",2022,"Home",20.33,17,30,9
 "Justin McInerney","Sydney Swans",2023,"Away",15.8,8,23,5
-"Justin McInerney","Sydney Swans",2023,"Home",15,14,16,2
+"Justin McInerney","Sydney Swans",2023,"Home",15.33,14,16,3
 "Justin Westhoff","Port Adelaide",2014,"Away",19.45,13,24,11
 "Justin Westhoff","Port Adelaide",2014,"Home",17.73,12,25,11
 "Justin Westhoff","Port Adelaide",2015,"Away",17.27,12,24,11
@@ -6675,27 +6679,27 @@
 "Jy Simpkin","North Melbourne",2022,"Away",28.27,18,41,11
 "Jy Simpkin","North Melbourne",2022,"Home",24.8,14,34,10
 "Jy Simpkin","North Melbourne",2023,"Away",20.33,12,25,3
-"Jy Simpkin","North Melbourne",2023,"Home",22.67,14,29,3
+"Jy Simpkin","North Melbourne",2023,"Home",23.5,14,29,4
 "Jye Amiss","Fremantle",2022,"Home",9,9,9,1
-"Jye Amiss","Fremantle",2023,"Away",7.5,7,8,2
+"Jye Amiss","Fremantle",2023,"Away",8,7,9,3
 "Jye Amiss","Fremantle",2023,"Home",6.8,2,10,5
 "Jye Caldwell","Essendon",2021,"Away",10,10,10,1
 "Jye Caldwell","Essendon",2021,"Home",22,22,22,1
 "Jye Caldwell","Essendon",2022,"Away",18.44,10,26,9
 "Jye Caldwell","Essendon",2022,"Home",19,13,23,11
-"Jye Caldwell","Essendon",2023,"Away",17.5,16,19,4
+"Jye Caldwell","Essendon",2023,"Away",17.4,16,19,5
 "Jye Caldwell","Essendon",2023,"Home",13.75,10,20,4
 "Jye Caldwell","GWS Giants",2019,"Home",11.5,10,13,2
 "Jye Caldwell","GWS Giants",2020,"Away",11.83,8,15,6
 "Jye Caldwell","GWS Giants",2020,"Home",14.33,12,16,3
 "Jye Menzie","Essendon",2022,"Home",9.5,9,10,2
-"Jye Menzie","Essendon",2023,"Away",8.75,3,12,4
+"Jye Menzie","Essendon",2023,"Away",8.2,3,12,5
 "Jye Menzie","Essendon",2023,"Home",10.33,6,17,3
 "Kade Chandler","Melbourne",2019,"Home",7,7,7,1
 "Kade Chandler","Melbourne",2021,"Home",0.8,0,4,5
 "Kade Chandler","Melbourne",2022,"Away",1.33,0,3,3
 "Kade Chandler","Melbourne",2022,"Home",3,3,3,1
-"Kade Chandler","Melbourne",2023,"Away",11.75,10,15,4
+"Kade Chandler","Melbourne",2023,"Away",11.8,10,15,5
 "Kade Chandler","Melbourne",2023,"Home",14.5,9,21,4
 "Kade Kolodjashnij","Gold Coast Suns",2014,"Away",15.56,4,25,9
 "Kade Kolodjashnij","Gold Coast Suns",2014,"Home",18.67,9,24,9
@@ -6743,6 +6747,7 @@
 "Kaiden Brand","Sydney Swans",2021,"Home",13,13,13,1
 "Kaine Baldwin","Essendon",2022,"Away",6,5,7,2
 "Kaine Baldwin","Essendon",2022,"Home",5.5,3,8,2
+"Kaine Baldwin","Essendon",2023,"Away",13,13,13,1
 "Kallan Dawson","North Melbourne",2022,"Away",13.5,13,14,2
 "Kallan Dawson","North Melbourne",2022,"Home",14.5,14,15,2
 "Kamdyn McIntosh","Richmond",2015,"Away",16.55,5,27,11
@@ -6777,7 +6782,7 @@
 "Kane Farrell","Port Adelaide",2021,"Home",11.83,5,19,6
 "Kane Farrell","Port Adelaide",2022,"Away",14.62,6,20,8
 "Kane Farrell","Port Adelaide",2022,"Home",15.75,8,20,8
-"Kane Farrell","Port Adelaide",2023,"Away",16,14,18,2
+"Kane Farrell","Port Adelaide",2023,"Away",13.67,9,18,3
 "Kane Farrell","Port Adelaide",2023,"Home",15,9,21,4
 "Kane Lambert","Richmond",2015,"Away",16.67,9,20,6
 "Kane Lambert","Richmond",2015,"Home",15.5,6,27,6
@@ -6804,7 +6809,7 @@
 "Kane Mitchell","Port Adelaide",2016,"Away",16,16,16,1
 "Kane Mitchell","Port Adelaide",2016,"Home",20.33,17,24,3
 "Karl Amon","Hawthorn",2023,"Away",20.8,18,25,5
-"Karl Amon","Hawthorn",2023,"Home",22,20,24,3
+"Karl Amon","Hawthorn",2023,"Home",21.25,19,24,4
 "Karl Amon","Port Adelaide",2015,"Away",12.33,9,16,3
 "Karl Amon","Port Adelaide",2015,"Home",9,5,13,4
 "Karl Amon","Port Adelaide",2016,"Away",14.38,9,22,8
@@ -6855,7 +6860,7 @@
 "Keidean Coleman","Brisbane Lions",2022,"Away",19.33,13,30,9
 "Keidean Coleman","Brisbane Lions",2022,"Home",17.17,13,24,6
 "Keidean Coleman","Brisbane Lions",2023,"Away",14.5,13,16,4
-"Keidean Coleman","Brisbane Lions",2023,"Home",14.67,14,16,3
+"Keidean Coleman","Brisbane Lions",2023,"Home",16,14,20,4
 "Kieran Collins","Western Bulldogs",2016,"Away",4,4,4,1
 "Kieran Lovell","Hawthorn",2016,"Away",14.5,11,18,2
 "Kieran Strachan","Adelaide Crows",2020,"Away",4,4,4,1
@@ -6958,7 +6963,7 @@
 "Kyle Langford","Essendon",2021,"Home",20.67,13,29,9
 "Kyle Langford","Essendon",2022,"Away",12.4,0,18,5
 "Kyle Langford","Essendon",2022,"Home",15.5,9,21,4
-"Kyle Langford","Essendon",2023,"Away",18.75,17,22,4
+"Kyle Langford","Essendon",2023,"Away",16.8,9,22,5
 "Kyle Langford","Essendon",2023,"Home",13.25,11,16,4
 "Kyle Martin","Collingwood",2014,"Home",7,0,14,2
 "Kyron Hayden","North Melbourne",2019,"Away",4,4,4,1
@@ -6974,7 +6979,7 @@
 "Kysaiah Pickett","Melbourne",2021,"Home",11.45,4,17,11
 "Kysaiah Pickett","Melbourne",2022,"Away",10.09,7,20,11
 "Kysaiah Pickett","Melbourne",2022,"Home",11.4,5,17,10
-"Kysaiah Pickett","Melbourne",2023,"Away",11.33,8,15,3
+"Kysaiah Pickett","Melbourne",2023,"Away",11.5,8,15,4
 "Kysaiah Pickett","Melbourne",2023,"Home",14.33,8,19,3
 "Lachie Ash","GWS Giants",2020,"Away",11.43,6,18,7
 "Lachie Ash","GWS Giants",2020,"Home",11.2,4,15,5
@@ -7009,7 +7014,7 @@
 "Lachie Henderson","Geelong Cats",2020,"Home",12,8,15,4
 "Lachie Henderson","Geelong Cats",2021,"Away",15,6,20,9
 "Lachie Henderson","Geelong Cats",2021,"Home",17.67,9,24,9
-"Lachie Hunter","Melbourne",2023,"Away",23.5,22,27,4
+"Lachie Hunter","Melbourne",2023,"Away",22.2,17,27,5
 "Lachie Hunter","Melbourne",2023,"Home",18.75,12,23,4
 "Lachie Hunter","Western Bulldogs",2014,"Away",14.38,3,24,8
 "Lachie Hunter","Western Bulldogs",2014,"Home",13.83,3,18,6
@@ -7044,7 +7049,7 @@
 "Lachie Neale","Brisbane Lions",2022,"Away",29.09,16,41,11
 "Lachie Neale","Brisbane Lions",2022,"Home",31.18,21,39,11
 "Lachie Neale","Brisbane Lions",2023,"Away",22.75,20,31,4
-"Lachie Neale","Brisbane Lions",2023,"Home",30.25,22,37,4
+"Lachie Neale","Brisbane Lions",2023,"Home",31,22,37,5
 "Lachie Neale","Fremantle",2014,"Away",22.09,5,32,11
 "Lachie Neale","Fremantle",2014,"Home",23.4,16,34,10
 "Lachie Neale","Fremantle",2015,"Away",26.36,16,42,11
@@ -7082,7 +7087,7 @@
 "Lachie Schultz","Fremantle",2021,"Home",11.3,4,20,10
 "Lachie Schultz","Fremantle",2022,"Away",15.6,9,23,10
 "Lachie Schultz","Fremantle",2022,"Home",11.36,7,17,11
-"Lachie Schultz","Fremantle",2023,"Away",14.33,12,16,3
+"Lachie Schultz","Fremantle",2023,"Away",14.25,12,16,4
 "Lachie Schultz","Fremantle",2023,"Home",14,10,20,5
 "Lachie Weller","Fremantle",2015,"Away",11.5,7,16,2
 "Lachie Weller","Fremantle",2015,"Home",8,8,8,1
@@ -7134,7 +7139,7 @@
 "Lachlan Bramble","Hawthorn",2022,"Away",13.83,8,17,6
 "Lachlan Bramble","Hawthorn",2022,"Home",18.33,11,24,3
 "Lachlan Bramble","Hawthorn",2023,"Away",15.5,9,22,2
-"Lachlan Bramble","Hawthorn",2023,"Home",12.5,7,18,2
+"Lachlan Bramble","Hawthorn",2023,"Home",13,7,18,3
 "Lachlan Cowan","Carlton",2023,"Away",9.25,8,11,4
 "Lachlan Cowan","Carlton",2023,"Home",11.5,11,12,2
 "Lachlan Gollant","Adelaide Crows",2021,"Home",11,11,11,1
@@ -7168,7 +7173,7 @@
 "Lachlan McNeil","Western Bulldogs",2021,"Home",8.29,0,13,7
 "Lachlan McNeil","Western Bulldogs",2022,"Away",7.71,0,14,7
 "Lachlan McNeil","Western Bulldogs",2022,"Home",8.89,1,14,9
-"Lachlan McNeil","Western Bulldogs",2023,"Away",3.5,3,4,2
+"Lachlan McNeil","Western Bulldogs",2023,"Away",2.33,0,4,3
 "Lachlan McNeil","Western Bulldogs",2023,"Home",10,10,10,1
 "Lachlan Murphy","Adelaide Crows",2018,"Away",8.2,4,12,5
 "Lachlan Murphy","Adelaide Crows",2018,"Home",9.17,7,11,6
@@ -7213,7 +7218,7 @@
 "Lance Franklin","Sydney Swans",2022,"Away",12.22,6,19,9
 "Lance Franklin","Sydney Swans",2022,"Home",11.91,7,16,11
 "Lance Franklin","Sydney Swans",2023,"Away",10.33,8,13,3
-"Lance Franklin","Sydney Swans",2023,"Home",9.5,8,11,2
+"Lance Franklin","Sydney Swans",2023,"Home",7.67,4,11,3
 "Lee Spurr","Fremantle",2014,"Away",15.73,8,25,11
 "Lee Spurr","Fremantle",2014,"Home",19.45,8,32,11
 "Lee Spurr","Fremantle",2015,"Away",14.6,8,24,10
@@ -7326,7 +7331,7 @@
 "Lewis Young","Carlton",2022,"Away",13.78,5,19,9
 "Lewis Young","Carlton",2022,"Home",13.1,8,20,10
 "Lewis Young","Carlton",2023,"Away",15.4,11,22,5
-"Lewis Young","Carlton",2023,"Home",14,12,16,3
+"Lewis Young","Carlton",2023,"Home",14.25,12,16,4
 "Lewis Young","Western Bulldogs",2017,"Away",15,8,21,3
 "Lewis Young","Western Bulldogs",2017,"Home",11.25,8,16,4
 "Lewis Young","Western Bulldogs",2018,"Home",9.5,9,10,2
@@ -7394,7 +7399,7 @@
 "Liam Jones","Carlton",2021,"Home",12.22,6,20,9
 "Liam Jones","Western Bulldogs",2014,"Away",11.6,8,16,5
 "Liam Jones","Western Bulldogs",2014,"Home",8.4,1,14,5
-"Liam Jones","Western Bulldogs",2023,"Away",8.6,1,15,5
+"Liam Jones","Western Bulldogs",2023,"Away",8.83,1,15,6
 "Liam Jones","Western Bulldogs",2023,"Home",10.67,10,12,3
 "Liam McBean","Richmond",2015,"Home",8,7,9,2
 "Liam McBean","Richmond",2016,"Away",6.5,6,7,2
@@ -7438,7 +7443,7 @@
 "Liam Shiels","Hawthorn",2022,"Away",11.29,0,16,7
 "Liam Shiels","Hawthorn",2022,"Home",11.17,0,25,6
 "Liam Shiels","North Melbourne",2023,"Away",15.4,3,27,5
-"Liam Shiels","North Melbourne",2023,"Home",21,16,28,3
+"Liam Shiels","North Melbourne",2023,"Home",20,16,28,4
 "Liam Stocker","Carlton",2019,"Away",14,12,18,3
 "Liam Stocker","Carlton",2019,"Home",13,10,16,2
 "Liam Stocker","Carlton",2021,"Away",13.44,7,18,9
@@ -7474,7 +7479,7 @@
 "Lincoln McCarthy","Brisbane Lions",2022,"Away",12.27,9,22,11
 "Lincoln McCarthy","Brisbane Lions",2022,"Home",12.91,8,17,11
 "Lincoln McCarthy","Brisbane Lions",2023,"Away",8.25,8,9,4
-"Lincoln McCarthy","Brisbane Lions",2023,"Home",12.25,10,17,4
+"Lincoln McCarthy","Brisbane Lions",2023,"Home",12,10,17,5
 "Lincoln McCarthy","Geelong Cats",2014,"Away",12,12,12,1
 "Lincoln McCarthy","Geelong Cats",2014,"Home",11,9,13,2
 "Lincoln McCarthy","Geelong Cats",2016,"Away",12.43,9,18,7
@@ -7498,7 +7503,7 @@
 "Lloyd Meek","Fremantle",2022,"Away",13.25,12,15,4
 "Lloyd Meek","Fremantle",2022,"Home",8,7,9,2
 "Lloyd Meek","Hawthorn",2023,"Away",10.25,9,12,4
-"Lloyd Meek","Hawthorn",2023,"Home",8.5,8,9,2
+"Lloyd Meek","Hawthorn",2023,"Home",10.33,8,14,3
 "Lochie O'Brien","Carlton",2018,"Away",12.3,9,19,10
 "Lochie O'Brien","Carlton",2018,"Home",16,10,22,8
 "Lochie O'Brien","Carlton",2019,"Away",10.88,7,18,8
@@ -7521,7 +7526,7 @@
 "Logan McDonald","Sydney Swans",2022,"Away",10.11,5,16,9
 "Logan McDonald","Sydney Swans",2022,"Home",7.33,6,10,6
 "Logan McDonald","Sydney Swans",2023,"Away",9.6,5,13,5
-"Logan McDonald","Sydney Swans",2023,"Home",10.67,7,13,3
+"Logan McDonald","Sydney Swans",2023,"Home",8.75,3,13,4
 "Louis Butler","Western Bulldogs",2020,"Away",15,14,16,2
 "Louis Butler","Western Bulldogs",2021,"Home",10,10,10,1
 "Louis Butler","Western Bulldogs",2022,"Away",13,13,13,1
@@ -7556,7 +7561,7 @@
 "Luke Breust","Hawthorn",2022,"Away",10.73,8,15,11
 "Luke Breust","Hawthorn",2022,"Home",11.7,5,15,10
 "Luke Breust","Hawthorn",2023,"Away",12.25,9,16,4
-"Luke Breust","Hawthorn",2023,"Home",8.67,7,11,3
+"Luke Breust","Hawthorn",2023,"Home",8.25,7,11,4
 "Luke Brown","Adelaide Crows",2014,"Away",12.91,4,20,11
 "Luke Brown","Adelaide Crows",2014,"Home",13.09,7,19,11
 "Luke Brown","Adelaide Crows",2015,"Away",12.55,8,19,11
@@ -7606,7 +7611,7 @@
 "Luke Davies-Uniacke","North Melbourne",2022,"Away",25.7,16,37,10
 "Luke Davies-Uniacke","North Melbourne",2022,"Home",24.09,4,33,11
 "Luke Davies-Uniacke","North Melbourne",2023,"Away",24.33,20,30,3
-"Luke Davies-Uniacke","North Melbourne",2023,"Home",29,25,32,3
+"Luke Davies-Uniacke","North Melbourne",2023,"Home",29,25,32,4
 "Luke Delaney","St Kilda",2014,"Away",7.45,4,13,11
 "Luke Delaney","St Kilda",2014,"Home",8.73,4,13,11
 "Luke Delaney","St Kilda",2015,"Away",9.4,7,12,5
@@ -7655,7 +7660,7 @@
 "Luke Hodge","Hawthorn",2016,"Home",22,15,28,7
 "Luke Hodge","Hawthorn",2017,"Away",22.11,16,27,9
 "Luke Hodge","Hawthorn",2017,"Home",24.1,14,35,10
-"Luke Jackson","Fremantle",2023,"Away",12.67,12,14,3
+"Luke Jackson","Fremantle",2023,"Away",13.75,12,17,4
 "Luke Jackson","Fremantle",2023,"Home",13.6,9,24,5
 "Luke Jackson","Melbourne",2020,"Away",9.67,7,14,3
 "Luke Jackson","Melbourne",2020,"Home",7.67,4,11,3
@@ -7683,7 +7688,7 @@
 "Luke McDonald","North Melbourne",2022,"Away",21.45,10,27,11
 "Luke McDonald","North Melbourne",2022,"Home",19.09,13,31,11
 "Luke McDonald","North Melbourne",2023,"Away",18.8,15,24,5
-"Luke McDonald","North Melbourne",2023,"Home",21,19,22,3
+"Luke McDonald","North Melbourne",2023,"Home",20,17,22,4
 "Luke McGuane","Brisbane Lions",2014,"Away",5,5,5,1
 "Luke McGuane","Brisbane Lions",2014,"Home",5.5,4,7,2
 "Luke McGuane","Brisbane Lions",2015,"Away",11,8,14,2
@@ -7711,7 +7716,7 @@
 "Luke Parker","Sydney Swans",2022,"Away",24.18,17,29,11
 "Luke Parker","Sydney Swans",2022,"Home",24.91,16,34,11
 "Luke Parker","Sydney Swans",2023,"Away",22.4,15,34,5
-"Luke Parker","Sydney Swans",2023,"Home",27.33,22,33,3
+"Luke Parker","Sydney Swans",2023,"Home",27.25,22,33,4
 "Luke Parks","Carlton",2021,"Away",6.4,3,12,5
 "Luke Parks","Carlton",2021,"Home",13,13,13,1
 "Luke Parks","Carlton",2022,"Away",9,9,9,1
@@ -7742,7 +7747,7 @@
 "Luke Ryan","Fremantle",2021,"Home",22.36,17,29,11
 "Luke Ryan","Fremantle",2022,"Away",21.18,15,32,11
 "Luke Ryan","Fremantle",2022,"Home",21.09,12,32,11
-"Luke Ryan","Fremantle",2023,"Away",25.67,18,37,3
+"Luke Ryan","Fremantle",2023,"Away",24,18,37,4
 "Luke Ryan","Fremantle",2023,"Home",24.6,17,30,5
 "Luke Shuey","West Coast Eagles",2014,"Away",26,15,31,10
 "Luke Shuey","West Coast Eagles",2014,"Home",22.4,14,31,10
@@ -7843,7 +7848,7 @@
 "Marc Pittonet","Carlton",2022,"Away",6.75,3,12,4
 "Marc Pittonet","Carlton",2022,"Home",13.25,12,15,4
 "Marc Pittonet","Carlton",2023,"Away",9.25,1,13,4
-"Marc Pittonet","Carlton",2023,"Home",10.67,10,12,3
+"Marc Pittonet","Carlton",2023,"Home",10,8,12,4
 "Marc Pittonet","Hawthorn",2016,"Away",6,6,6,2
 "Marc Pittonet","Hawthorn",2016,"Home",8,8,8,1
 "Marc Pittonet","Hawthorn",2018,"Away",3,3,3,1
@@ -7851,7 +7856,7 @@
 "Marc Pittonet","Hawthorn",2019,"Away",11,11,11,1
 "Marc Pittonet","Hawthorn",2019,"Home",8,8,8,1
 "Marc Sheather","Sydney Swans",2023,"Away",4,4,4,1
-"Marc Sheather","Sydney Swans",2023,"Home",2,2,2,1
+"Marc Sheather","Sydney Swans",2023,"Home",3.5,2,5,2
 "Marco Paparone","Brisbane Lions",2014,"Away",11.22,4,20,9
 "Marco Paparone","Brisbane Lions",2014,"Home",16,2,29,9
 "Marco Paparone","Brisbane Lions",2015,"Away",18.91,12,25,11
@@ -7891,7 +7896,7 @@
 "Marcus Bontempelli","Western Bulldogs",2021,"Home",26.36,15,34,11
 "Marcus Bontempelli","Western Bulldogs",2022,"Away",23.1,17,33,10
 "Marcus Bontempelli","Western Bulldogs",2022,"Home",23.27,16,34,11
-"Marcus Bontempelli","Western Bulldogs",2023,"Away",27.2,23,32,5
+"Marcus Bontempelli","Western Bulldogs",2023,"Away",26.83,23,32,6
 "Marcus Bontempelli","Western Bulldogs",2023,"Home",23.67,19,28,3
 "Marcus Windhager","St Kilda",2022,"Away",12.67,2,23,9
 "Marcus Windhager","St Kilda",2022,"Home",11,0,21,9
@@ -8055,7 +8060,7 @@
 "Mason Redman","Essendon",2021,"Home",17,8,25,11
 "Mason Redman","Essendon",2022,"Away",20.78,10,31,9
 "Mason Redman","Essendon",2022,"Home",21.55,14,34,11
-"Mason Redman","Essendon",2023,"Away",22,20,24,4
+"Mason Redman","Essendon",2023,"Away",23.6,20,30,5
 "Mason Redman","Essendon",2023,"Home",20.25,16,27,4
 "Mason Wood","North Melbourne",2014,"Home",7,7,7,1
 "Mason Wood","North Melbourne",2015,"Away",14,9,22,3
@@ -8078,7 +8083,7 @@
 "Mason Wood","St Kilda",2023,"Home",22.25,18,27,4
 "Massimo D'Ambrosio","Essendon",2022,"Away",10.5,0,15,4
 "Massimo D'Ambrosio","Essendon",2022,"Home",13.5,9,23,4
-"Massimo D'Ambrosio","Essendon",2023,"Away",27,27,27,1
+"Massimo D'Ambrosio","Essendon",2023,"Away",18,9,27,2
 "Massimo D'Ambrosio","Essendon",2023,"Home",15.5,13,18,2
 "Mathew Stokes","Essendon",2016,"Away",16.2,8,27,5
 "Mathew Stokes","Essendon",2016,"Home",21.5,11,32,6
@@ -8270,6 +8275,7 @@
 "Matthew Cottrell","Carlton",2021,"Home",10.43,0,14,7
 "Matthew Cottrell","Carlton",2022,"Away",15.33,10,21,9
 "Matthew Cottrell","Carlton",2022,"Home",14.33,3,22,9
+"Matthew Cottrell","Carlton",2023,"Home",16,16,16,1
 "Matthew Dick","Carlton",2015,"Away",12,3,19,4
 "Matthew Dick","Carlton",2015,"Home",11,11,11,2
 "Matthew Goodyear","Collingwood",2016,"Away",11,11,11,1
@@ -8295,7 +8301,7 @@
 "Matthew Kennedy","Carlton",2022,"Away",24.14,15,31,7
 "Matthew Kennedy","Carlton",2022,"Home",24.7,20,33,10
 "Matthew Kennedy","Carlton",2023,"Away",15,7,22,3
-"Matthew Kennedy","Carlton",2023,"Home",20,13,26,3
+"Matthew Kennedy","Carlton",2023,"Home",21.75,13,27,4
 "Matthew Kennedy","GWS Giants",2016,"Away",11,11,11,1
 "Matthew Kennedy","GWS Giants",2016,"Home",9,6,12,2
 "Matthew Kennedy","GWS Giants",2017,"Away",18.78,13,28,9
@@ -8345,7 +8351,7 @@
 "Matthew Owies","Carlton",2022,"Away",9.3,6,15,10
 "Matthew Owies","Carlton",2022,"Home",9.86,5,15,7
 "Matthew Owies","Carlton",2023,"Away",7,4,10,2
-"Matthew Owies","Carlton",2023,"Home",13,13,13,1
+"Matthew Owies","Carlton",2023,"Home",10.5,8,13,2
 "Matthew Parker","Richmond",2021,"Away",14.67,12,19,3
 "Matthew Parker","Richmond",2021,"Home",11.67,9,14,3
 "Matthew Parker","Richmond",2022,"Away",14,13,15,2
@@ -8446,7 +8452,7 @@
 "Max Gawn","Melbourne",2021,"Home",17.64,12,23,11
 "Max Gawn","Melbourne",2022,"Away",17.1,11,25,10
 "Max Gawn","Melbourne",2022,"Home",21.2,11,31,10
-"Max Gawn","Melbourne",2023,"Away",8,1,15,2
+"Max Gawn","Melbourne",2023,"Away",11.33,1,18,3
 "Max Gawn","Melbourne",2023,"Home",17.33,14,21,3
 "Max Holmes","Geelong Cats",2021,"Away",5.4,0,15,5
 "Max Holmes","Geelong Cats",2021,"Home",14.2,8,18,5
@@ -8508,7 +8514,7 @@
 "Michael Frederick","Fremantle",2021,"Home",11.33,10,13,3
 "Michael Frederick","Fremantle",2022,"Away",11.45,8,17,11
 "Michael Frederick","Fremantle",2022,"Home",10.22,2,18,9
-"Michael Frederick","Fremantle",2023,"Away",15,15,15,1
+"Michael Frederick","Fremantle",2023,"Away",13,11,15,2
 "Michael Frederick","Fremantle",2023,"Home",13.6,12,17,5
 "Michael Gibbons","Carlton",2019,"Away",14.6,9,21,10
 "Michael Gibbons","Carlton",2019,"Home",14.73,4,23,11
@@ -8544,7 +8550,7 @@
 "Michael Hibberd","Melbourne",2021,"Home",13,3,18,9
 "Michael Hibberd","Melbourne",2022,"Away",14.5,7,22,6
 "Michael Hibberd","Melbourne",2022,"Home",13.75,11,16,4
-"Michael Hibberd","Melbourne",2023,"Away",8,8,8,1
+"Michael Hibberd","Melbourne",2023,"Away",11.5,8,15,2
 "Michael Hibberd","Melbourne",2023,"Home",17,11,23,3
 "Michael Hurley","Essendon",2014,"Away",18.3,13,29,10
 "Michael Hurley","Essendon",2014,"Home",20.7,16,27,10
@@ -8612,7 +8618,7 @@
 "Michael Walters","Fremantle",2021,"Home",14.14,9,23,7
 "Michael Walters","Fremantle",2022,"Away",12.89,7,17,9
 "Michael Walters","Fremantle",2022,"Home",15.1,6,22,10
-"Michael Walters","Fremantle",2023,"Away",10,9,11,2
+"Michael Walters","Fremantle",2023,"Away",10.67,9,12,3
 "Michael Walters","Fremantle",2023,"Home",11,7,14,5
 "Mike Pyke","Sydney Swans",2014,"Away",8.11,5,14,9
 "Mike Pyke","Sydney Swans",2014,"Home",10.71,7,16,7
@@ -8622,11 +8628,11 @@
 "Miles Bergman","Port Adelaide",2021,"Home",13.5,2,20,10
 "Miles Bergman","Port Adelaide",2022,"Away",13.8,10,16,5
 "Miles Bergman","Port Adelaide",2022,"Home",18.8,13,25,5
-"Miles Bergman","Port Adelaide",2023,"Away",17,13,21,3
+"Miles Bergman","Port Adelaide",2023,"Away",18,13,21,4
 "Miles Bergman","Port Adelaide",2023,"Home",15,10,23,5
 "Miller Bergman","North Melbourne",2022,"Away",1,1,1,1
 "Miller Bergman","North Melbourne",2023,"Away",12,10,14,2
-"Miller Bergman","North Melbourne",2023,"Home",14.5,13,16,2
+"Miller Bergman","North Melbourne",2023,"Home",13,10,16,3
 "Mitch Brown","Essendon",2016,"Away",14.6,9,25,10
 "Mitch Brown","Essendon",2016,"Home",14.09,7,22,11
 "Mitch Brown","Essendon",2017,"Away",20.5,12,29,2
@@ -8730,6 +8736,7 @@
 "Mitch Lewis","Hawthorn",2022,"Away",10.14,3,15,7
 "Mitch Lewis","Hawthorn",2022,"Home",12.12,9,16,8
 "Mitch Lewis","Hawthorn",2023,"Away",13.5,11,16,2
+"Mitch Lewis","Hawthorn",2023,"Home",6,6,6,1
 "Mitch McGovern","Adelaide Crows",2016,"Away",9.45,2,15,11
 "Mitch McGovern","Adelaide Crows",2016,"Home",10.5,7,14,10
 "Mitch McGovern","Adelaide Crows",2017,"Away",10,6,14,7
@@ -8745,7 +8752,7 @@
 "Mitch McGovern","Carlton",2022,"Away",16.75,13,18,4
 "Mitch McGovern","Carlton",2022,"Home",12.33,10,14,3
 "Mitch McGovern","Carlton",2023,"Away",17.75,8,27,4
-"Mitch McGovern","Carlton",2023,"Home",15.33,10,20,3
+"Mitch McGovern","Carlton",2023,"Home",15,10,20,4
 "Mitch Owens","St Kilda",2022,"Away",7.5,4,11,2
 "Mitch Owens","St Kilda",2022,"Home",11.8,6,18,5
 "Mitch Owens","St Kilda",2023,"Away",15.75,14,17,4
@@ -8856,7 +8863,7 @@
 "Nat Fyfe","Fremantle",2021,"Home",23.14,15,34,7
 "Nat Fyfe","Fremantle",2022,"Away",12,7,21,4
 "Nat Fyfe","Fremantle",2022,"Home",19.33,15,22,3
-"Nat Fyfe","Fremantle",2023,"Away",9,9,9,1
+"Nat Fyfe","Fremantle",2023,"Away",7.5,6,9,2
 "Nat Fyfe","Fremantle",2023,"Home",10,10,10,1
 "Nathan Broad","Richmond",2016,"Away",12,12,12,1
 "Nathan Broad","Richmond",2016,"Home",14,14,14,1
@@ -8952,7 +8959,7 @@
 "Nathan Murphy","Collingwood",2023,"Home",9.75,8,11,4
 "Nathan O'Driscoll","Fremantle",2022,"Away",17.6,12,22,5
 "Nathan O'Driscoll","Fremantle",2022,"Home",13.2,2,20,5
-"Nathan O'Driscoll","Fremantle",2023,"Away",9.5,5,14,2
+"Nathan O'Driscoll","Fremantle",2023,"Away",10.67,5,14,3
 "Nathan O'Driscoll","Fremantle",2023,"Home",16,12,20,2
 "Nathan Van Berlo","Adelaide Crows",2015,"Away",14.22,6,19,9
 "Nathan Van Berlo","Adelaide Crows",2015,"Home",15.89,9,25,9
@@ -9023,7 +9030,7 @@
 "Ned Reeves","Hawthorn",2023,"Home",6.33,4,9,3
 "Neil Erasmus","Fremantle",2022,"Away",15.5,13,18,2
 "Neil Erasmus","Fremantle",2022,"Home",7.67,0,15,3
-"Neil Erasmus","Fremantle",2023,"Away",4,4,4,1
+"Neil Erasmus","Fremantle",2023,"Away",9.5,4,15,2
 "Neil Erasmus","Fremantle",2023,"Home",16,16,16,1
 "Neville Jetta","Melbourne",2014,"Away",14.43,8,19,7
 "Neville Jetta","Melbourne",2014,"Home",11.89,4,19,9
@@ -9043,7 +9050,7 @@
 "Neville Jetta","Melbourne",2021,"Home",7.5,5,10,2
 "Nic Martin","Essendon",2022,"Away",20.09,13,27,11
 "Nic Martin","Essendon",2022,"Home",19.7,13,25,10
-"Nic Martin","Essendon",2023,"Away",21.5,18,28,4
+"Nic Martin","Essendon",2023,"Away",21,18,28,5
 "Nic Martin","Essendon",2023,"Home",19,13,24,4
 "Nic Naitanui","West Coast Eagles",2014,"Away",12,6,17,11
 "Nic Naitanui","West Coast Eagles",2014,"Home",13,8,22,9
@@ -9070,7 +9077,7 @@
 "Nic Newman","Carlton",2022,"Away",19.78,5,29,9
 "Nic Newman","Carlton",2022,"Home",19.4,12,26,10
 "Nic Newman","Carlton",2023,"Away",22,14,34,5
-"Nic Newman","Carlton",2023,"Home",23.67,19,28,3
+"Nic Newman","Carlton",2023,"Home",23.5,19,28,4
 "Nic Newman","Sydney Swans",2017,"Away",23.4,16,35,10
 "Nic Newman","Sydney Swans",2017,"Home",17.5,12,23,8
 "Nic Newman","Sydney Swans",2018,"Away",17.83,14,22,6
@@ -9086,7 +9093,7 @@
 "Nick Blakey","Sydney Swans",2022,"Away",18.55,13,25,11
 "Nick Blakey","Sydney Swans",2022,"Home",22,14,31,10
 "Nick Blakey","Sydney Swans",2023,"Away",22.4,19,30,5
-"Nick Blakey","Sydney Swans",2023,"Home",18.33,12,24,3
+"Nick Blakey","Sydney Swans",2023,"Home",18,12,24,4
 "Nick Bryan","Essendon",2021,"Home",12,12,12,1
 "Nick Bryan","Essendon",2022,"Away",8,6,10,3
 "Nick Bryan","Essendon",2022,"Home",5.5,5,6,2
@@ -9142,7 +9149,7 @@
 "Nick Hind","Essendon",2021,"Home",21.55,14,31,11
 "Nick Hind","Essendon",2022,"Away",21.2,15,27,10
 "Nick Hind","Essendon",2022,"Home",19.73,8,26,11
-"Nick Hind","Essendon",2023,"Away",12,11,13,2
+"Nick Hind","Essendon",2023,"Away",14.67,11,20,3
 "Nick Hind","Essendon",2023,"Home",11,7,15,2
 "Nick Hind","St Kilda",2019,"Away",8.83,6,13,6
 "Nick Hind","St Kilda",2019,"Home",13.4,8,17,5
@@ -9176,7 +9183,7 @@
 "Nick Larkey","North Melbourne",2022,"Away",9.2,2,19,10
 "Nick Larkey","North Melbourne",2022,"Home",10.2,7,16,10
 "Nick Larkey","North Melbourne",2023,"Away",6.6,4,9,5
-"Nick Larkey","North Melbourne",2023,"Home",7,5,9,3
+"Nick Larkey","North Melbourne",2023,"Home",7.5,5,9,4
 "Nick Malceski","Gold Coast Suns",2015,"Away",15.56,12,18,9
 "Nick Malceski","Gold Coast Suns",2015,"Home",18,12,25,7
 "Nick Malceski","Gold Coast Suns",2016,"Away",16.44,10,24,9
@@ -9274,7 +9281,7 @@
 "Noah Answerth","Brisbane Lions",2022,"Away",14.09,10,18,11
 "Noah Answerth","Brisbane Lions",2022,"Home",14.9,9,20,10
 "Noah Answerth","Brisbane Lions",2023,"Away",10.5,5,16,2
-"Noah Answerth","Brisbane Lions",2023,"Home",7,7,7,1
+"Noah Answerth","Brisbane Lions",2023,"Home",5.5,4,7,2
 "Noah Balta","Richmond",2019,"Away",8.86,5,13,7
 "Noah Balta","Richmond",2019,"Home",9.83,5,18,6
 "Noah Balta","Richmond",2020,"Away",11.14,7,20,7
@@ -9322,7 +9329,7 @@
 "Oliver Florent","Sydney Swans",2022,"Away",15.27,8,21,11
 "Oliver Florent","Sydney Swans",2022,"Home",17.64,12,27,11
 "Oliver Florent","Sydney Swans",2023,"Away",19.6,14,29,5
-"Oliver Florent","Sydney Swans",2023,"Home",22.67,10,33,3
+"Oliver Florent","Sydney Swans",2023,"Home",21.75,10,33,4
 "Oliver Hanrahan","Hawthorn",2019,"Away",14.25,8,19,4
 "Oliver Hanrahan","Hawthorn",2019,"Home",12.2,10,16,5
 "Oliver Hanrahan","Hawthorn",2020,"Away",11.67,10,14,3
@@ -9336,8 +9343,8 @@
 "Oliver Henry","Geelong Cats",2023,"Away",11.75,7,17,4
 "Oliver Henry","Geelong Cats",2023,"Home",11.8,9,15,5
 "Oliver Hollands","Carlton",2023,"Away",12.6,11,15,5
-"Oliver Hollands","Carlton",2023,"Home",21,20,22,3
-"Ollie Lord","Port Adelaide",2023,"Away",5,5,5,1
+"Oliver Hollands","Carlton",2023,"Home",19,13,22,4
+"Ollie Lord","Port Adelaide",2023,"Away",7.5,5,10,2
 "Ollie Lord","Port Adelaide",2023,"Home",10,10,10,1
 "Ollie Wines","Port Adelaide",2014,"Away",25.18,19,29,11
 "Ollie Wines","Port Adelaide",2014,"Home",23.91,18,30,11
@@ -9357,7 +9364,7 @@
 "Ollie Wines","Port Adelaide",2021,"Home",31.27,24,38,11
 "Ollie Wines","Port Adelaide",2022,"Away",30,26,39,10
 "Ollie Wines","Port Adelaide",2022,"Home",26.91,7,36,11
-"Ollie Wines","Port Adelaide",2023,"Away",22,19,26,3
+"Ollie Wines","Port Adelaide",2023,"Away",22,19,26,4
 "Ollie Wines","Port Adelaide",2023,"Home",24.4,21,29,5
 "Orazio Fantasia","Essendon",2014,"Away",10,9,11,2
 "Orazio Fantasia","Essendon",2014,"Home",6,6,6,1
@@ -9418,14 +9425,14 @@
 "Oscar McInerney","Brisbane Lions",2022,"Away",13,9,23,9
 "Oscar McInerney","Brisbane Lions",2022,"Home",12,7,19,11
 "Oscar McInerney","Brisbane Lions",2023,"Away",12.5,11,16,4
-"Oscar McInerney","Brisbane Lions",2023,"Home",12.5,9,18,4
+"Oscar McInerney","Brisbane Lions",2023,"Home",12.4,9,18,5
 "Oskar Baker","Melbourne",2019,"Away",12.75,8,18,4
 "Oskar Baker","Melbourne",2019,"Home",14.6,8,21,5
 "Oskar Baker","Melbourne",2020,"Away",14.5,14,15,2
 "Oskar Baker","Melbourne",2020,"Home",12,12,12,1
 "Oskar Baker","Melbourne",2021,"Away",7.5,0,15,2
 "Oskar Baker","Melbourne",2021,"Home",0,0,0,1
-"Oskar Baker","Western Bulldogs",2023,"Away",14.8,11,20,5
+"Oskar Baker","Western Bulldogs",2023,"Away",14.83,11,20,6
 "Oskar Baker","Western Bulldogs",2023,"Home",17,13,20,3
 "Paddy Dow","Carlton",2018,"Away",15.1,10,20,10
 "Paddy Dow","Carlton",2018,"Home",13.3,11,15,10
@@ -9499,7 +9506,7 @@
 "Patrick Cripps","Carlton",2022,"Away",27.45,7,41,11
 "Patrick Cripps","Carlton",2022,"Home",28.9,17,35,10
 "Patrick Cripps","Carlton",2023,"Away",29.8,19,42,5
-"Patrick Cripps","Carlton",2023,"Home",26,17,34,3
+"Patrick Cripps","Carlton",2023,"Home",26,17,34,4
 "Patrick Dangerfield","Adelaide Crows",2014,"Away",21.55,17,28,11
 "Patrick Dangerfield","Adelaide Crows",2014,"Home",28.27,23,41,11
 "Patrick Dangerfield","Adelaide Crows",2015,"Away",25.73,17,36,11
@@ -9564,7 +9571,7 @@
 "Paul Curtis","North Melbourne",2022,"Away",9.57,7,12,7
 "Paul Curtis","North Melbourne",2022,"Home",9.62,6,14,8
 "Paul Curtis","North Melbourne",2023,"Away",8,5,10,4
-"Paul Curtis","North Melbourne",2023,"Home",8.33,8,9,3
+"Paul Curtis","North Melbourne",2023,"Home",10.5,8,17,4
 "Paul Duffield","Fremantle",2014,"Away",17.73,11,24,11
 "Paul Duffield","Fremantle",2014,"Home",20,13,30,11
 "Paul Duffield","Fremantle",2015,"Away",16.29,1,25,7
@@ -9664,6 +9671,7 @@
 "Phoenix Spicer","North Melbourne",2021,"Away",7,7,7,1
 "Phoenix Spicer","North Melbourne",2022,"Away",5,2,7,3
 "Phoenix Spicer","North Melbourne",2022,"Home",6.5,5,8,2
+"Phoenix Spicer","North Melbourne",2023,"Home",7,7,7,1
 "Quinton Narkle","Geelong Cats",2018,"Away",13.5,12,15,4
 "Quinton Narkle","Geelong Cats",2018,"Home",9.5,7,12,2
 "Quinton Narkle","Geelong Cats",2019,"Away",14,14,14,1
@@ -9812,7 +9820,7 @@
 "Riley Bonner","Port Adelaide",2021,"Home",17.4,13,20,5
 "Riley Bonner","Port Adelaide",2022,"Away",18.71,11,24,7
 "Riley Bonner","Port Adelaide",2022,"Home",18.9,0,37,10
-"Riley Bonner","Port Adelaide",2023,"Away",6,6,6,1
+"Riley Bonner","Port Adelaide",2023,"Away",9.5,6,13,2
 "Riley Bonner","Port Adelaide",2023,"Home",17.5,15,20,2
 "Riley Collier-Dawkins","Richmond",2021,"Away",11.67,8,18,3
 "Riley Collier-Dawkins","Richmond",2021,"Home",16.17,14,19,6
@@ -9864,7 +9872,7 @@
 "Robbie Fox","Sydney Swans",2022,"Away",15,8,24,5
 "Robbie Fox","Sydney Swans",2022,"Home",18,0,25,6
 "Robbie Fox","Sydney Swans",2023,"Away",19.33,17,24,3
-"Robbie Fox","Sydney Swans",2023,"Home",16,16,16,1
+"Robbie Fox","Sydney Swans",2023,"Home",15.5,15,16,2
 "Robbie Gray","Port Adelaide",2014,"Away",24,14,35,11
 "Robbie Gray","Port Adelaide",2014,"Home",26.09,13,37,11
 "Robbie Gray","Port Adelaide",2015,"Away",26.18,15,34,11
@@ -9996,7 +10004,7 @@
 "Rory Lobb","GWS Giants",2017,"Home",11.89,7,17,9
 "Rory Lobb","GWS Giants",2018,"Away",9.62,5,15,8
 "Rory Lobb","GWS Giants",2018,"Home",9.44,1,15,9
-"Rory Lobb","Western Bulldogs",2023,"Away",9.4,6,14,5
+"Rory Lobb","Western Bulldogs",2023,"Away",9.17,6,14,6
 "Rory Lobb","Western Bulldogs",2023,"Home",6.5,4,9,2
 "Rory Sloane","Adelaide Crows",2014,"Away",23,17,32,11
 "Rory Sloane","Adelaide Crows",2014,"Home",24.36,18,33,11
@@ -10083,7 +10091,7 @@
 "Ryan Burton","Port Adelaide",2021,"Home",17.09,10,28,11
 "Ryan Burton","Port Adelaide",2022,"Away",21.64,15,29,11
 "Ryan Burton","Port Adelaide",2022,"Home",19,14,26,11
-"Ryan Burton","Port Adelaide",2023,"Away",13.5,9,18,2
+"Ryan Burton","Port Adelaide",2023,"Away",12,9,18,3
 "Ryan Burton","Port Adelaide",2023,"Home",18.5,14,24,4
 "Ryan Byrnes","St Kilda",2020,"Away",5,5,5,1
 "Ryan Byrnes","St Kilda",2021,"Away",17.12,10,24,8
@@ -10107,7 +10115,7 @@
 "Ryan Clarke","Sydney Swans",2022,"Away",7.75,0,12,4
 "Ryan Clarke","Sydney Swans",2022,"Home",9.57,0,17,7
 "Ryan Clarke","Sydney Swans",2023,"Away",12.5,11,14,2
-"Ryan Clarke","Sydney Swans",2023,"Home",11,11,11,1
+"Ryan Clarke","Sydney Swans",2023,"Home",9.5,8,11,2
 "Ryan Crowley","Essendon",2016,"Away",19,13,26,5
 "Ryan Crowley","Essendon",2016,"Home",15.33,14,18,3
 "Ryan Crowley","Fremantle",2014,"Away",14.55,9,21,11
@@ -10123,7 +10131,7 @@
 "Ryan Gardner","Western Bulldogs",2021,"Home",10,10,10,1
 "Ryan Gardner","Western Bulldogs",2022,"Away",10.45,6,16,11
 "Ryan Gardner","Western Bulldogs",2022,"Home",11.5,5,20,10
-"Ryan Gardner","Western Bulldogs",2023,"Away",12,12,12,1
+"Ryan Gardner","Western Bulldogs",2023,"Away",8,4,12,2
 "Ryan Garthwaite","Richmond",2018,"Away",9,9,9,1
 "Ryan Garthwaite","Richmond",2018,"Home",11,11,11,1
 "Ryan Garthwaite","Richmond",2019,"Away",8.75,4,13,4
@@ -10167,7 +10175,7 @@
 "Ryan Lester","Brisbane Lions",2022,"Away",0,0,0,1
 "Ryan Lester","Brisbane Lions",2022,"Home",12.5,11,14,2
 "Ryan Lester","Brisbane Lions",2023,"Away",9,9,9,1
-"Ryan Lester","Brisbane Lions",2023,"Home",13,13,13,1
+"Ryan Lester","Brisbane Lions",2023,"Home",16,13,19,2
 "Ryan Nyhuis","Fremantle",2017,"Away",9,9,9,1
 "Ryan Nyhuis","Fremantle",2017,"Home",10,9,11,3
 "Ryan Nyhuis","Fremantle",2018,"Away",9,8,11,3
@@ -10204,6 +10212,7 @@
 "Sam Butler","Hawthorn",2022,"Away",9,6,13,5
 "Sam Butler","Hawthorn",2022,"Home",7.75,3,13,4
 "Sam Butler","Hawthorn",2023,"Away",3,3,3,1
+"Sam Butler","Hawthorn",2023,"Home",14,14,14,1
 "Sam Butler","West Coast Eagles",2014,"Away",15.71,8,21,7
 "Sam Butler","West Coast Eagles",2014,"Home",16.4,4,32,5
 "Sam Butler","West Coast Eagles",2015,"Away",17.43,13,28,7
@@ -10271,14 +10280,14 @@
 "Sam Docherty","Carlton",2022,"Away",29.55,25,33,11
 "Sam Docherty","Carlton",2022,"Home",27.27,21,33,11
 "Sam Docherty","Carlton",2023,"Away",26.75,19,39,4
-"Sam Docherty","Carlton",2023,"Home",25,21,29,2
+"Sam Docherty","Carlton",2023,"Home",25.33,21,29,3
 "Sam Draper","Essendon",2020,"Away",6.75,5,9,4
 "Sam Draper","Essendon",2020,"Home",9.75,4,13,4
 "Sam Draper","Essendon",2021,"Away",9,3,15,6
 "Sam Draper","Essendon",2021,"Home",9.83,7,11,6
 "Sam Draper","Essendon",2022,"Away",9.64,2,16,11
 "Sam Draper","Essendon",2022,"Home",9.82,4,16,11
-"Sam Draper","Essendon",2023,"Away",12,8,16,4
+"Sam Draper","Essendon",2023,"Away",11.4,8,16,5
 "Sam Draper","Essendon",2023,"Home",11.5,7,15,4
 "Sam Dunell","St Kilda",2014,"Away",5.67,1,8,3
 "Sam Durdin","Carlton",2022,"Away",9,9,9,1
@@ -10293,7 +10302,7 @@
 "Sam Durham","Essendon",2021,"Home",12,10,15,3
 "Sam Durham","Essendon",2022,"Away",16.4,10,23,10
 "Sam Durham","Essendon",2022,"Home",13.7,6,18,10
-"Sam Durham","Essendon",2023,"Away",14.67,9,19,3
+"Sam Durham","Essendon",2023,"Away",14,9,19,4
 "Sam Durham","Essendon",2023,"Home",18.25,14,24,4
 "Sam Dwyer","Collingwood",2014,"Away",14.5,7,22,8
 "Sam Dwyer","Collingwood",2014,"Home",19.6,7,28,5
@@ -10322,7 +10331,7 @@
 "Sam Frost","Hawthorn",2022,"Away",11.17,8,13,6
 "Sam Frost","Hawthorn",2022,"Home",15.33,9,21,6
 "Sam Frost","Hawthorn",2023,"Away",14.2,6,20,5
-"Sam Frost","Hawthorn",2023,"Home",15.33,13,19,3
+"Sam Frost","Hawthorn",2023,"Home",14.5,12,19,4
 "Sam Frost","Melbourne",2015,"Away",7,4,10,2
 "Sam Frost","Melbourne",2015,"Home",11,11,11,1
 "Sam Frost","Melbourne",2016,"Away",13.38,6,19,8
@@ -10497,7 +10506,7 @@
 "Sam Powell-Pepper","Port Adelaide",2021,"Home",15.71,8,20,7
 "Sam Powell-Pepper","Port Adelaide",2022,"Away",16.82,9,23,11
 "Sam Powell-Pepper","Port Adelaide",2022,"Home",16.36,8,25,11
-"Sam Powell-Pepper","Port Adelaide",2023,"Away",17.33,14,21,3
+"Sam Powell-Pepper","Port Adelaide",2023,"Away",16,12,21,4
 "Sam Powell-Pepper","Port Adelaide",2023,"Home",13.6,7,21,5
 "Sam Reid","Sydney Swans",2014,"Away",10,4,16,8
 "Sam Reid","Sydney Swans",2014,"Home",11.33,5,14,9
@@ -10553,7 +10562,7 @@
 "Sam Switkowski","Fremantle",2021,"Home",13.4,9,16,5
 "Sam Switkowski","Fremantle",2022,"Away",15,9,19,5
 "Sam Switkowski","Fremantle",2022,"Home",14.71,12,19,7
-"Sam Switkowski","Fremantle",2023,"Away",12.67,11,16,3
+"Sam Switkowski","Fremantle",2023,"Away",12.75,11,16,4
 "Sam Switkowski","Fremantle",2023,"Home",12,1,21,4
 "Sam Taylor","GWS Giants",2018,"Away",6.75,5,9,4
 "Sam Taylor","GWS Giants",2018,"Home",11,10,13,4
@@ -10576,8 +10585,8 @@
 "Sam Walsh","Carlton",2022,"Away",31.45,25,40,11
 "Sam Walsh","Carlton",2022,"Home",32.89,26,40,9
 "Sam Walsh","Carlton",2023,"Away",27.5,25,30,2
-"Sam Walsh","Carlton",2023,"Home",33,28,38,2
-"Sam Weideman","Essendon",2023,"Away",11,9,14,4
+"Sam Walsh","Carlton",2023,"Home",31.67,28,38,3
+"Sam Weideman","Essendon",2023,"Away",9.8,5,14,5
 "Sam Weideman","Essendon",2023,"Home",8.5,3,14,2
 "Sam Weideman","Melbourne",2016,"Away",6,5,7,2
 "Sam Weideman","Melbourne",2016,"Home",13,13,13,1
@@ -10688,7 +10697,7 @@
 "Scott Thompson","Adelaide Crows",2016,"Home",25.11,20,30,9
 "Scott Thompson","Adelaide Crows",2017,"Home",10,10,10,1
 "Seamus Mitchell","Hawthorn",2023,"Away",14,11,17,3
-"Seamus Mitchell","Hawthorn",2023,"Home",15,15,15,1
+"Seamus Mitchell","Hawthorn",2023,"Home",21,15,27,2
 "Sean Darcy","Fremantle",2017,"Away",12,9,15,4
 "Sean Darcy","Fremantle",2017,"Home",12.5,11,16,4
 "Sean Darcy","Fremantle",2018,"Away",8,5,13,3
@@ -10701,7 +10710,7 @@
 "Sean Darcy","Fremantle",2021,"Home",16.27,12,20,11
 "Sean Darcy","Fremantle",2022,"Away",13.25,9,18,8
 "Sean Darcy","Fremantle",2022,"Home",14.82,8,21,11
-"Sean Darcy","Fremantle",2023,"Away",17.67,17,18,3
+"Sean Darcy","Fremantle",2023,"Away",17.75,17,18,4
 "Sean Darcy","Fremantle",2023,"Home",13.4,6,20,5
 "Sean Dempster","St Kilda",2014,"Away",15.55,9,21,11
 "Sean Dempster","St Kilda",2014,"Home",17.73,1,23,11
@@ -11077,7 +11086,7 @@
 "Steven May","Melbourne",2021,"Home",16.9,5,24,10
 "Steven May","Melbourne",2022,"Away",19.6,13,26,10
 "Steven May","Melbourne",2022,"Home",18.5,6,25,10
-"Steven May","Melbourne",2023,"Away",15,13,19,3
+"Steven May","Melbourne",2023,"Away",15,13,19,4
 "Steven May","Melbourne",2023,"Home",18.67,14,22,3
 "Steven Morris","Richmond",2014,"Away",13.18,7,19,11
 "Steven Morris","Richmond",2014,"Home",11.11,5,19,9
@@ -11182,7 +11191,7 @@
 "Taylor Duryea","Western Bulldogs",2021,"Home",17.1,13,23,10
 "Taylor Duryea","Western Bulldogs",2022,"Away",13.86,3,25,7
 "Taylor Duryea","Western Bulldogs",2022,"Home",12.2,8,19,5
-"Taylor Duryea","Western Bulldogs",2023,"Away",10.75,8,12,4
+"Taylor Duryea","Western Bulldogs",2023,"Away",11.2,8,13,5
 "Taylor Duryea","Western Bulldogs",2023,"Home",14.5,10,19,2
 "Taylor Garner","North Melbourne",2015,"Away",9.5,7,13,4
 "Taylor Garner","North Melbourne",2015,"Home",10.25,5,13,4
@@ -11294,7 +11303,7 @@
 "Tim English","Western Bulldogs",2021,"Home",13.33,9,22,9
 "Tim English","Western Bulldogs",2022,"Away",18.88,11,25,8
 "Tim English","Western Bulldogs",2022,"Home",17.57,8,24,7
-"Tim English","Western Bulldogs",2023,"Away",22,20,24,5
+"Tim English","Western Bulldogs",2023,"Away",21,16,24,6
 "Tim English","Western Bulldogs",2023,"Home",16,11,21,3
 "Tim Golds","GWS Giants",2014,"Away",10,10,10,1
 "Tim Golds","GWS Giants",2014,"Home",8.5,6,11,2
@@ -11463,7 +11472,7 @@
 "Todd Goldstein","North Melbourne",2022,"Away",13.27,7,18,11
 "Todd Goldstein","North Melbourne",2022,"Home",12.73,4,19,11
 "Todd Goldstein","North Melbourne",2023,"Away",12.2,7,18,5
-"Todd Goldstein","North Melbourne",2023,"Home",16,16,16,2
+"Todd Goldstein","North Melbourne",2023,"Home",18.67,16,24,3
 "Todd Marshall","Port Adelaide",2017,"Away",10,10,10,1
 "Todd Marshall","Port Adelaide",2017,"Home",6,6,6,1
 "Todd Marshall","Port Adelaide",2018,"Away",8.33,5,12,3
@@ -11476,7 +11485,7 @@
 "Todd Marshall","Port Adelaide",2021,"Home",10.11,0,15,9
 "Todd Marshall","Port Adelaide",2022,"Away",10.27,4,14,11
 "Todd Marshall","Port Adelaide",2022,"Home",11.2,4,16,10
-"Todd Marshall","Port Adelaide",2023,"Away",10.5,8,13,2
+"Todd Marshall","Port Adelaide",2023,"Away",7,0,13,3
 "Todd Marshall","Port Adelaide",2023,"Home",8,2,13,5
 "Tom Atkins","Geelong Cats",2019,"Away",12.36,4,17,11
 "Tom Atkins","Geelong Cats",2019,"Home",11.89,7,23,9
@@ -11673,6 +11682,7 @@
 "Tom Hickey","Sydney Swans",2021,"Home",17.2,9,22,10
 "Tom Hickey","Sydney Swans",2022,"Away",13.86,9,20,7
 "Tom Hickey","Sydney Swans",2022,"Home",15.5,9,22,6
+"Tom Hickey","Sydney Swans",2023,"Home",14,14,14,1
 "Tom Hickey","West Coast Eagles",2019,"Away",12.44,2,25,9
 "Tom Hickey","West Coast Eagles",2019,"Home",13.56,9,18,9
 "Tom Hickey","West Coast Eagles",2020,"Away",6,4,8,2
@@ -11719,7 +11729,7 @@
 "Tom Jonas","Port Adelaide",2021,"Home",14.55,8,26,11
 "Tom Jonas","Port Adelaide",2022,"Away",12.3,9,19,10
 "Tom Jonas","Port Adelaide",2022,"Home",11.64,5,24,11
-"Tom Jonas","Port Adelaide",2023,"Away",6,3,9,2
+"Tom Jonas","Port Adelaide",2023,"Away",7.33,3,10,3
 "Tom Jonas","Port Adelaide",2023,"Home",7.5,2,12,4
 "Tom Lamb","West Coast Eagles",2015,"Away",10,10,10,1
 "Tom Langdon","Collingwood",2014,"Away",15.5,5,23,10
@@ -11749,7 +11759,7 @@
 "Tom Liberatore","Western Bulldogs",2021,"Home",22.55,16,31,11
 "Tom Liberatore","Western Bulldogs",2022,"Away",24,14,33,11
 "Tom Liberatore","Western Bulldogs",2022,"Home",25.45,18,33,11
-"Tom Liberatore","Western Bulldogs",2023,"Away",27.2,23,32,5
+"Tom Liberatore","Western Bulldogs",2023,"Away",27,23,32,6
 "Tom Liberatore","Western Bulldogs",2023,"Home",26.5,24,29,2
 "Tom Logan","Port Adelaide",2014,"Away",15,11,19,2
 "Tom Logan","Port Adelaide",2014,"Home",21,21,21,1
@@ -11855,7 +11865,7 @@
 "Tom Papley","Sydney Swans",2022,"Away",13.14,8,18,7
 "Tom Papley","Sydney Swans",2022,"Home",16.33,9,24,9
 "Tom Papley","Sydney Swans",2023,"Away",13.4,8,25,5
-"Tom Papley","Sydney Swans",2023,"Home",14,11,17,3
+"Tom Papley","Sydney Swans",2023,"Home",14,11,17,4
 "Tom Phillips","Collingwood",2016,"Away",14.5,9,22,4
 "Tom Phillips","Collingwood",2016,"Home",22,19,25,2
 "Tom Phillips","Collingwood",2017,"Away",21.4,15,29,10
@@ -11919,7 +11929,7 @@
 "Tom Sparrow","Melbourne",2021,"Home",8.88,0,19,8
 "Tom Sparrow","Melbourne",2022,"Away",17.64,11,24,11
 "Tom Sparrow","Melbourne",2022,"Home",14.6,9,23,10
-"Tom Sparrow","Melbourne",2023,"Away",17.25,13,21,4
+"Tom Sparrow","Melbourne",2023,"Away",16.4,13,21,5
 "Tom Sparrow","Melbourne",2023,"Home",16.25,10,23,4
 "Tom Stewart","Geelong Cats",2017,"Away",15.75,8,24,8
 "Tom Stewart","Geelong Cats",2017,"Home",14.6,10,19,10
@@ -12023,7 +12033,7 @@
 "Travis Boak","Port Adelaide",2021,"Home",28.82,25,31,11
 "Travis Boak","Port Adelaide",2022,"Away",25.73,13,32,11
 "Travis Boak","Port Adelaide",2022,"Home",27.9,20,39,10
-"Travis Boak","Port Adelaide",2023,"Away",20,11,30,3
+"Travis Boak","Port Adelaide",2023,"Away",18,11,30,4
 "Travis Boak","Port Adelaide",2023,"Home",16.75,11,21,4
 "Travis Cloke","Collingwood",2014,"Away",13.9,9,23,10
 "Travis Cloke","Collingwood",2014,"Home",10.6,6,16,10
@@ -12120,7 +12130,7 @@
 "Trent McKenzie","Port Adelaide",2021,"Home",13.8,7,18,5
 "Trent McKenzie","Port Adelaide",2022,"Away",10.5,7,14,4
 "Trent McKenzie","Port Adelaide",2022,"Home",12.33,7,15,3
-"Trent McKenzie","Port Adelaide",2023,"Away",11.5,11,12,2
+"Trent McKenzie","Port Adelaide",2023,"Away",11.67,11,12,3
 "Trent McKenzie","Port Adelaide",2023,"Home",11.5,6,16,4
 "Trent Rivers","Melbourne",2020,"Away",14.5,12,16,4
 "Trent Rivers","Melbourne",2020,"Home",13,8,16,5
@@ -12128,7 +12138,7 @@
 "Trent Rivers","Melbourne",2021,"Home",15.36,11,22,11
 "Trent Rivers","Melbourne",2022,"Away",14,9,20,8
 "Trent Rivers","Melbourne",2022,"Home",14,8,18,8
-"Trent Rivers","Melbourne",2023,"Away",21.25,19,27,4
+"Trent Rivers","Melbourne",2023,"Away",21.8,19,27,5
 "Trent Rivers","Melbourne",2023,"Home",18.75,12,24,4
 "Trent West","Brisbane Lions",2014,"Away",12.8,10,15,5
 "Trent West","Brisbane Lions",2014,"Home",8.2,2,13,5
@@ -12234,7 +12244,7 @@
 "Wil Powell","Gold Coast Suns",2023,"Away",20,13,28,4
 "Wil Powell","Gold Coast Suns",2023,"Home",20,15,25,3
 "Will Ashcroft","Brisbane Lions",2023,"Away",17,13,23,4
-"Will Ashcroft","Brisbane Lions",2023,"Home",27,23,31,4
+"Will Ashcroft","Brisbane Lions",2023,"Home",27.2,23,31,5
 "Will Brodie","Fremantle",2022,"Away",25.73,17,36,11
 "Will Brodie","Fremantle",2022,"Home",29.45,22,37,11
 "Will Brodie","Fremantle",2023,"Away",22,20,24,2
@@ -12255,8 +12265,9 @@
 "Will Day","Hawthorn",2022,"Away",16.89,9,23,9
 "Will Day","Hawthorn",2022,"Home",15.12,7,25,8
 "Will Day","Hawthorn",2023,"Away",26,22,30,4
-"Will Day","Hawthorn",2023,"Home",25.5,22,29,2
+"Will Day","Hawthorn",2023,"Home",26.67,22,29,3
 "Will Gould","Sydney Swans",2023,"Away",6,3,9,2
+"Will Gould","Sydney Swans",2023,"Home",8,8,8,1
 "Will Hamill","Adelaide Crows",2020,"Away",7.25,2,12,4
 "Will Hamill","Adelaide Crows",2020,"Home",9.75,1,17,4
 "Will Hamill","Adelaide Crows",2021,"Away",10.9,5,16,10
@@ -12285,7 +12296,7 @@
 "Will Hayward","Sydney Swans",2022,"Away",13,8,17,11
 "Will Hayward","Sydney Swans",2022,"Home",11.73,7,16,11
 "Will Hayward","Sydney Swans",2023,"Away",11.8,8,19,5
-"Will Hayward","Sydney Swans",2023,"Home",13,9,16,3
+"Will Hayward","Sydney Swans",2023,"Home",11.75,8,16,4
 "Will Hoskin-Elliott","Collingwood",2017,"Away",18.27,12,26,11
 "Will Hoskin-Elliott","Collingwood",2017,"Home",18.55,11,24,11
 "Will Hoskin-Elliott","Collingwood",2018,"Away",12.64,2,23,11
@@ -12353,7 +12364,7 @@
 "Will Setterfield","Carlton",2021,"Home",14.25,9,21,4
 "Will Setterfield","Carlton",2022,"Away",18.67,9,26,6
 "Will Setterfield","Carlton",2022,"Home",14.57,0,24,7
-"Will Setterfield","Essendon",2023,"Away",21,16,25,4
+"Will Setterfield","Essendon",2023,"Away",21.4,16,25,5
 "Will Setterfield","Essendon",2023,"Home",21.75,19,28,4
 "Will Setterfield","GWS Giants",2017,"Away",12,12,12,1
 "Will Setterfield","GWS Giants",2017,"Home",6,6,6,1
@@ -12378,7 +12389,7 @@
 "Willem Drew","Port Adelaide",2021,"Home",18.55,12,32,11
 "Willem Drew","Port Adelaide",2022,"Away",16.27,0,23,11
 "Willem Drew","Port Adelaide",2022,"Home",19.36,11,26,11
-"Willem Drew","Port Adelaide",2023,"Away",14.67,12,17,3
+"Willem Drew","Port Adelaide",2023,"Away",15.25,12,17,4
 "Willem Drew","Port Adelaide",2023,"Home",19,10,25,5
 "William Rioli","West Coast Eagles",2018,"Away",11,8,16,3
 "William Rioli","West Coast Eagles",2018,"Home",11,10,12,2
@@ -12436,7 +12447,7 @@
 "Zac Bailey","Brisbane Lions",2022,"Away",15.1,9,22,10
 "Zac Bailey","Brisbane Lions",2022,"Home",18.36,10,24,11
 "Zac Bailey","Brisbane Lions",2023,"Away",14.5,12,17,4
-"Zac Bailey","Brisbane Lions",2023,"Home",17,10,21,4
+"Zac Bailey","Brisbane Lions",2023,"Home",16.2,10,21,5
 "Zac Clarke","Essendon",2019,"Away",10.75,5,14,4
 "Zac Clarke","Essendon",2019,"Home",9.4,5,12,5
 "Zac Clarke","Fremantle",2014,"Away",12.22,7,16,9
@@ -12539,7 +12550,7 @@
 "Zach Merrett","Essendon",2021,"Home",30.27,20,41,11
 "Zach Merrett","Essendon",2022,"Away",29,14,39,10
 "Zach Merrett","Essendon",2022,"Home",31.33,24,38,9
-"Zach Merrett","Essendon",2023,"Away",27.33,25,29,3
+"Zach Merrett","Essendon",2023,"Away",26.25,23,29,4
 "Zach Merrett","Essendon",2023,"Home",28.25,19,35,4
 "Zach O'Brien","Brisbane Lions",2014,"Away",17.33,6,30,3
 "Zach O'Brien","Brisbane Lions",2014,"Home",12.5,10,15,2
@@ -12598,7 +12609,7 @@
 "Zak Butters","Port Adelaide",2021,"Home",21,10,36,5
 "Zak Butters","Port Adelaide",2022,"Away",23.4,13,32,10
 "Zak Butters","Port Adelaide",2022,"Home",20.9,9,29,10
-"Zak Butters","Port Adelaide",2023,"Away",24,18,27,3
+"Zak Butters","Port Adelaide",2023,"Away",26,18,32,4
 "Zak Butters","Port Adelaide",2023,"Home",24.8,15,32,5
 "Zak Jones","St Kilda",2020,"Away",18.62,13,23,8
 "Zak Jones","St Kilda",2020,"Home",20.83,12,29,6

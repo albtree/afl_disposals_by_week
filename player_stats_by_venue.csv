@@ -56,7 +56,7 @@
 "Aaron Francis","Sydney Swans",2023,"GMHBA Stadium",7,7,7,1
 "Aaron Francis","Sydney Swans",2023,"MCG",7,7,7,1
 "Aaron Francis","Sydney Swans",2023,"Marvel Stadium",9,9,9,1
-"Aaron Francis","Sydney Swans",2023,"SCG",11,7,15,2
+"Aaron Francis","Sydney Swans",2023,"SCG",10.33,7,15,3
 "Aaron Hall","Gold Coast Suns",2014,"Adelaide Oval",12,12,12,1
 "Aaron Hall","Gold Coast Suns",2014,"Cazalys Stadium",7,7,7,1
 "Aaron Hall","Gold Coast Suns",2014,"Domain Stadium",10.5,6,15,2
@@ -297,6 +297,7 @@
 "Adam Cerra","Carlton",2023,"MCG",26.33,21,33,3
 "Adam Cerra","Carlton",2023,"Marvel Stadium",27.5,18,39,4
 "Adam Cerra","Carlton",2023,"Optus Stadium",30,30,30,1
+"Adam Cerra","Carlton",2023,"SCG",24,24,24,1
 "Adam Cerra","Fremantle",2018,"GMHBA Stadium",14,14,14,1
 "Adam Cerra","Fremantle",2018,"MCG",14.5,11,18,2
 "Adam Cerra","Fremantle",2018,"Manuka Oval",7,7,7,1
@@ -453,6 +454,7 @@
 "Adam Saad","Carlton",2023,"MCG",21,16,29,3
 "Adam Saad","Carlton",2023,"Marvel Stadium",23.67,23,25,3
 "Adam Saad","Carlton",2023,"Optus Stadium",25,25,25,1
+"Adam Saad","Carlton",2023,"SCG",18,18,18,1
 "Adam Saad","Essendon",2018,"Adelaide Oval",19,19,19,1
 "Adam Saad","Essendon",2018,"GIANTS Stadium",22,22,22,1
 "Adam Saad","Essendon",2018,"Gabba",24,24,24,1
@@ -3073,6 +3075,7 @@
 "Blake Acres","Carlton",2023,"MCG",22.33,16,26,3
 "Blake Acres","Carlton",2023,"Marvel Stadium",27.33,17,36,3
 "Blake Acres","Carlton",2023,"Optus Stadium",34,34,34,1
+"Blake Acres","Carlton",2023,"SCG",22,22,22,1
 "Blake Acres","Fremantle",2020,"Cazalys Stadium",22.5,22,23,2
 "Blake Acres","Fremantle",2020,"Heritage Bank Stadium",20.67,11,27,3
 "Blake Acres","Fremantle",2020,"Optus Stadium",13.5,10,17,2
@@ -3535,7 +3538,7 @@
 "Braeden Campbell","Sydney Swans",2023,"Heritage Bank Stadium",16,16,16,1
 "Braeden Campbell","Sydney Swans",2023,"MCG",12,12,12,2
 "Braeden Campbell","Sydney Swans",2023,"Marvel Stadium",8,8,8,1
-"Braeden Campbell","Sydney Swans",2023,"SCG",14.75,14,16,4
+"Braeden Campbell","Sydney Swans",2023,"SCG",14.6,14,16,5
 "Brandan Parfitt","Geelong Cats",2017,"Domain Stadium",9,9,9,1
 "Brandan Parfitt","Geelong Cats",2017,"GMHBA Stadium",10,9,12,3
 "Brandan Parfitt","Geelong Cats",2017,"Gabba",11,11,11,1
@@ -4320,6 +4323,7 @@
 "Brodie Kemp","Carlton",2022,"Marvel Stadium",10,0,17,3
 "Brodie Kemp","Carlton",2023,"Marvel Stadium",14,14,14,1
 "Brodie Kemp","Carlton",2023,"Optus Stadium",22,22,22,1
+"Brodie Kemp","Carlton",2023,"SCG",16,16,16,1
 "Brodie Martin","Adelaide Crows",2014,"Adelaide Oval",14.75,6,21,8
 "Brodie Martin","Adelaide Crows",2014,"Blundstone Arena",21,21,21,1
 "Brodie Martin","Adelaide Crows",2014,"Domain Stadium",8,8,8,1
@@ -5368,7 +5372,7 @@
 "Chad Warner","Sydney Swans",2023,"Heritage Bank Stadium",30,30,30,1
 "Chad Warner","Sydney Swans",2023,"MCG",23.5,19,28,2
 "Chad Warner","Sydney Swans",2023,"Marvel Stadium",31,31,31,1
-"Chad Warner","Sydney Swans",2023,"SCG",24.75,15,30,4
+"Chad Warner","Sydney Swans",2023,"SCG",25.6,15,30,5
 "Chad Wingard","Hawthorn",2019,"Gabba",8,8,8,1
 "Chad Wingard","Hawthorn",2019,"MCG",15.25,10,21,4
 "Chad Wingard","Hawthorn",2019,"Manuka Oval",27,27,27,1
@@ -5644,6 +5648,7 @@
 "Charlie Curnow","Carlton",2023,"MCG",12.33,10,16,3
 "Charlie Curnow","Carlton",2023,"Marvel Stadium",13.5,10,16,4
 "Charlie Curnow","Carlton",2023,"Optus Stadium",18,18,18,1
+"Charlie Curnow","Carlton",2023,"SCG",18,18,18,1
 "Charlie Dixon","Gold Coast Suns",2014,"Adelaide Oval",22,22,22,1
 "Charlie Dixon","Gold Coast Suns",2014,"Cazalys Stadium",10,10,10,1
 "Charlie Dixon","Gold Coast Suns",2014,"Domain Stadium",7.5,7,8,2
@@ -6566,6 +6571,7 @@
 "Corey Durdin","Carlton",2023,"MCG",8.5,8,9,2
 "Corey Durdin","Carlton",2023,"Marvel Stadium",9,7,11,4
 "Corey Durdin","Carlton",2023,"Optus Stadium",10,10,10,1
+"Corey Durdin","Carlton",2023,"SCG",9,9,9,1
 "Corey Ellis","Gold Coast Suns",2019,"Heritage Bank Stadium",12,12,12,1
 "Corey Ellis","Gold Coast Suns",2019,"Marvel Stadium",20,20,20,1
 "Corey Ellis","Gold Coast Suns",2019,"Riverway Stadium",19,19,19,1
@@ -6627,6 +6633,7 @@
 "Corey Wagner","North Melbourne",2017,"Heritage Bank Stadium",10,10,10,1
 "Corey Wagner","North Melbourne",2017,"Marvel Stadium",7,7,7,1
 "Corey Warner","Sydney Swans",2023,"Adelaide Oval",8,8,8,1
+"Corey Warner","Sydney Swans",2023,"SCG",1,1,1,1
 "Cory Dell'Olio","Essendon",2014,"GIANTS Stadium",11,11,11,1
 "Cory Dell'Olio","Essendon",2014,"MCG",10,6,14,2
 "Cory Dell'Olio","Essendon",2014,"Marvel Stadium",2,2,2,1
@@ -9481,6 +9488,7 @@
 "Ed Curnow","Carlton",2023,"MCG",20.33,14,26,3
 "Ed Curnow","Carlton",2023,"Marvel Stadium",10.25,2,17,4
 "Ed Curnow","Carlton",2023,"Optus Stadium",16,16,16,1
+"Ed Curnow","Carlton",2023,"SCG",14,14,14,1
 "Ed Langdon","Fremantle",2015,"Adelaide Oval",14,14,14,1
 "Ed Langdon","Fremantle",2015,"Domain Stadium",18,18,18,1
 "Ed Langdon","Fremantle",2016,"Domain Stadium",17,9,29,7
@@ -9862,7 +9870,7 @@
 "Errol Gulden","Sydney Swans",2023,"Heritage Bank Stadium",24,24,24,1
 "Errol Gulden","Sydney Swans",2023,"MCG",26,15,37,2
 "Errol Gulden","Sydney Swans",2023,"Marvel Stadium",24,24,24,1
-"Errol Gulden","Sydney Swans",2023,"SCG",28.5,20,39,4
+"Errol Gulden","Sydney Swans",2023,"SCG",27,20,39,5
 "Esava Ratugolea","Geelong Cats",2018,"Adelaide Oval",7,7,7,1
 "Esava Ratugolea","Geelong Cats",2018,"GMHBA Stadium",6.25,0,11,4
 "Esava Ratugolea","Geelong Cats",2018,"MCG",11.5,8,15,2
@@ -10191,6 +10199,7 @@
 "George Hewett","Carlton",2023,"MCG",19.5,11,28,2
 "George Hewett","Carlton",2023,"Marvel Stadium",22.5,15,29,4
 "George Hewett","Carlton",2023,"Optus Stadium",32,32,32,1
+"George Hewett","Carlton",2023,"SCG",6,6,6,1
 "George Hewett","Sydney Swans",2016,"Blundstone Arena",9,9,9,1
 "George Hewett","Sydney Swans",2016,"Domain Stadium",20,20,20,1
 "George Hewett","Sydney Swans",2016,"GMHBA Stadium",13,13,13,1
@@ -10660,7 +10669,7 @@
 "Harry Cunningham","Sydney Swans",2023,"Heritage Bank Stadium",13,13,13,1
 "Harry Cunningham","Sydney Swans",2023,"MCG",12.5,9,16,2
 "Harry Cunningham","Sydney Swans",2023,"Marvel Stadium",11,11,11,1
-"Harry Cunningham","Sydney Swans",2023,"SCG",10,3,14,4
+"Harry Cunningham","Sydney Swans",2023,"SCG",12,3,20,5
 "Harry Edwards","West Coast Eagles",2020,"Optus Stadium",3,3,3,1
 "Harry Edwards","West Coast Eagles",2021,"Adelaide Oval",7,7,7,1
 "Harry Edwards","West Coast Eagles",2021,"GIANTS Stadium",7,7,7,1
@@ -10781,6 +10790,7 @@
 "Harry McKay","Carlton",2023,"MCG",10.33,8,13,3
 "Harry McKay","Carlton",2023,"Marvel Stadium",13.5,6,17,4
 "Harry McKay","Carlton",2023,"Optus Stadium",13,13,13,1
+"Harry McKay","Carlton",2023,"SCG",8,8,8,1
 "Harry Morrison","Hawthorn",2017,"Marvel Stadium",21,21,21,1
 "Harry Morrison","Hawthorn",2018,"GIANTS Stadium",8,8,8,1
 "Harry Morrison","Hawthorn",2018,"Gabba",15,15,15,1
@@ -11068,7 +11078,7 @@
 "Hayden McLean","Sydney Swans",2023,"Heritage Bank Stadium",11,11,11,1
 "Hayden McLean","Sydney Swans",2023,"MCG",19,19,19,1
 "Hayden McLean","Sydney Swans",2023,"Marvel Stadium",13,13,13,1
-"Hayden McLean","Sydney Swans",2023,"SCG",9,6,13,3
+"Hayden McLean","Sydney Swans",2023,"SCG",9.25,6,13,4
 "Hayden Young","Fremantle",2020,"Gabba",11,11,11,1
 "Hayden Young","Fremantle",2020,"Heritage Bank Stadium",9.75,1,15,4
 "Hayden Young","Fremantle",2021,"Blundstone Arena",17,17,17,1
@@ -11535,7 +11545,7 @@
 "Isaac Heeney","Sydney Swans",2023,"Heritage Bank Stadium",12,12,12,1
 "Isaac Heeney","Sydney Swans",2023,"MCG",13,10,16,2
 "Isaac Heeney","Sydney Swans",2023,"Marvel Stadium",15,15,15,1
-"Isaac Heeney","Sydney Swans",2023,"SCG",16.25,13,19,4
+"Isaac Heeney","Sydney Swans",2023,"SCG",16.8,13,19,5
 "Isaac Quaynor","Collingwood",2019,"GIANTS Stadium",17,17,17,1
 "Isaac Quaynor","Collingwood",2019,"MCG",15,12,18,2
 "Isaac Quaynor","Collingwood",2019,"Optus Stadium",11,11,11,1
@@ -13596,6 +13606,7 @@
 "Jacob Weitering","Carlton",2023,"MCG",13.33,8,20,3
 "Jacob Weitering","Carlton",2023,"Marvel Stadium",15.5,12,22,4
 "Jacob Weitering","Carlton",2023,"Optus Stadium",17,17,17,1
+"Jacob Weitering","Carlton",2023,"SCG",18,18,18,1
 "Jacob van Rooyen","Melbourne",2023,"Adelaide Oval",8.5,7,10,2
 "Jacob van Rooyen","Melbourne",2023,"Heritage Bank Stadium",8,8,8,1
 "Jacob van Rooyen","Melbourne",2023,"MCG",9,5,14,4
@@ -14116,7 +14127,7 @@
 "Jake Lloyd","Sydney Swans",2023,"Heritage Bank Stadium",28,28,28,1
 "Jake Lloyd","Sydney Swans",2023,"MCG",22.5,21,24,2
 "Jake Lloyd","Sydney Swans",2023,"Marvel Stadium",19,19,19,1
-"Jake Lloyd","Sydney Swans",2023,"SCG",24.25,24,25,4
+"Jake Lloyd","Sydney Swans",2023,"SCG",26.4,24,35,5
 "Jake Long","Essendon",2016,"MCG",10,10,10,1
 "Jake Long","Essendon",2016,"Marvel Stadium",11.5,10,13,2
 "Jake Long","Essendon",2018,"Heritage Bank Stadium",10,10,10,1
@@ -14769,7 +14780,7 @@
 "James Rowbottom","Sydney Swans",2023,"Heritage Bank Stadium",17,17,17,1
 "James Rowbottom","Sydney Swans",2023,"MCG",15.5,12,19,2
 "James Rowbottom","Sydney Swans",2023,"Marvel Stadium",15,15,15,1
-"James Rowbottom","Sydney Swans",2023,"SCG",16.5,12,23,4
+"James Rowbottom","Sydney Swans",2023,"SCG",16.6,12,23,5
 "James Rowe","Adelaide Crows",2021,"Adelaide Oval",12.5,0,18,10
 "James Rowe","Adelaide Crows",2021,"Cazalys Stadium",18,18,18,1
 "James Rowe","Adelaide Crows",2021,"GIANTS Stadium",13,13,13,1
@@ -16747,6 +16758,7 @@
 "Jesse Motlop","Carlton",2023,"GIANTS Stadium",17,17,17,1
 "Jesse Motlop","Carlton",2023,"MCG",10.33,9,12,3
 "Jesse Motlop","Carlton",2023,"Marvel Stadium",8,5,13,4
+"Jesse Motlop","Carlton",2023,"SCG",13,13,13,1
 "Jesse Palmer","Port Adelaide",2016,"Adelaide Oval",10,8,12,2
 "Jesse Palmer","Port Adelaide",2016,"Heritage Bank Stadium",14,14,14,1
 "Jesse Stringer","Geelong Cats",2014,"GMHBA Stadium",10,9,11,2
@@ -17317,6 +17329,7 @@
 "Jordan Boyd","Carlton",2022,"Marvel Stadium",13,13,13,2
 "Jordan Boyd","Carlton",2022,"Optus Stadium",8,8,8,1
 "Jordan Boyd","Carlton",2023,"MCG",11,11,11,1
+"Jordan Boyd","Carlton",2023,"SCG",14,14,14,1
 "Jordan Clark","Fremantle",2022,"Adelaide Oval",20,20,20,1
 "Jordan Clark","Fremantle",2022,"GMHBA Stadium",24,24,24,1
 "Jordan Clark","Fremantle",2022,"Heritage Bank Stadium",20,20,20,1
@@ -18622,7 +18635,7 @@
 "Justin McInerney","Sydney Swans",2023,"Heritage Bank Stadium",23,23,23,1
 "Justin McInerney","Sydney Swans",2023,"MCG",18.5,14,23,2
 "Justin McInerney","Sydney Swans",2023,"Marvel Stadium",15,15,15,1
-"Justin McInerney","Sydney Swans",2023,"SCG",15.33,14,16,3
+"Justin McInerney","Sydney Swans",2023,"SCG",16.75,14,21,4
 "Justin Westhoff","Port Adelaide",2014,"Adelaide Oval",17.58,12,25,12
 "Justin Westhoff","Port Adelaide",2014,"Domain Stadium",22.5,22,23,2
 "Justin Westhoff","Port Adelaide",2014,"Heritage Bank Stadium",24,24,24,1
@@ -20084,6 +20097,7 @@
 "Lachlan Keeffe","GWS Giants",2022,"Optus Stadium",14,14,14,1
 "Lachlan Keeffe","GWS Giants",2022,"SCG",0,0,0,1
 "Lachlan McAndrew","Sydney Swans",2023,"Marvel Stadium",9,9,9,1
+"Lachlan McAndrew","Sydney Swans",2023,"SCG",3,3,3,1
 "Lachlan McNeil","Western Bulldogs",2021,"Adelaide Oval",14,14,14,1
 "Lachlan McNeil","Western Bulldogs",2021,"Heritage Bank Stadium",12,12,12,1
 "Lachlan McNeil","Western Bulldogs",2021,"MCG",4.5,0,9,2
@@ -20226,7 +20240,7 @@
 "Lance Franklin","Sydney Swans",2023,"Heritage Bank Stadium",8,8,8,1
 "Lance Franklin","Sydney Swans",2023,"MCG",11.5,10,13,2
 "Lance Franklin","Sydney Swans",2023,"Marvel Stadium",13,13,13,1
-"Lance Franklin","Sydney Swans",2023,"SCG",7.67,4,11,3
+"Lance Franklin","Sydney Swans",2023,"SCG",7.5,4,11,4
 "Lee Spurr","Fremantle",2014,"Adelaide Oval",9,9,9,1
 "Lee Spurr","Fremantle",2014,"Domain Stadium",19.25,8,32,12
 "Lee Spurr","Fremantle",2014,"GMHBA Stadium",25,25,25,1
@@ -20480,6 +20494,7 @@
 "Lewis Melican","Sydney Swans",2021,"Heritage Bank Stadium",9,9,9,1
 "Lewis Melican","Sydney Swans",2021,"Marvel Stadium",12,10,14,2
 "Lewis Melican","Sydney Swans",2021,"SCG",13,11,15,2
+"Lewis Melican","Sydney Swans",2023,"SCG",15,15,15,1
 "Lewis Pierce","St Kilda",2016,"Marvel Stadium",6,6,6,1
 "Lewis Pierce","St Kilda",2018,"Marvel Stadium",11.33,7,18,3
 "Lewis Pierce","St Kilda",2019,"Marvel Stadium",6,6,6,1
@@ -21663,7 +21678,7 @@
 "Luke Parker","Sydney Swans",2023,"Heritage Bank Stadium",25,25,25,1
 "Luke Parker","Sydney Swans",2023,"MCG",25.5,17,34,2
 "Luke Parker","Sydney Swans",2023,"Marvel Stadium",28,28,28,1
-"Luke Parker","Sydney Swans",2023,"SCG",27.25,22,33,4
+"Luke Parker","Sydney Swans",2023,"SCG",26,21,33,5
 "Luke Parks","Carlton",2021,"GIANTS Stadium",3,3,3,1
 "Luke Parks","Carlton",2021,"Heritage Bank Stadium",3,3,3,1
 "Luke Parks","Carlton",2021,"MCG",7,5,9,2
@@ -21997,6 +22012,7 @@
 "Marc Pittonet","Carlton",2023,"MCG",11.5,10,13,2
 "Marc Pittonet","Carlton",2023,"Marvel Stadium",10.25,8,12,4
 "Marc Pittonet","Carlton",2023,"Optus Stadium",13,13,13,1
+"Marc Pittonet","Carlton",2023,"SCG",11,11,11,1
 "Marc Pittonet","Hawthorn",2016,"MCG",7,6,8,2
 "Marc Pittonet","Hawthorn",2016,"Marvel Stadium",6,6,6,1
 "Marc Pittonet","Hawthorn",2018,"MCG",6,6,6,1
@@ -23177,6 +23193,7 @@
 "Matthew Cottrell","Carlton",2022,"Optus Stadium",13,12,14,2
 "Matthew Cottrell","Carlton",2023,"MCG",11,11,11,1
 "Matthew Cottrell","Carlton",2023,"Marvel Stadium",16,16,16,1
+"Matthew Cottrell","Carlton",2023,"SCG",23,23,23,1
 "Matthew Dick","Carlton",2015,"GIANTS Stadium",19,19,19,1
 "Matthew Dick","Carlton",2015,"Gabba",9,9,9,1
 "Matthew Dick","Carlton",2015,"MCG",14,11,17,2
@@ -23234,6 +23251,7 @@
 "Matthew Kennedy","Carlton",2023,"MCG",23.33,22,26,3
 "Matthew Kennedy","Carlton",2023,"Marvel Stadium",20.33,13,27,3
 "Matthew Kennedy","Carlton",2023,"Optus Stadium",7,7,7,1
+"Matthew Kennedy","Carlton",2023,"SCG",16,16,16,1
 "Matthew Kennedy","GWS Giants",2016,"GIANTS Stadium",9,6,12,2
 "Matthew Kennedy","GWS Giants",2016,"Marvel Stadium",11,11,11,1
 "Matthew Kennedy","GWS Giants",2017,"Adelaide Oval",14,14,14,1
@@ -23350,6 +23368,7 @@
 "Matthew Owies","Carlton",2023,"GIANTS Stadium",4,4,4,1
 "Matthew Owies","Carlton",2023,"MCG",10.33,8,13,3
 "Matthew Owies","Carlton",2023,"Marvel Stadium",8,8,8,1
+"Matthew Owies","Carlton",2023,"SCG",12,12,12,1
 "Matthew Parker","Richmond",2021,"Heritage Bank Stadium",12,12,12,1
 "Matthew Parker","Richmond",2021,"MCG",14,9,19,3
 "Matthew Parker","Richmond",2021,"Marvel Stadium",13,13,13,1
@@ -24418,6 +24437,7 @@
 "Mitch McGovern","Carlton",2023,"MCG",13,8,21,3
 "Mitch McGovern","Carlton",2023,"Marvel Stadium",19.25,14,27,4
 "Mitch McGovern","Carlton",2023,"Optus Stadium",8,8,8,1
+"Mitch McGovern","Carlton",2023,"SCG",19,19,19,1
 "Mitch Owens","St Kilda",2022,"GMHBA Stadium",11,11,11,1
 "Mitch Owens","St Kilda",2022,"Gabba",4,4,4,1
 "Mitch Owens","St Kilda",2022,"Marvel Stadium",11.8,6,18,5
@@ -25224,6 +25244,7 @@
 "Nic Newman","Carlton",2023,"MCG",19,14,24,3
 "Nic Newman","Carlton",2023,"Marvel Stadium",22,18,28,4
 "Nic Newman","Carlton",2023,"Optus Stadium",34,34,34,1
+"Nic Newman","Carlton",2023,"SCG",6,6,6,1
 "Nic Newman","Sydney Swans",2017,"Domain Stadium",19,19,19,1
 "Nic Newman","Sydney Swans",2017,"GIANTS Stadium",16,16,16,1
 "Nic Newman","Sydney Swans",2017,"GMHBA Stadium",19,19,19,1
@@ -25273,7 +25294,7 @@
 "Nick Blakey","Sydney Swans",2023,"Heritage Bank Stadium",20,20,20,1
 "Nick Blakey","Sydney Swans",2023,"MCG",21.5,19,24,2
 "Nick Blakey","Sydney Swans",2023,"Marvel Stadium",19,19,19,1
-"Nick Blakey","Sydney Swans",2023,"SCG",18,12,24,4
+"Nick Blakey","Sydney Swans",2023,"SCG",19.6,12,26,5
 "Nick Bryan","Essendon",2021,"MCG",12,12,12,1
 "Nick Bryan","Essendon",2022,"MCG",10,10,10,1
 "Nick Bryan","Essendon",2022,"Marvel Stadium",5.5,5,6,2
@@ -26002,7 +26023,7 @@
 "Oliver Florent","Sydney Swans",2023,"Heritage Bank Stadium",18,18,18,1
 "Oliver Florent","Sydney Swans",2023,"MCG",25,21,29,2
 "Oliver Florent","Sydney Swans",2023,"Marvel Stadium",22,22,22,1
-"Oliver Florent","Sydney Swans",2023,"SCG",21.75,10,33,4
+"Oliver Florent","Sydney Swans",2023,"SCG",20.4,10,33,5
 "Oliver Hanrahan","Hawthorn",2019,"MCG",13.33,10,16,3
 "Oliver Hanrahan","Hawthorn",2019,"Manuka Oval",16,16,16,1
 "Oliver Hanrahan","Hawthorn",2019,"Marvel Stadium",10,8,12,2
@@ -26033,6 +26054,7 @@
 "Oliver Hollands","Carlton",2023,"MCG",13.67,10,20,3
 "Oliver Hollands","Carlton",2023,"Marvel Stadium",17.75,13,22,4
 "Oliver Hollands","Carlton",2023,"Optus Stadium",12,12,12,1
+"Oliver Hollands","Carlton",2023,"SCG",14,14,14,1
 "Ollie Lord","Port Adelaide",2023,"Adelaide Oval",10,10,10,2
 "Ollie Lord","Port Adelaide",2023,"Blundstone Arena",10,10,10,1
 "Ollie Lord","Port Adelaide",2023,"Marvel Stadium",5,5,5,1
@@ -26483,6 +26505,7 @@
 "Patrick Cripps","Carlton",2023,"MCG",26,25,27,3
 "Patrick Cripps","Carlton",2023,"Marvel Stadium",26.75,17,34,4
 "Patrick Cripps","Carlton",2023,"Optus Stadium",33,33,33,1
+"Patrick Cripps","Carlton",2023,"SCG",19,19,19,1
 "Patrick Dangerfield","Adelaide Crows",2014,"Adelaide Oval",27.33,17,41,12
 "Patrick Dangerfield","Adelaide Crows",2014,"Blundstone Arena",19,19,19,1
 "Patrick Dangerfield","Adelaide Crows",2014,"Domain Stadium",18,18,18,1
@@ -27461,7 +27484,7 @@
 "Robbie Fox","Sydney Swans",2023,"GMHBA Stadium",17,17,17,1
 "Robbie Fox","Sydney Swans",2023,"MCG",24,24,24,1
 "Robbie Fox","Sydney Swans",2023,"Marvel Stadium",28,28,28,1
-"Robbie Fox","Sydney Swans",2023,"SCG",15.5,15,16,2
+"Robbie Fox","Sydney Swans",2023,"SCG",18.33,15,24,3
 "Robbie Gray","Port Adelaide",2014,"Adelaide Oval",25.67,13,37,12
 "Robbie Gray","Port Adelaide",2014,"Domain Stadium",28.5,24,33,2
 "Robbie Gray","Port Adelaide",2014,"Heritage Bank Stadium",26,26,26,1
@@ -28175,7 +28198,7 @@
 "Ryan Clarke","Sydney Swans",2023,"GMHBA Stadium",11,11,11,1
 "Ryan Clarke","Sydney Swans",2023,"MCG",14,14,14,1
 "Ryan Clarke","Sydney Swans",2023,"Marvel Stadium",13,13,13,1
-"Ryan Clarke","Sydney Swans",2023,"SCG",9.5,8,11,2
+"Ryan Clarke","Sydney Swans",2023,"SCG",8.67,7,11,3
 "Ryan Crowley","Essendon",2016,"Adelaide Oval",14,14,14,1
 "Ryan Crowley","Essendon",2016,"Domain Stadium",21,21,21,1
 "Ryan Crowley","Essendon",2016,"Heritage Bank Stadium",13,13,13,1
@@ -28620,6 +28643,7 @@
 "Sam Docherty","Carlton",2023,"MCG",26.67,21,34,3
 "Sam Docherty","Carlton",2023,"Marvel Stadium",24.67,19,29,3
 "Sam Docherty","Carlton",2023,"Optus Stadium",24,24,24,1
+"Sam Docherty","Carlton",2023,"SCG",25,25,25,1
 "Sam Draper","Essendon",2020,"Adelaide Oval",7,7,7,1
 "Sam Draper","Essendon",2020,"Gabba",6.67,5,9,3
 "Sam Draper","Essendon",2020,"Heritage Bank Stadium",8.67,4,13,3
@@ -29491,6 +29515,7 @@
 "Sam Walsh","Carlton",2023,"MCG",29,29,29,1
 "Sam Walsh","Carlton",2023,"Marvel Stadium",31.67,28,38,3
 "Sam Walsh","Carlton",2023,"Optus Stadium",30,30,30,1
+"Sam Walsh","Carlton",2023,"SCG",31,31,31,1
 "Sam Weideman","Essendon",2023,"Adelaide Oval",9,9,9,1
 "Sam Weideman","Essendon",2023,"Gabba",5,5,5,1
 "Sam Weideman","Essendon",2023,"MCG",12,10,14,5
@@ -29541,6 +29566,7 @@
 "Sam Wicks","Sydney Swans",2022,"MCG",10,10,10,1
 "Sam Wicks","Sydney Swans",2022,"Marvel Stadium",9.67,9,10,3
 "Sam Wicks","Sydney Swans",2022,"SCG",9.5,0,19,4
+"Sam Wicks","Sydney Swans",2023,"SCG",16,16,16,1
 "Sam Wright","North Melbourne",2014,"Blundstone Arena",24,18,30,2
 "Sam Wright","North Melbourne",2014,"GMHBA Stadium",10,10,10,1
 "Sam Wright","North Melbourne",2014,"Manuka Oval",16,16,16,1
@@ -32423,6 +32449,7 @@
 "Tom De Koning","Carlton",2023,"GIANTS Stadium",12,12,12,1
 "Tom De Koning","Carlton",2023,"MCG",12,11,13,2
 "Tom De Koning","Carlton",2023,"Marvel Stadium",11,11,11,1
+"Tom De Koning","Carlton",2023,"SCG",13,13,13,1
 "Tom Derickx","Sydney Swans",2014,"Accor Stadium",4.5,4,5,2
 "Tom Derickx","Sydney Swans",2014,"Adelaide Oval",7,7,7,1
 "Tom Derickx","Sydney Swans",2014,"Gabba",13,13,13,1
@@ -32624,7 +32651,7 @@
 "Tom Hickey","Sydney Swans",2022,"Marvel Stadium",15,10,20,4
 "Tom Hickey","Sydney Swans",2022,"Optus Stadium",9,9,9,1
 "Tom Hickey","Sydney Swans",2022,"SCG",15.5,9,22,6
-"Tom Hickey","Sydney Swans",2023,"SCG",14,14,14,1
+"Tom Hickey","Sydney Swans",2023,"SCG",14.5,14,15,2
 "Tom Hickey","West Coast Eagles",2019,"GMHBA Stadium",25,25,25,1
 "Tom Hickey","West Coast Eagles",2019,"Gabba",2,2,2,1
 "Tom Hickey","West Coast Eagles",2019,"MCG",11.33,11,12,3
@@ -33207,7 +33234,7 @@
 "Tom Papley","Sydney Swans",2023,"Heritage Bank Stadium",15,15,15,1
 "Tom Papley","Sydney Swans",2023,"MCG",9,8,10,2
 "Tom Papley","Sydney Swans",2023,"Marvel Stadium",11,11,11,1
-"Tom Papley","Sydney Swans",2023,"SCG",14,11,17,4
+"Tom Papley","Sydney Swans",2023,"SCG",14.6,11,17,5
 "Tom Phillips","Collingwood",2016,"MCG",17,12,22,4
 "Tom Phillips","Collingwood",2016,"Marvel Stadium",17,9,25,2
 "Tom Phillips","Collingwood",2017,"Adelaide Oval",20,20,20,1
@@ -34410,7 +34437,7 @@
 "Will Hayward","Sydney Swans",2023,"Heritage Bank Stadium",19,19,19,1
 "Will Hayward","Sydney Swans",2023,"MCG",11.5,9,14,2
 "Will Hayward","Sydney Swans",2023,"Marvel Stadium",11,11,11,1
-"Will Hayward","Sydney Swans",2023,"SCG",11.75,8,16,4
+"Will Hayward","Sydney Swans",2023,"SCG",13.4,8,20,5
 "Will Hoskin-Elliott","Collingwood",2017,"Adelaide Oval",15,15,15,1
 "Will Hoskin-Elliott","Collingwood",2017,"Domain Stadium",18,18,18,1
 "Will Hoskin-Elliott","Collingwood",2017,"GIANTS Stadium",18,18,18,1

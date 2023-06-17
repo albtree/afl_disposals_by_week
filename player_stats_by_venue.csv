@@ -16,7 +16,7 @@
 "Aaron Black","North Melbourne",2014,"SCG",12,12,12,1
 "Aaron Black","North Melbourne",2015,"Marvel Stadium",8.67,6,10,3
 "Aaron Black","West Coast Eagles",2022,"Marvel Stadium",15,15,15,1
-"Aaron Cadman","GWS Giants",2023,"GIANTS Stadium",3.5,2,5,2
+"Aaron Cadman","GWS Giants",2023,"GIANTS Stadium",3.33,2,5,3
 "Aaron Cadman","GWS Giants",2023,"GMHBA Stadium",4,4,4,1
 "Aaron Cadman","GWS Giants",2023,"MCG",7,7,7,1
 "Aaron Cadman","GWS Giants",2023,"Manuka Oval",4,3,5,2
@@ -969,6 +969,7 @@
 "Alex Pearce","Fremantle",2022,"Marvel Stadium",14.25,13,15,4
 "Alex Pearce","Fremantle",2022,"Optus Stadium",10.6,7,16,10
 "Alex Pearce","Fremantle",2023,"Adelaide Oval",11,11,11,1
+"Alex Pearce","Fremantle",2023,"GIANTS Stadium",5,5,5,1
 "Alex Pearce","Fremantle",2023,"Gabba",10,10,10,1
 "Alex Pearce","Fremantle",2023,"MCG",11,11,11,1
 "Alex Pearce","Fremantle",2023,"Marvel Stadium",20,20,20,1
@@ -1301,6 +1302,7 @@
 "Andrew Brayshaw","Fremantle",2022,"Marvel Stadium",29.2,21,36,5
 "Andrew Brayshaw","Fremantle",2022,"Optus Stadium",29.92,20,40,12
 "Andrew Brayshaw","Fremantle",2023,"Adelaide Oval",31,31,31,1
+"Andrew Brayshaw","Fremantle",2023,"GIANTS Stadium",29,29,29,1
 "Andrew Brayshaw","Fremantle",2023,"Gabba",30,30,30,1
 "Andrew Brayshaw","Fremantle",2023,"MCG",29,29,29,1
 "Andrew Brayshaw","Fremantle",2023,"Marvel Stadium",26,26,26,1
@@ -1690,7 +1692,7 @@
 "Angus Sheldrick","Sydney Swans",2023,"SCG",11,3,19,2
 "Anthony Caminiti","St Kilda",2023,"Adelaide Oval",7.5,5,10,2
 "Anthony Caminiti","St Kilda",2023,"GIANTS Stadium",10,10,10,1
-"Anthony Caminiti","St Kilda",2023,"MCG",8,8,8,1
+"Anthony Caminiti","St Kilda",2023,"MCG",7,6,8,2
 "Anthony Caminiti","St Kilda",2023,"Marvel Stadium",9.5,7,13,4
 "Anthony Caminiti","St Kilda",2023,"SCG",5,5,5,1
 "Anthony McDonald-Tipungwuti","Essendon",2016,"Adelaide Oval",15,14,16,2
@@ -1955,6 +1957,7 @@
 "Bailey Banfield","Fremantle",2022,"Marvel Stadium",9.75,7,11,4
 "Bailey Banfield","Fremantle",2022,"Optus Stadium",6.33,0,18,12
 "Bailey Banfield","Fremantle",2023,"Adelaide Oval",13,13,13,1
+"Bailey Banfield","Fremantle",2023,"GIANTS Stadium",7,7,7,1
 "Bailey Banfield","Fremantle",2023,"Gabba",8,8,8,1
 "Bailey Banfield","Fremantle",2023,"MCG",14,14,14,1
 "Bailey Banfield","Fremantle",2023,"Marvel Stadium",3,3,3,1
@@ -2767,7 +2770,7 @@
 "Ben Miller","Richmond",2022,"MCG",7.8,5,9,5
 "Ben Miller","Richmond",2022,"Marvel Stadium",12.5,12,13,2
 "Ben Miller","Richmond",2023,"Adelaide Oval",15,15,15,1
-"Ben Miller","Richmond",2023,"MCG",7.8,5,13,5
+"Ben Miller","Richmond",2023,"MCG",8.5,5,13,6
 "Ben Miller","Richmond",2023,"Marvel Stadium",2,2,2,1
 "Ben Newton","Melbourne",2015,"Adelaide Oval",19,19,19,1
 "Ben Newton","Melbourne",2015,"Domain Stadium",14,14,14,1
@@ -3325,7 +3328,7 @@
 "Brad Crouch","St Kilda",2022,"SCG",27,27,27,1
 "Brad Crouch","St Kilda",2023,"Adelaide Oval",31.5,30,33,2
 "Brad Crouch","St Kilda",2023,"GIANTS Stadium",19,19,19,1
-"Brad Crouch","St Kilda",2023,"MCG",32,32,32,1
+"Brad Crouch","St Kilda",2023,"MCG",32.5,32,33,2
 "Brad Crouch","St Kilda",2023,"Marvel Stadium",25.86,18,34,7
 "Brad Crouch","St Kilda",2023,"SCG",33,33,33,1
 "Brad Ebert","Port Adelaide",2014,"Adelaide Oval",23.58,13,35,12
@@ -3534,7 +3537,7 @@
 "Bradley Hill","St Kilda",2022,"Optus Stadium",24.5,19,30,2
 "Bradley Hill","St Kilda",2023,"Adelaide Oval",16,13,19,2
 "Bradley Hill","St Kilda",2023,"GIANTS Stadium",20,20,20,1
-"Bradley Hill","St Kilda",2023,"MCG",23,23,23,1
+"Bradley Hill","St Kilda",2023,"MCG",27,23,31,2
 "Bradley Hill","St Kilda",2023,"Marvel Stadium",21.29,18,26,7
 "Bradley Hill","St Kilda",2023,"SCG",19,19,19,1
 "Bradley Walsh","Carlton",2015,"Domain Stadium",4,4,4,1
@@ -3800,6 +3803,7 @@
 "Brandon Walker","Fremantle",2022,"Marvel Stadium",14.2,13,16,5
 "Brandon Walker","Fremantle",2022,"Optus Stadium",15.6,8,22,10
 "Brandon Walker","Fremantle",2023,"Adelaide Oval",12,12,12,1
+"Brandon Walker","Fremantle",2023,"GIANTS Stadium",15,15,15,1
 "Brandon Walker","Fremantle",2023,"Gabba",14,14,14,1
 "Brandon Walker","Fremantle",2023,"MCG",8,8,8,1
 "Brandon Walker","Fremantle",2023,"Norwood Oval",16,16,16,1
@@ -4131,6 +4135,7 @@
 "Brennan Cox","Fremantle",2022,"Marvel Stadium",19.8,18,23,5
 "Brennan Cox","Fremantle",2022,"Optus Stadium",15.36,10,21,11
 "Brennan Cox","Fremantle",2023,"Adelaide Oval",14,14,14,1
+"Brennan Cox","Fremantle",2023,"GIANTS Stadium",19,19,19,1
 "Brennan Cox","Fremantle",2023,"Gabba",23,23,23,1
 "Brennan Cox","Fremantle",2023,"MCG",20,20,20,1
 "Brennan Cox","Fremantle",2023,"Marvel Stadium",30,30,30,1
@@ -4731,6 +4736,7 @@
 "Caleb Serong","Fremantle",2022,"Marvel Stadium",25.2,20,30,5
 "Caleb Serong","Fremantle",2022,"Optus Stadium",26,20,33,10
 "Caleb Serong","Fremantle",2023,"Adelaide Oval",28,28,28,1
+"Caleb Serong","Fremantle",2023,"GIANTS Stadium",32,32,32,1
 "Caleb Serong","Fremantle",2023,"Gabba",27,27,27,1
 "Caleb Serong","Fremantle",2023,"MCG",26,26,26,1
 "Caleb Serong","Fremantle",2023,"Marvel Stadium",29,29,29,1
@@ -4812,7 +4818,7 @@
 "Callan Ward","GWS Giants",2022,"Optus Stadium",22,22,22,1
 "Callan Ward","GWS Giants",2022,"SCG",21,21,21,1
 "Callan Ward","GWS Giants",2023,"Blundstone Arena",26,26,26,1
-"Callan Ward","GWS Giants",2023,"GIANTS Stadium",23.75,13,32,4
+"Callan Ward","GWS Giants",2023,"GIANTS Stadium",22.2,13,32,5
 "Callan Ward","GWS Giants",2023,"GMHBA Stadium",19,19,19,1
 "Callan Ward","GWS Giants",2023,"MCG",5,5,5,1
 "Callan Ward","GWS Giants",2023,"Manuka Oval",10,9,11,2
@@ -4928,7 +4934,7 @@
 "Callum M. Brown","GWS Giants",2022,"Marvel Stadium",14,11,17,2
 "Callum M. Brown","GWS Giants",2022,"SCG",2,2,2,1
 "Callum M. Brown","GWS Giants",2023,"Blundstone Arena",11,11,11,1
-"Callum M. Brown","GWS Giants",2023,"GIANTS Stadium",10,10,10,1
+"Callum M. Brown","GWS Giants",2023,"GIANTS Stadium",13,10,16,2
 "Callum M. Brown","GWS Giants",2023,"GMHBA Stadium",11,11,11,1
 "Callum M. Brown","GWS Giants",2023,"MCG",8,8,8,1
 "Callum M. Brown","GWS Giants",2023,"Manuka Oval",8,8,8,1
@@ -5081,7 +5087,7 @@
 "Callum Wilkie","St Kilda",2022,"SCG",16,16,16,1
 "Callum Wilkie","St Kilda",2023,"Adelaide Oval",19.5,15,24,2
 "Callum Wilkie","St Kilda",2023,"GIANTS Stadium",22,22,22,1
-"Callum Wilkie","St Kilda",2023,"MCG",19,19,19,1
+"Callum Wilkie","St Kilda",2023,"MCG",18,17,19,2
 "Callum Wilkie","St Kilda",2023,"Marvel Stadium",20.57,8,28,7
 "Callum Wilkie","St Kilda",2023,"SCG",23,23,23,1
 "Cam Ellis-Yolmen","Adelaide Crows",2014,"Domain Stadium",5,5,5,1
@@ -6439,7 +6445,7 @@
 "Connor Idun","GWS Giants",2022,"Marvel Stadium",17,17,17,1
 "Connor Idun","GWS Giants",2022,"Optus Stadium",10,10,10,1
 "Connor Idun","GWS Giants",2023,"Blundstone Arena",13,13,13,1
-"Connor Idun","GWS Giants",2023,"GIANTS Stadium",16.75,14,20,4
+"Connor Idun","GWS Giants",2023,"GIANTS Stadium",16.4,14,20,5
 "Connor Idun","GWS Giants",2023,"GMHBA Stadium",19,19,19,1
 "Connor Idun","GWS Giants",2023,"MCG",18,18,18,1
 "Connor Idun","GWS Giants",2023,"Manuka Oval",23,18,28,2
@@ -6629,6 +6635,7 @@
 "Cooper Sharman","St Kilda",2022,"Optus Stadium",7,0,14,2
 "Cooper Sharman","St Kilda",2022,"SCG",6,6,6,1
 "Cooper Sharman","St Kilda",2023,"Adelaide Oval",7,7,7,1
+"Cooper Sharman","St Kilda",2023,"MCG",3,3,3,1
 "Cooper Sharman","St Kilda",2023,"Marvel Stadium",12.5,7,18,2
 "Cooper Sharman","St Kilda",2023,"SCG",5,5,5,1
 "Cooper Stephens","Geelong Cats",2022,"GMHBA Stadium",15.5,15,16,2
@@ -6961,7 +6968,7 @@
 "Dan Butler","St Kilda",2022,"SCG",5,5,5,1
 "Dan Butler","St Kilda",2023,"Adelaide Oval",9,8,10,2
 "Dan Butler","St Kilda",2023,"GIANTS Stadium",11,11,11,1
-"Dan Butler","St Kilda",2023,"MCG",13,13,13,1
+"Dan Butler","St Kilda",2023,"MCG",13,13,13,2
 "Dan Butler","St Kilda",2023,"Marvel Stadium",11.29,6,16,7
 "Dan Butler","St Kilda",2023,"SCG",10,10,10,1
 "Dan Hannebery","St Kilda",2019,"MCG",24,24,24,1
@@ -7264,7 +7271,7 @@
 "Daniel Lloyd","GWS Giants",2022,"Marvel Stadium",12,11,13,2
 "Daniel Lloyd","GWS Giants",2022,"SCG",7,7,7,1
 "Daniel Lloyd","GWS Giants",2023,"Blundstone Arena",21,21,21,1
-"Daniel Lloyd","GWS Giants",2023,"GIANTS Stadium",14.33,10,18,3
+"Daniel Lloyd","GWS Giants",2023,"GIANTS Stadium",14.25,10,18,4
 "Daniel Lloyd","GWS Giants",2023,"GMHBA Stadium",14,14,14,1
 "Daniel Lloyd","GWS Giants",2023,"MCG",16,16,16,1
 "Daniel Lloyd","GWS Giants",2023,"Manuka Oval",12,12,12,1
@@ -7533,7 +7540,7 @@
 "Daniel Rioli","Richmond",2022,"SCG",12,12,12,1
 "Daniel Rioli","Richmond",2023,"Adelaide Oval",22.5,22,23,2
 "Daniel Rioli","Richmond",2023,"GIANTS Stadium",17,17,17,1
-"Daniel Rioli","Richmond",2023,"MCG",24.12,20,29,8
+"Daniel Rioli","Richmond",2023,"MCG",24.22,20,29,9
 "Daniel Rioli","Richmond",2023,"Marvel Stadium",21,21,21,1
 "Daniel Rioli","Richmond",2023,"Optus Stadium",20,20,20,1
 "Daniel Robinson","Sydney Swans",2015,"Gabba",12,12,12,1
@@ -8908,7 +8915,7 @@
 "Dion Prestia","Richmond",2022,"SCG",25,25,25,1
 "Dion Prestia","Richmond",2023,"Adelaide Oval",21.5,21,22,2
 "Dion Prestia","Richmond",2023,"GIANTS Stadium",23,23,23,1
-"Dion Prestia","Richmond",2023,"MCG",20.62,11,29,8
+"Dion Prestia","Richmond",2023,"MCG",21.11,11,29,9
 "Dion Prestia","Richmond",2023,"Optus Stadium",27,27,27,1
 "Dom Barry","Melbourne",2014,"MCG",13.5,10,17,2
 "Dom Barry","Melbourne",2014,"Marvel Stadium",4.5,2,7,2
@@ -9067,7 +9074,7 @@
 "Dougal Howard","St Kilda",2022,"SCG",14,14,14,1
 "Dougal Howard","St Kilda",2023,"Adelaide Oval",10.5,9,12,2
 "Dougal Howard","St Kilda",2023,"GIANTS Stadium",15,15,15,1
-"Dougal Howard","St Kilda",2023,"MCG",13,13,13,1
+"Dougal Howard","St Kilda",2023,"MCG",13.5,13,14,2
 "Dougal Howard","St Kilda",2023,"Marvel Stadium",13.29,8,18,7
 "Dougal Howard","St Kilda",2023,"SCG",13,13,13,1
 "Doulton Langlands","St Kilda",2019,"Adelaide Oval",11,11,11,1
@@ -9170,7 +9177,7 @@
 "Dustin Martin","Richmond",2022,"SCG",20,20,20,1
 "Dustin Martin","Richmond",2023,"Adelaide Oval",15.5,14,17,2
 "Dustin Martin","Richmond",2023,"GIANTS Stadium",19,19,19,1
-"Dustin Martin","Richmond",2023,"MCG",22,13,27,7
+"Dustin Martin","Richmond",2023,"MCG",23.62,13,35,8
 "Dustin Martin","Richmond",2023,"Marvel Stadium",19,19,19,1
 "Dustin Martin","Richmond",2023,"Optus Stadium",27,27,27,1
 "Dylan Addison","GWS Giants",2014,"GIANTS Stadium",12,9,16,3
@@ -9268,7 +9275,7 @@
 "Dylan Grimes","Richmond",2022,"SCG",16,16,16,1
 "Dylan Grimes","Richmond",2023,"Adelaide Oval",8.5,8,9,2
 "Dylan Grimes","Richmond",2023,"GIANTS Stadium",11,11,11,1
-"Dylan Grimes","Richmond",2023,"MCG",9.88,6,14,8
+"Dylan Grimes","Richmond",2023,"MCG",9.78,6,14,9
 "Dylan Grimes","Richmond",2023,"Marvel Stadium",7,7,7,1
 "Dylan Grimes","Richmond",2023,"Optus Stadium",8,8,8,1
 "Dylan Moore","Hawthorn",2019,"MCG",11.8,8,15,5
@@ -10050,6 +10057,7 @@
 "Ethan Hughes","Fremantle",2022,"Marvel Stadium",14.5,11,18,2
 "Ethan Hughes","Fremantle",2022,"Optus Stadium",16,0,24,4
 "Ethan Hughes","Fremantle",2023,"Adelaide Oval",19,19,19,1
+"Ethan Hughes","Fremantle",2023,"GIANTS Stadium",12,12,12,1
 "Ethan Hughes","Fremantle",2023,"Gabba",16,16,16,1
 "Ethan Hughes","Fremantle",2023,"MCG",17,17,17,1
 "Ethan Hughes","Fremantle",2023,"Marvel Stadium",16,16,16,1
@@ -10091,7 +10099,7 @@
 "Finn Callaghan","GWS Giants",2022,"MCG",13,13,13,1
 "Finn Callaghan","GWS Giants",2022,"Manuka Oval",16.5,15,18,2
 "Finn Callaghan","GWS Giants",2023,"Blundstone Arena",21,21,21,1
-"Finn Callaghan","GWS Giants",2023,"GIANTS Stadium",20.25,13,25,4
+"Finn Callaghan","GWS Giants",2023,"GIANTS Stadium",21.6,13,27,5
 "Finn Callaghan","GWS Giants",2023,"GMHBA Stadium",18,18,18,1
 "Finn Callaghan","GWS Giants",2023,"MCG",22,22,22,1
 "Finn Callaghan","GWS Giants",2023,"Manuka Oval",21.5,19,24,2
@@ -10858,7 +10866,7 @@
 "Harry Himmelberg","GWS Giants",2022,"Optus Stadium",3,3,3,1
 "Harry Himmelberg","GWS Giants",2022,"SCG",16,16,16,1
 "Harry Himmelberg","GWS Giants",2023,"Blundstone Arena",22,22,22,1
-"Harry Himmelberg","GWS Giants",2023,"GIANTS Stadium",11.25,7,18,4
+"Harry Himmelberg","GWS Giants",2023,"GIANTS Stadium",12.8,7,19,5
 "Harry Himmelberg","GWS Giants",2023,"MCG",17,17,17,1
 "Harry Himmelberg","GWS Giants",2023,"Manuka Oval",18.5,17,20,2
 "Harry Himmelberg","GWS Giants",2023,"Marvel Stadium",5,5,5,1
@@ -10995,7 +11003,7 @@
 "Harry Perryman","GWS Giants",2022,"Optus Stadium",21,21,21,1
 "Harry Perryman","GWS Giants",2022,"SCG",22,22,22,1
 "Harry Perryman","GWS Giants",2023,"Blundstone Arena",16,16,16,1
-"Harry Perryman","GWS Giants",2023,"GIANTS Stadium",12.33,1,20,3
+"Harry Perryman","GWS Giants",2023,"GIANTS Stadium",14,1,20,4
 "Harry Perryman","GWS Giants",2023,"GMHBA Stadium",19,19,19,1
 "Harry Perryman","GWS Giants",2023,"MCG",19,19,19,1
 "Harry Perryman","GWS Giants",2023,"Manuka Oval",21,18,24,2
@@ -11224,6 +11232,7 @@
 "Hayden Young","Fremantle",2022,"Marvel Stadium",24.4,19,31,5
 "Hayden Young","Fremantle",2022,"Optus Stadium",22.18,16,31,11
 "Hayden Young","Fremantle",2023,"Adelaide Oval",17,17,17,1
+"Hayden Young","Fremantle",2023,"GIANTS Stadium",20,20,20,1
 "Hayden Young","Fremantle",2023,"Gabba",33,33,33,1
 "Hayden Young","Fremantle",2023,"MCG",27,27,27,1
 "Hayden Young","Fremantle",2023,"Marvel Stadium",30,30,30,1
@@ -11534,7 +11543,7 @@
 "Hugo Ralphsmith","Richmond",2022,"SCG",15,15,15,1
 "Hugo Ralphsmith","Richmond",2023,"Adelaide Oval",18,18,18,1
 "Hugo Ralphsmith","Richmond",2023,"GIANTS Stadium",17,17,17,1
-"Hugo Ralphsmith","Richmond",2023,"MCG",13.29,4,19,7
+"Hugo Ralphsmith","Richmond",2023,"MCG",12,3,19,8
 "Hugo Ralphsmith","Richmond",2023,"Optus Stadium",1,1,1,1
 "Hunter Clark","St Kilda",2018,"Adelaide Oval",13,13,13,1
 "Hunter Clark","St Kilda",2018,"Heritage Bank Stadium",17,17,17,1
@@ -11966,7 +11975,7 @@
 "Jack Buckley","GWS Giants",2021,"Optus Stadium",8,8,8,1
 "Jack Buckley","GWS Giants",2021,"SCG",16,16,16,1
 "Jack Buckley","GWS Giants",2023,"Blundstone Arena",10,10,10,1
-"Jack Buckley","GWS Giants",2023,"GIANTS Stadium",12,11,13,4
+"Jack Buckley","GWS Giants",2023,"GIANTS Stadium",12,11,13,5
 "Jack Buckley","GWS Giants",2023,"GMHBA Stadium",10,10,10,1
 "Jack Buckley","GWS Giants",2023,"MCG",8,8,8,1
 "Jack Buckley","GWS Giants",2023,"Manuka Oval",18,16,20,2
@@ -12191,7 +12200,7 @@
 "Jack Graham","Richmond",2022,"SCG",18,18,18,1
 "Jack Graham","Richmond",2023,"Adelaide Oval",15,15,15,1
 "Jack Graham","Richmond",2023,"GIANTS Stadium",9,9,9,1
-"Jack Graham","Richmond",2023,"MCG",14.43,10,20,7
+"Jack Graham","Richmond",2023,"MCG",15.12,10,20,8
 "Jack Graham","Richmond",2023,"Optus Stadium",21,21,21,1
 "Jack Grimes","Melbourne",2014,"Adelaide Oval",17,17,17,2
 "Jack Grimes","Melbourne",2014,"GIANTS Stadium",19,19,19,1
@@ -12351,7 +12360,7 @@
 "Jack Higgins","St Kilda",2022,"Optus Stadium",15.5,15,16,2
 "Jack Higgins","St Kilda",2023,"Adelaide Oval",16,14,18,2
 "Jack Higgins","St Kilda",2023,"GIANTS Stadium",12,12,12,1
-"Jack Higgins","St Kilda",2023,"MCG",18,18,18,1
+"Jack Higgins","St Kilda",2023,"MCG",14.5,11,18,2
 "Jack Higgins","St Kilda",2023,"Marvel Stadium",13.29,8,22,7
 "Jack Higgins","St Kilda",2023,"SCG",11,11,11,1
 "Jack Hiscox","Sydney Swans",2016,"MCG",7,7,7,1
@@ -12937,7 +12946,7 @@
 "Jack Riewoldt","Richmond",2022,"SCG",8,8,8,1
 "Jack Riewoldt","Richmond",2023,"Adelaide Oval",8.5,8,9,2
 "Jack Riewoldt","Richmond",2023,"GIANTS Stadium",15,15,15,1
-"Jack Riewoldt","Richmond",2023,"MCG",9.86,5,12,7
+"Jack Riewoldt","Richmond",2023,"MCG",9.62,5,12,8
 "Jack Riewoldt","Richmond",2023,"Marvel Stadium",4,4,4,1
 "Jack Riewoldt","Richmond",2023,"Optus Stadium",8,8,8,1
 "Jack Ross","Richmond",2019,"Adelaide Oval",25,25,25,1
@@ -12960,7 +12969,7 @@
 "Jack Ross","Richmond",2022,"Optus Stadium",6,6,6,1
 "Jack Ross","Richmond",2022,"SCG",16,16,16,1
 "Jack Ross","Richmond",2023,"GIANTS Stadium",18,18,18,1
-"Jack Ross","Richmond",2023,"MCG",17.33,4,26,6
+"Jack Ross","Richmond",2023,"MCG",17.14,4,26,7
 "Jack Ross","Richmond",2023,"Marvel Stadium",17,17,17,1
 "Jack Ross","Richmond",2023,"Optus Stadium",19,19,19,1
 "Jack Saunders","Hawthorn",2022,"University of Tasmania Stadium",7,7,7,1
@@ -13103,7 +13112,7 @@
 "Jack Sinclair","St Kilda",2022,"SCG",17,17,17,1
 "Jack Sinclair","St Kilda",2023,"Adelaide Oval",25,23,27,2
 "Jack Sinclair","St Kilda",2023,"GIANTS Stadium",37,37,37,1
-"Jack Sinclair","St Kilda",2023,"MCG",26,26,26,1
+"Jack Sinclair","St Kilda",2023,"MCG",28.5,26,31,2
 "Jack Sinclair","St Kilda",2023,"Marvel Stadium",27.29,18,33,7
 "Jack Sinclair","St Kilda",2023,"SCG",32,32,32,1
 "Jack Steele","GWS Giants",2015,"Adelaide Oval",8,8,8,1
@@ -13168,6 +13177,7 @@
 "Jack Steele","St Kilda",2022,"SCG",29,29,29,1
 "Jack Steele","St Kilda",2023,"Adelaide Oval",21,21,21,1
 "Jack Steele","St Kilda",2023,"GIANTS Stadium",25,25,25,1
+"Jack Steele","St Kilda",2023,"MCG",21,21,21,1
 "Jack Steele","St Kilda",2023,"Marvel Stadium",23,14,29,6
 "Jack Steele","St Kilda",2023,"SCG",24,24,24,1
 "Jack Steven","Geelong Cats",2020,"Adelaide Oval",24,24,24,1
@@ -13822,12 +13832,13 @@
 "Jade Gresham","St Kilda",2022,"SCG",18,18,18,1
 "Jade Gresham","St Kilda",2023,"Adelaide Oval",7,7,7,1
 "Jade Gresham","St Kilda",2023,"GIANTS Stadium",17,17,17,1
-"Jade Gresham","St Kilda",2023,"MCG",23,23,23,1
+"Jade Gresham","St Kilda",2023,"MCG",19.5,16,23,2
 "Jade Gresham","St Kilda",2023,"Marvel Stadium",17,10,21,7
 "Jade Gresham","St Kilda",2023,"SCG",18,18,18,1
 "Jaden McGrath","Brisbane Lions",2015,"Gabba",13.5,13,14,2
 "Jaden McGrath","Brisbane Lions",2015,"Marvel Stadium",8,8,8,1
 "Jaeger O'Meara","Fremantle",2023,"Adelaide Oval",19,19,19,1
+"Jaeger O'Meara","Fremantle",2023,"GIANTS Stadium",15,15,15,1
 "Jaeger O'Meara","Fremantle",2023,"Gabba",18,18,18,1
 "Jaeger O'Meara","Fremantle",2023,"MCG",24,24,24,1
 "Jaeger O'Meara","Fremantle",2023,"Marvel Stadium",19,19,19,1
@@ -14399,7 +14410,7 @@
 "Jake Riccardi","GWS Giants",2022,"Marvel Stadium",10,7,12,3
 "Jake Riccardi","GWS Giants",2022,"Optus Stadium",7,7,7,1
 "Jake Riccardi","GWS Giants",2023,"Blundstone Arena",9,9,9,1
-"Jake Riccardi","GWS Giants",2023,"GIANTS Stadium",9.5,8,11,4
+"Jake Riccardi","GWS Giants",2023,"GIANTS Stadium",10.6,8,15,5
 "Jake Riccardi","GWS Giants",2023,"GMHBA Stadium",6,6,6,1
 "Jake Riccardi","GWS Giants",2023,"Marvel Stadium",12,12,12,1
 "Jake Riccardi","GWS Giants",2023,"Optus Stadium",11,11,11,1
@@ -16347,7 +16358,7 @@
 "Jayden Short","Richmond",2022,"SCG",22,22,22,1
 "Jayden Short","Richmond",2023,"Adelaide Oval",20,20,20,1
 "Jayden Short","Richmond",2023,"GIANTS Stadium",23,23,23,1
-"Jayden Short","Richmond",2023,"MCG",22.83,17,30,6
+"Jayden Short","Richmond",2023,"MCG",22.86,17,30,7
 "Jayden Short","Richmond",2023,"Marvel Stadium",32,32,32,1
 "Jayden Short","Richmond",2023,"Optus Stadium",20,20,20,1
 "Jed Adcock","Brisbane Lions",2014,"Adelaide Oval",21,21,21,1
@@ -17068,7 +17079,7 @@
 "Jimmy Webster","St Kilda",2022,"Optus Stadium",16,14,18,2
 "Jimmy Webster","St Kilda",2022,"SCG",16,16,16,1
 "Jimmy Webster","St Kilda",2023,"GIANTS Stadium",14,14,14,1
-"Jimmy Webster","St Kilda",2023,"MCG",16,16,16,1
+"Jimmy Webster","St Kilda",2023,"MCG",14.5,13,16,2
 "Jimmy Webster","St Kilda",2023,"Marvel Stadium",15,14,16,2
 "Jimmy Webster","St Kilda",2023,"SCG",19,19,19,1
 "Jobe Watson","Essendon",2014,"Domain Stadium",23,23,23,1
@@ -17546,6 +17557,7 @@
 "Jordan Clark","Fremantle",2022,"Marvel Stadium",24,20,30,5
 "Jordan Clark","Fremantle",2022,"Optus Stadium",20.25,11,29,12
 "Jordan Clark","Fremantle",2023,"Adelaide Oval",18,18,18,1
+"Jordan Clark","Fremantle",2023,"GIANTS Stadium",22,22,22,1
 "Jordan Clark","Fremantle",2023,"Gabba",20,20,20,1
 "Jordan Clark","Fremantle",2023,"MCG",14,14,14,1
 "Jordan Clark","Fremantle",2023,"Marvel Stadium",28,28,28,1
@@ -17938,7 +17950,7 @@
 "Josh Battle","St Kilda",2022,"SCG",14,14,14,1
 "Josh Battle","St Kilda",2023,"Adelaide Oval",18.5,13,24,2
 "Josh Battle","St Kilda",2023,"GIANTS Stadium",18,18,18,1
-"Josh Battle","St Kilda",2023,"MCG",14,14,14,1
+"Josh Battle","St Kilda",2023,"MCG",14.5,14,15,2
 "Josh Battle","St Kilda",2023,"Marvel Stadium",13.43,8,16,7
 "Josh Battle","St Kilda",2023,"SCG",10,10,10,1
 "Josh Begley","Essendon",2018,"MCG",2,2,2,1
@@ -18459,7 +18471,7 @@
 "Josh Kelly","GWS Giants",2022,"Marvel Stadium",31,27,35,2
 "Josh Kelly","GWS Giants",2022,"Optus Stadium",19,19,19,1
 "Josh Kelly","GWS Giants",2022,"SCG",25,25,25,1
-"Josh Kelly","GWS Giants",2023,"GIANTS Stadium",26.67,24,30,3
+"Josh Kelly","GWS Giants",2023,"GIANTS Stadium",28.25,24,33,4
 "Josh Kelly","GWS Giants",2023,"MCG",27,27,27,1
 "Josh Kelly","GWS Giants",2023,"Manuka Oval",37.5,34,41,2
 "Josh Kelly","GWS Giants",2023,"Marvel Stadium",28,28,28,1
@@ -18697,6 +18709,7 @@
 "Josh Treacy","Fremantle",2022,"GMHBA Stadium",5,5,5,1
 "Josh Treacy","Fremantle",2022,"Heritage Bank Stadium",6,6,6,1
 "Josh Treacy","Fremantle",2022,"Optus Stadium",12,12,12,1
+"Josh Treacy","Fremantle",2023,"GIANTS Stadium",6,6,6,1
 "Josh Treacy","Fremantle",2023,"MCG",9,9,9,1
 "Josh Treacy","Fremantle",2023,"Marvel Stadium",3,3,3,1
 "Josh Treacy","Fremantle",2023,"Optus Stadium",7.67,4,13,3
@@ -18817,7 +18830,7 @@
 "Judson Clarke","Richmond",2022,"MCG",8.33,4,11,3
 "Judson Clarke","Richmond",2023,"Adelaide Oval",11,11,11,1
 "Judson Clarke","Richmond",2023,"GIANTS Stadium",11,11,11,1
-"Judson Clarke","Richmond",2023,"MCG",9,2,20,7
+"Judson Clarke","Richmond",2023,"MCG",8.88,2,20,8
 "Judson Clarke","Richmond",2023,"Marvel Stadium",5,5,5,1
 "Judson Clarke","Richmond",2023,"Optus Stadium",4,4,4,1
 "Junior Rioli","Port Adelaide",2023,"Adelaide Oval",11.5,7,16,6
@@ -18987,6 +19000,7 @@
 "Jy Simpkin","North Melbourne",2023,"Optus Stadium",25,25,25,1
 "Jye Amiss","Fremantle",2022,"Optus Stadium",9,9,9,1
 "Jye Amiss","Fremantle",2023,"Adelaide Oval",8,8,8,1
+"Jye Amiss","Fremantle",2023,"GIANTS Stadium",5,5,5,1
 "Jye Amiss","Fremantle",2023,"Gabba",7,7,7,1
 "Jye Amiss","Fremantle",2023,"MCG",14,14,14,1
 "Jye Amiss","Fremantle",2023,"Norwood Oval",10,10,10,1
@@ -19210,7 +19224,7 @@
 "Kamdyn McIntosh","Richmond",2022,"SCG",14,14,14,1
 "Kamdyn McIntosh","Richmond",2023,"Adelaide Oval",16,13,19,2
 "Kamdyn McIntosh","Richmond",2023,"GIANTS Stadium",19,19,19,1
-"Kamdyn McIntosh","Richmond",2023,"MCG",14.25,9,19,8
+"Kamdyn McIntosh","Richmond",2023,"MCG",14.44,9,19,9
 "Kamdyn McIntosh","Richmond",2023,"Marvel Stadium",16,16,16,1
 "Kamdyn McIntosh","Richmond",2023,"Optus Stadium",11,11,11,1
 "Kane Cornes","Port Adelaide",2014,"Adelaide Oval",26,15,38,12
@@ -19470,7 +19484,7 @@
 "Kieren Briggs","GWS Giants",2022,"Manuka Oval",13,13,13,1
 "Kieren Briggs","GWS Giants",2022,"Marvel Stadium",7,6,8,2
 "Kieren Briggs","GWS Giants",2023,"Blundstone Arena",16,16,16,1
-"Kieren Briggs","GWS Giants",2023,"GIANTS Stadium",13.5,11,16,2
+"Kieren Briggs","GWS Giants",2023,"GIANTS Stadium",13.33,11,16,3
 "Kieren Briggs","GWS Giants",2023,"GMHBA Stadium",17,17,17,1
 "Kieren Jack","Sydney Swans",2014,"Accor Stadium",22.67,14,29,3
 "Kieren Jack","Sydney Swans",2014,"Adelaide Oval",21.5,19,24,2
@@ -19784,7 +19798,7 @@
 "Lachie Ash","GWS Giants",2022,"Optus Stadium",15,15,15,1
 "Lachie Ash","GWS Giants",2022,"SCG",10,10,10,1
 "Lachie Ash","GWS Giants",2023,"Blundstone Arena",19,19,19,1
-"Lachie Ash","GWS Giants",2023,"GIANTS Stadium",26,20,33,4
+"Lachie Ash","GWS Giants",2023,"GIANTS Stadium",25.4,20,33,5
 "Lachie Ash","GWS Giants",2023,"GMHBA Stadium",26,26,26,1
 "Lachie Ash","GWS Giants",2023,"MCG",32,32,32,1
 "Lachie Ash","GWS Giants",2023,"Manuka Oval",24,20,28,2
@@ -20089,6 +20103,7 @@
 "Lachie Schultz","Fremantle",2022,"Marvel Stadium",14.75,12,20,4
 "Lachie Schultz","Fremantle",2022,"Optus Stadium",12.33,7,23,12
 "Lachie Schultz","Fremantle",2023,"Adelaide Oval",12,12,12,1
+"Lachie Schultz","Fremantle",2023,"GIANTS Stadium",17,17,17,1
 "Lachie Schultz","Fremantle",2023,"Gabba",16,16,16,1
 "Lachie Schultz","Fremantle",2023,"MCG",10,10,10,1
 "Lachie Schultz","Fremantle",2023,"Marvel Stadium",15,15,15,1
@@ -20234,7 +20249,7 @@
 "Lachie Whitfield","GWS Giants",2022,"Optus Stadium",25,25,25,1
 "Lachie Whitfield","GWS Giants",2022,"SCG",22,22,22,1
 "Lachie Whitfield","GWS Giants",2023,"Blundstone Arena",24,24,24,1
-"Lachie Whitfield","GWS Giants",2023,"GIANTS Stadium",27.25,17,33,4
+"Lachie Whitfield","GWS Giants",2023,"GIANTS Stadium",26.2,17,33,5
 "Lachie Whitfield","GWS Giants",2023,"GMHBA Stadium",31,31,31,1
 "Lachie Whitfield","GWS Giants",2023,"MCG",29,29,29,1
 "Lachie Whitfield","GWS Giants",2023,"Manuka Oval",27,23,31,2
@@ -20349,7 +20364,7 @@
 "Lachlan Keeffe","GWS Giants",2022,"Optus Stadium",14,14,14,1
 "Lachlan Keeffe","GWS Giants",2022,"SCG",0,0,0,1
 "Lachlan Keeffe","GWS Giants",2023,"Blundstone Arena",5,5,5,1
-"Lachlan Keeffe","GWS Giants",2023,"GIANTS Stadium",8,8,8,1
+"Lachlan Keeffe","GWS Giants",2023,"GIANTS Stadium",10,8,12,2
 "Lachlan Keeffe","GWS Giants",2023,"GMHBA Stadium",7,7,7,1
 "Lachlan McAndrew","Sydney Swans",2023,"Marvel Stadium",9,9,9,1
 "Lachlan McAndrew","Sydney Swans",2023,"SCG",3,3,3,1
@@ -20873,7 +20888,7 @@
 "Liam Baker","Richmond",2022,"SCG",22,22,22,1
 "Liam Baker","Richmond",2023,"Adelaide Oval",30,25,35,2
 "Liam Baker","Richmond",2023,"GIANTS Stadium",20,20,20,1
-"Liam Baker","Richmond",2023,"MCG",20.5,14,32,8
+"Liam Baker","Richmond",2023,"MCG",20.44,14,32,9
 "Liam Baker","Richmond",2023,"Marvel Stadium",21,21,21,1
 "Liam Baker","Richmond",2023,"Optus Stadium",20,20,20,1
 "Liam Dawson","Brisbane Lions",2015,"Adelaide Oval",17,17,17,1
@@ -20954,6 +20969,7 @@
 "Liam Henry","Fremantle",2022,"Marvel Stadium",7.75,0,15,4
 "Liam Henry","Fremantle",2022,"Optus Stadium",13,9,17,2
 "Liam Henry","Fremantle",2023,"Adelaide Oval",13,13,13,1
+"Liam Henry","Fremantle",2023,"GIANTS Stadium",17,17,17,1
 "Liam Henry","Fremantle",2023,"Marvel Stadium",21,21,21,1
 "Liam Henry","Fremantle",2023,"Optus Stadium",13,10,18,3
 "Liam Jones","Carlton",2015,"Domain Stadium",5,5,5,1
@@ -21156,7 +21172,7 @@
 "Liam Stocker","Carlton",2022,"Marvel Stadium",9.5,7,12,2
 "Liam Stocker","St Kilda",2023,"Adelaide Oval",16,15,17,2
 "Liam Stocker","St Kilda",2023,"GIANTS Stadium",24,24,24,1
-"Liam Stocker","St Kilda",2023,"MCG",17,17,17,1
+"Liam Stocker","St Kilda",2023,"MCG",15,13,17,2
 "Liam Stocker","St Kilda",2023,"Marvel Stadium",20.43,15,26,7
 "Liam Stocker","St Kilda",2023,"SCG",13,13,13,1
 "Liam Sumner","Carlton",2016,"Domain Stadium",10,10,10,1
@@ -21753,6 +21769,7 @@
 "Luke Hodge","Hawthorn",2017,"SCG",24,24,24,1
 "Luke Hodge","Hawthorn",2017,"University of Tasmania Stadium",24,18,29,4
 "Luke Jackson","Fremantle",2023,"Adelaide Oval",14,14,14,1
+"Luke Jackson","Fremantle",2023,"GIANTS Stadium",17,17,17,1
 "Luke Jackson","Fremantle",2023,"Gabba",12,12,12,1
 "Luke Jackson","Fremantle",2023,"MCG",19,19,19,1
 "Luke Jackson","Fremantle",2023,"Marvel Stadium",12,12,12,1
@@ -22025,6 +22042,7 @@
 "Luke Ryan","Fremantle",2022,"Marvel Stadium",21.6,16,32,5
 "Luke Ryan","Fremantle",2022,"Optus Stadium",21,12,32,12
 "Luke Ryan","Fremantle",2023,"Adelaide Oval",22,22,22,1
+"Luke Ryan","Fremantle",2023,"GIANTS Stadium",22,22,22,1
 "Luke Ryan","Fremantle",2023,"Gabba",18,18,18,1
 "Luke Ryan","Fremantle",2023,"MCG",22,22,22,1
 "Luke Ryan","Fremantle",2023,"Marvel Stadium",37,37,37,1
@@ -22440,7 +22458,7 @@
 "Marcus Windhager","St Kilda",2022,"Optus Stadium",23,23,23,1
 "Marcus Windhager","St Kilda",2022,"SCG",15,15,15,1
 "Marcus Windhager","St Kilda",2023,"Adelaide Oval",13,13,13,1
-"Marcus Windhager","St Kilda",2023,"MCG",14,14,14,1
+"Marcus Windhager","St Kilda",2023,"MCG",17,14,20,2
 "Marcus Windhager","St Kilda",2023,"Marvel Stadium",6.5,4,14,4
 "Marcus Windhager","St Kilda",2023,"SCG",15,15,15,1
 "Mark Austin","Western Bulldogs",2014,"Adelaide Oval",12,12,12,1
@@ -22926,7 +22944,7 @@
 "Mason Wood","St Kilda",2022,"Optus Stadium",17.5,14,21,2
 "Mason Wood","St Kilda",2023,"Adelaide Oval",20.5,18,23,2
 "Mason Wood","St Kilda",2023,"GIANTS Stadium",21,21,21,1
-"Mason Wood","St Kilda",2023,"MCG",27,27,27,1
+"Mason Wood","St Kilda",2023,"MCG",22.5,18,27,2
 "Mason Wood","St Kilda",2023,"Marvel Stadium",20.43,17,24,7
 "Mason Wood","St Kilda",2023,"SCG",16,16,16,1
 "Massimo D'Ambrosio","Essendon",2022,"GIANTS Stadium",0,0,0,1
@@ -23402,7 +23420,7 @@
 "Matt de Boer","GWS Giants",2022,"Optus Stadium",9,9,9,1
 "Mattaes Phillipou","St Kilda",2023,"Adelaide Oval",18.5,18,19,2
 "Mattaes Phillipou","St Kilda",2023,"GIANTS Stadium",13,13,13,1
-"Mattaes Phillipou","St Kilda",2023,"MCG",14,14,14,1
+"Mattaes Phillipou","St Kilda",2023,"MCG",16,14,18,2
 "Mattaes Phillipou","St Kilda",2023,"Marvel Stadium",12.86,7,18,7
 "Mattaes Phillipou","St Kilda",2023,"SCG",10,10,10,1
 "Matthew Boyd","Western Bulldogs",2014,"Adelaide Oval",25,25,25,1
@@ -23509,6 +23527,7 @@
 "Matthew Jaensch","Adelaide Crows",2015,"Heritage Bank Stadium",26,26,26,1
 "Matthew Jaensch","Adelaide Crows",2015,"Marvel Stadium",25,24,26,2
 "Matthew Johnson","Fremantle",2023,"Adelaide Oval",5,5,5,1
+"Matthew Johnson","Fremantle",2023,"GIANTS Stadium",11,11,11,1
 "Matthew Johnson","Fremantle",2023,"Gabba",22,22,22,1
 "Matthew Johnson","Fremantle",2023,"MCG",20,20,20,1
 "Matthew Johnson","Fremantle",2023,"Norwood Oval",15,15,15,1
@@ -23832,7 +23851,7 @@
 "Maurice Rioli","Richmond",2022,"Optus Stadium",14,14,14,1
 "Maurice Rioli","Richmond",2022,"SCG",8,8,8,1
 "Maurice Rioli","Richmond",2023,"Adelaide Oval",4,3,5,2
-"Maurice Rioli","Richmond",2023,"MCG",8.67,7,11,3
+"Maurice Rioli","Richmond",2023,"MCG",8,6,11,4
 "Maverick Weller","Richmond",2019,"MCG",15.5,15,16,2
 "Maverick Weller","St Kilda",2014,"Adelaide Oval",17,17,17,2
 "Maverick Weller","St Kilda",2014,"Blundstone Arena",12,12,12,1
@@ -23983,6 +24002,7 @@
 "Max King","St Kilda",2022,"Optus Stadium",11.5,11,12,2
 "Max King","St Kilda",2022,"SCG",8,8,8,1
 "Max King","St Kilda",2023,"GIANTS Stadium",11,11,11,1
+"Max King","St Kilda",2023,"MCG",10,10,10,1
 "Max King","St Kilda",2023,"Marvel Stadium",10,10,10,1
 "Max King","St Kilda",2023,"SCG",10,10,10,1
 "Max Lynch","Collingwood",2020,"Gabba",2,2,2,1
@@ -24396,6 +24416,7 @@
 "Michael Walters","Fremantle",2022,"Marvel Stadium",12.5,10,15,4
 "Michael Walters","Fremantle",2022,"Optus Stadium",15.27,6,22,11
 "Michael Walters","Fremantle",2023,"Adelaide Oval",9,9,9,1
+"Michael Walters","Fremantle",2023,"GIANTS Stadium",3,3,3,1
 "Michael Walters","Fremantle",2023,"Gabba",11,11,11,1
 "Michael Walters","Fremantle",2023,"Norwood Oval",13,13,13,1
 "Michael Walters","Fremantle",2023,"Optus Stadium",10.33,7,14,6
@@ -24741,7 +24762,7 @@
 "Mitch Owens","St Kilda",2022,"Marvel Stadium",11.8,6,18,5
 "Mitch Owens","St Kilda",2023,"Adelaide Oval",13.5,13,14,2
 "Mitch Owens","St Kilda",2023,"GIANTS Stadium",7,7,7,1
-"Mitch Owens","St Kilda",2023,"MCG",14,14,14,1
+"Mitch Owens","St Kilda",2023,"MCG",10.5,7,14,2
 "Mitch Owens","St Kilda",2023,"Marvel Stadium",17.67,15,27,6
 "Mitch Owens","St Kilda",2023,"SCG",21,21,21,1
 "Mitch Robinson","Brisbane Lions",2015,"Adelaide Oval",25,25,25,1
@@ -24949,7 +24970,7 @@
 "Nasiah Wanganeen-Milera","St Kilda",2022,"SCG",22,22,22,1
 "Nasiah Wanganeen-Milera","St Kilda",2023,"Adelaide Oval",18.5,16,21,2
 "Nasiah Wanganeen-Milera","St Kilda",2023,"GIANTS Stadium",29,29,29,1
-"Nasiah Wanganeen-Milera","St Kilda",2023,"MCG",19,19,19,1
+"Nasiah Wanganeen-Milera","St Kilda",2023,"MCG",20.5,19,22,2
 "Nasiah Wanganeen-Milera","St Kilda",2023,"Marvel Stadium",21.29,15,28,7
 "Nasiah Wanganeen-Milera","St Kilda",2023,"SCG",30,30,30,1
 "Nat Fyfe","Fremantle",2014,"Adelaide Oval",34,34,34,1
@@ -25004,6 +25025,7 @@
 "Nat Fyfe","Fremantle",2022,"Manuka Oval",9,9,9,1
 "Nat Fyfe","Fremantle",2022,"Marvel Stadium",13,7,21,3
 "Nat Fyfe","Fremantle",2022,"Optus Stadium",19.33,15,22,3
+"Nat Fyfe","Fremantle",2023,"GIANTS Stadium",15,15,15,1
 "Nat Fyfe","Fremantle",2023,"MCG",20,20,20,1
 "Nat Fyfe","Fremantle",2023,"Marvel Stadium",9,9,9,1
 "Nat Fyfe","Fremantle",2023,"Optus Stadium",14.67,10,17,3
@@ -25046,7 +25068,7 @@
 "Nathan Broad","Richmond",2022,"SCG",17,17,17,1
 "Nathan Broad","Richmond",2023,"Adelaide Oval",16,16,16,1
 "Nathan Broad","Richmond",2023,"GIANTS Stadium",18,18,18,1
-"Nathan Broad","Richmond",2023,"MCG",17,13,24,5
+"Nathan Broad","Richmond",2023,"MCG",17,13,24,6
 "Nathan Broad","Richmond",2023,"Marvel Stadium",20,20,20,1
 "Nathan Broad","Richmond",2023,"Optus Stadium",19,19,19,1
 "Nathan Brown","Collingwood",2014,"MCG",0,0,0,1
@@ -25247,6 +25269,7 @@
 "Nathan O'Driscoll","Fremantle",2022,"Marvel Stadium",21,20,22,2
 "Nathan O'Driscoll","Fremantle",2022,"Optus Stadium",13,2,20,6
 "Nathan O'Driscoll","Fremantle",2023,"Adelaide Oval",5,5,5,1
+"Nathan O'Driscoll","Fremantle",2023,"GIANTS Stadium",14,14,14,1
 "Nathan O'Driscoll","Fremantle",2023,"Gabba",14,14,14,1
 "Nathan O'Driscoll","Fremantle",2023,"MCG",15,15,15,1
 "Nathan O'Driscoll","Fremantle",2023,"Optus Stadium",16.75,12,20,4
@@ -25415,6 +25438,7 @@
 "Ned Reeves","Hawthorn",2023,"University of Tasmania Stadium",6.67,4,9,3
 "Neil Erasmus","Fremantle",2022,"Heritage Bank Stadium",13,13,13,1
 "Neil Erasmus","Fremantle",2022,"Optus Stadium",10.25,0,18,4
+"Neil Erasmus","Fremantle",2023,"GIANTS Stadium",10,10,10,1
 "Neil Erasmus","Fremantle",2023,"Gabba",4,4,4,1
 "Neil Erasmus","Fremantle",2023,"Optus Stadium",16,16,16,1
 "Neil Erasmus","Fremantle",2023,"SCG",15,15,15,1
@@ -25770,7 +25794,7 @@
 "Nick Haynes","GWS Giants",2022,"Marvel Stadium",20,15,25,2
 "Nick Haynes","GWS Giants",2022,"SCG",13,13,13,1
 "Nick Haynes","GWS Giants",2023,"Blundstone Arena",16,16,16,1
-"Nick Haynes","GWS Giants",2023,"GIANTS Stadium",13,2,22,3
+"Nick Haynes","GWS Giants",2023,"GIANTS Stadium",13.25,2,22,4
 "Nick Haynes","GWS Giants",2023,"MCG",24,24,24,1
 "Nick Haynes","GWS Giants",2023,"Manuka Oval",28,27,29,2
 "Nick Haynes","GWS Giants",2023,"Marvel Stadium",26,26,26,1
@@ -26152,7 +26176,7 @@
 "Nick Vlastuin","Richmond",2022,"Optus Stadium",24,24,24,1
 "Nick Vlastuin","Richmond",2022,"SCG",19,19,19,1
 "Nick Vlastuin","Richmond",2023,"Adelaide Oval",20,20,20,2
-"Nick Vlastuin","Richmond",2023,"MCG",18.14,11,22,7
+"Nick Vlastuin","Richmond",2023,"MCG",18.75,11,23,8
 "Nick Vlastuin","Richmond",2023,"Marvel Stadium",18,18,18,1
 "Nick Vlastuin","Richmond",2023,"Optus Stadium",26,26,26,1
 "Nik Cox","Essendon",2021,"Adelaide Oval",13,13,13,1
@@ -26247,7 +26271,7 @@
 "Noah Balta","Richmond",2022,"Optus Stadium",16,16,16,1
 "Noah Balta","Richmond",2023,"Adelaide Oval",16.5,13,20,2
 "Noah Balta","Richmond",2023,"GIANTS Stadium",17,17,17,1
-"Noah Balta","Richmond",2023,"MCG",14,8,19,8
+"Noah Balta","Richmond",2023,"MCG",14.33,8,19,9
 "Noah Balta","Richmond",2023,"Marvel Stadium",10,10,10,1
 "Noah Balta","Richmond",2023,"Optus Stadium",13,13,13,1
 "Noah Cumberland","Richmond",2022,"Adelaide Oval",10,10,10,1
@@ -28388,7 +28412,7 @@
 "Rowan Marshall","St Kilda",2022,"SCG",23,23,23,1
 "Rowan Marshall","St Kilda",2023,"Adelaide Oval",17.5,10,25,2
 "Rowan Marshall","St Kilda",2023,"GIANTS Stadium",24,24,24,1
-"Rowan Marshall","St Kilda",2023,"MCG",19,19,19,1
+"Rowan Marshall","St Kilda",2023,"MCG",18,17,19,2
 "Rowan Marshall","St Kilda",2023,"Marvel Stadium",19.71,16,26,7
 "Rowan Marshall","St Kilda",2023,"SCG",16,16,16,1
 "Rueben William","Brisbane Lions",2016,"Heritage Bank Stadium",13,13,13,1
@@ -28409,7 +28433,7 @@
 "Ryan Abbott","St Kilda",2020,"Heritage Bank Stadium",3,3,3,1
 "Ryan Angwin","GWS Giants",2022,"GIANTS Stadium",3,3,3,1
 "Ryan Angwin","GWS Giants",2023,"Blundstone Arena",9,9,9,1
-"Ryan Angwin","GWS Giants",2023,"GIANTS Stadium",8.5,8,9,2
+"Ryan Angwin","GWS Giants",2023,"GIANTS Stadium",6,1,9,3
 "Ryan Angwin","GWS Giants",2023,"GMHBA Stadium",11,11,11,1
 "Ryan Angwin","GWS Giants",2023,"MCG",12,12,12,1
 "Ryan Angwin","GWS Giants",2023,"Manuka Oval",15,10,20,2
@@ -28506,7 +28530,7 @@
 "Ryan Byrnes","St Kilda",2022,"SCG",17,17,17,1
 "Ryan Byrnes","St Kilda",2023,"Adelaide Oval",17.5,13,22,2
 "Ryan Byrnes","St Kilda",2023,"GIANTS Stadium",18,18,18,1
-"Ryan Byrnes","St Kilda",2023,"MCG",23,23,23,1
+"Ryan Byrnes","St Kilda",2023,"MCG",16.5,10,23,2
 "Ryan Byrnes","St Kilda",2023,"Marvel Stadium",19.14,8,27,7
 "Ryan Byrnes","St Kilda",2023,"SCG",19,19,19,1
 "Ryan Clarke","North Melbourne",2016,"Domain Stadium",21,21,21,1
@@ -29776,6 +29800,7 @@
 "Sam Sturt","Fremantle",2020,"Heritage Bank Stadium",6.5,2,11,2
 "Sam Sturt","Fremantle",2020,"Marvel Stadium",10,10,10,1
 "Sam Sturt","Fremantle",2021,"Optus Stadium",5,5,5,1
+"Sam Sturt","Fremantle",2023,"GIANTS Stadium",9,9,9,1
 "Sam Sturt","Fremantle",2023,"Gabba",7,7,7,1
 "Sam Sturt","Fremantle",2023,"MCG",5,5,5,1
 "Sam Sturt","Fremantle",2023,"Norwood Oval",6,6,6,1
@@ -29799,6 +29824,7 @@
 "Sam Switkowski","Fremantle",2022,"Marvel Stadium",9,9,9,1
 "Sam Switkowski","Fremantle",2022,"Optus Stadium",15.25,12,19,8
 "Sam Switkowski","Fremantle",2023,"Adelaide Oval",11,11,11,1
+"Sam Switkowski","Fremantle",2023,"GIANTS Stadium",15,15,15,1
 "Sam Switkowski","Fremantle",2023,"Gabba",11,11,11,1
 "Sam Switkowski","Fremantle",2023,"MCG",18,18,18,1
 "Sam Switkowski","Fremantle",2023,"Marvel Stadium",16,16,16,1
@@ -29841,7 +29867,7 @@
 "Sam Taylor","GWS Giants",2022,"Marvel Stadium",13.33,9,18,3
 "Sam Taylor","GWS Giants",2022,"Optus Stadium",17,17,17,1
 "Sam Taylor","GWS Giants",2022,"SCG",21,21,21,1
-"Sam Taylor","GWS Giants",2023,"GIANTS Stadium",11.5,10,13,2
+"Sam Taylor","GWS Giants",2023,"GIANTS Stadium",10.33,8,13,3
 "Sam Taylor","GWS Giants",2023,"Manuka Oval",7,7,7,1
 "Sam Taylor","GWS Giants",2023,"Marvel Stadium",15,15,15,1
 "Sam Taylor","GWS Giants",2023,"Norwood Oval",20,20,20,1
@@ -29964,7 +29990,7 @@
 "Samson Ryan","Richmond",2021,"MCG",0,0,0,1
 "Samson Ryan","Richmond",2023,"Adelaide Oval",7,6,8,2
 "Samson Ryan","Richmond",2023,"GIANTS Stadium",11,11,11,1
-"Samson Ryan","Richmond",2023,"MCG",6.86,2,10,7
+"Samson Ryan","Richmond",2023,"MCG",6.5,2,10,8
 "Samson Ryan","Richmond",2023,"Marvel Stadium",11,11,11,1
 "Samson Ryan","Richmond",2023,"Optus Stadium",6,6,6,1
 "Scott D. Thompson","North Melbourne",2014,"Adelaide Oval",16,16,16,1
@@ -30393,7 +30419,7 @@
 "Sebastian Ross","St Kilda",2022,"SCG",31,31,31,1
 "Sebastian Ross","St Kilda",2023,"Adelaide Oval",22.5,19,26,2
 "Sebastian Ross","St Kilda",2023,"GIANTS Stadium",12,12,12,1
-"Sebastian Ross","St Kilda",2023,"MCG",24,24,24,1
+"Sebastian Ross","St Kilda",2023,"MCG",24.5,24,25,2
 "Sebastian Ross","St Kilda",2023,"Marvel Stadium",22.17,12,30,6
 "Sebastian Ross","St Kilda",2023,"SCG",14,14,14,1
 "Shai Bolton","Richmond",2017,"GIANTS Stadium",9,9,9,1
@@ -30429,7 +30455,7 @@
 "Shai Bolton","Richmond",2022,"SCG",13,13,13,1
 "Shai Bolton","Richmond",2023,"Adelaide Oval",19,16,22,2
 "Shai Bolton","Richmond",2023,"GIANTS Stadium",23,23,23,1
-"Shai Bolton","Richmond",2023,"MCG",22.25,16,31,8
+"Shai Bolton","Richmond",2023,"MCG",21.78,16,31,9
 "Shai Bolton","Richmond",2023,"Marvel Stadium",19,19,19,1
 "Shai Bolton","Richmond",2023,"Optus Stadium",33,33,33,1
 "Shane Biggs","Sydney Swans",2014,"Accor Stadium",10,10,10,1
@@ -31252,7 +31278,7 @@
 "Stephen Coniglio","GWS Giants",2022,"Marvel Stadium",28.67,21,34,3
 "Stephen Coniglio","GWS Giants",2022,"Optus Stadium",19,19,19,1
 "Stephen Coniglio","GWS Giants",2023,"Blundstone Arena",25,25,25,1
-"Stephen Coniglio","GWS Giants",2023,"GIANTS Stadium",27.5,23,32,4
+"Stephen Coniglio","GWS Giants",2023,"GIANTS Stadium",28.2,23,32,5
 "Stephen Coniglio","GWS Giants",2023,"GMHBA Stadium",26,26,26,1
 "Stephen Coniglio","GWS Giants",2023,"MCG",33,33,33,1
 "Stephen Coniglio","GWS Giants",2023,"Manuka Oval",32,26,38,2
@@ -32205,7 +32231,7 @@
 "Tim Taranto","GWS Giants",2022,"SCG",16,16,16,1
 "Tim Taranto","Richmond",2023,"Adelaide Oval",31,28,34,2
 "Tim Taranto","Richmond",2023,"GIANTS Stadium",36,36,36,1
-"Tim Taranto","Richmond",2023,"MCG",30.62,27,33,8
+"Tim Taranto","Richmond",2023,"MCG",31.44,27,38,9
 "Tim Taranto","Richmond",2023,"Marvel Stadium",32,32,32,1
 "Tim Taranto","Richmond",2023,"Optus Stadium",35,35,35,1
 "Timmy Sumner","Gold Coast Suns",2014,"Domain Stadium",3,3,3,1
@@ -32226,7 +32252,7 @@
 "Tobe Watson","Fremantle",2021,"Marvel Stadium",13,13,13,1
 "Tobe Watson","Fremantle",2021,"Optus Stadium",11.67,4,16,6
 "Toby Bedford","GWS Giants",2023,"Blundstone Arena",17,17,17,1
-"Toby Bedford","GWS Giants",2023,"GIANTS Stadium",14,9,19,2
+"Toby Bedford","GWS Giants",2023,"GIANTS Stadium",12.33,9,19,3
 "Toby Bedford","GWS Giants",2023,"GMHBA Stadium",14,14,14,1
 "Toby Bedford","GWS Giants",2023,"MCG",9,9,9,1
 "Toby Bedford","GWS Giants",2023,"Manuka Oval",12,12,12,1
@@ -32307,7 +32333,7 @@
 "Toby Greene","GWS Giants",2022,"Marvel Stadium",15.5,15,16,2
 "Toby Greene","GWS Giants",2022,"SCG",11,11,11,1
 "Toby Greene","GWS Giants",2023,"Blundstone Arena",24,24,24,1
-"Toby Greene","GWS Giants",2023,"GIANTS Stadium",13.5,5,19,4
+"Toby Greene","GWS Giants",2023,"GIANTS Stadium",14,5,19,5
 "Toby Greene","GWS Giants",2023,"GMHBA Stadium",19,19,19,1
 "Toby Greene","GWS Giants",2023,"Manuka Oval",22,22,22,1
 "Toby Greene","GWS Giants",2023,"Marvel Stadium",18,18,18,1
@@ -32391,7 +32417,7 @@
 "Toby Nankervis","Richmond",2022,"SCG",21,21,21,1
 "Toby Nankervis","Richmond",2023,"Adelaide Oval",18,18,18,1
 "Toby Nankervis","Richmond",2023,"GIANTS Stadium",18,18,18,1
-"Toby Nankervis","Richmond",2023,"MCG",17.6,14,22,5
+"Toby Nankervis","Richmond",2023,"MCG",16.5,11,22,6
 "Toby Nankervis","Richmond",2023,"Optus Stadium",14,14,14,1
 "Toby Nankervis","Sydney Swans",2015,"Accor Stadium",11,11,11,1
 "Toby Nankervis","Sydney Swans",2015,"Domain Stadium",8,8,8,1
@@ -32935,7 +32961,7 @@
 "Tom Green","GWS Giants",2022,"Optus Stadium",17,17,17,1
 "Tom Green","GWS Giants",2022,"SCG",17,17,17,1
 "Tom Green","GWS Giants",2023,"Blundstone Arena",26,26,26,1
-"Tom Green","GWS Giants",2023,"GIANTS Stadium",33.75,29,37,4
+"Tom Green","GWS Giants",2023,"GIANTS Stadium",33.2,29,37,5
 "Tom Green","GWS Giants",2023,"GMHBA Stadium",28,28,28,1
 "Tom Green","GWS Giants",2023,"MCG",30,30,30,1
 "Tom Green","GWS Giants",2023,"Manuka Oval",38,38,38,1
@@ -34339,7 +34365,7 @@
 "Trent Cotchin","Richmond",2022,"SCG",26,26,26,1
 "Trent Cotchin","Richmond",2023,"Adelaide Oval",12,7,17,2
 "Trent Cotchin","Richmond",2023,"GIANTS Stadium",14,14,14,1
-"Trent Cotchin","Richmond",2023,"MCG",15.71,11,23,7
+"Trent Cotchin","Richmond",2023,"MCG",17.38,11,29,8
 "Trent Cotchin","Richmond",2023,"Marvel Stadium",11,11,11,1
 "Trent Cotchin","Richmond",2023,"Optus Stadium",28,28,28,1
 "Trent Dennis-Lane","St Kilda",2014,"Marvel Stadium",6,6,6,1
@@ -34556,7 +34582,7 @@
 "Ty Vickery","Richmond",2016,"Marvel Stadium",13,13,13,1
 "Tylar Young","Richmond",2023,"Adelaide Oval",8,5,11,2
 "Tylar Young","Richmond",2023,"GIANTS Stadium",8,8,8,1
-"Tylar Young","Richmond",2023,"MCG",9,6,11,4
+"Tylar Young","Richmond",2023,"MCG",9.4,6,11,5
 "Tylar Young","Richmond",2023,"Marvel Stadium",14,14,14,1
 "Tylar Young","Richmond",2023,"Optus Stadium",1,1,1,1
 "Tyler Brockman","Hawthorn",2021,"MCG",7.8,5,12,5
@@ -35201,7 +35227,7 @@
 "Xavier O'Halloran","GWS Giants",2022,"Optus Stadium",11,11,11,1
 "Xavier O'Halloran","GWS Giants",2022,"SCG",7,7,7,1
 "Xavier O'Halloran","GWS Giants",2023,"Blundstone Arena",18,18,18,1
-"Xavier O'Halloran","GWS Giants",2023,"GIANTS Stadium",14.5,13,16,2
+"Xavier O'Halloran","GWS Giants",2023,"GIANTS Stadium",14.33,13,16,3
 "Xavier O'Halloran","GWS Giants",2023,"GMHBA Stadium",13,13,13,1
 "Xavier O'Halloran","GWS Giants",2023,"MCG",16,16,16,1
 "Xavier O'Halloran","GWS Giants",2023,"Manuka Oval",15,13,17,2

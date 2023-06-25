@@ -5703,3 +5703,95 @@
 2023,15,"Optus Stadium","Kyle Langford","Essendon","Back","Away","Fremantle",4,1,0,3,7,NA,87,0,0,0,10.67,12.6,NA,NA
 2023,15,"Optus Stadium","Jye Menzie","Essendon","SUB","Away","Fremantle",3,1,1,2,5,NA,35,0,0,0,9,8.8,NA,NA
 2023,15,"Optus Stadium","Andrew Phillips","Essendon","Ruck","Away","Fremantle",7,0,1,4,11,NA,74,16,0,0,8.67,7.6,NA,NA
+2023,15,"MCG","Will Hoskin-Elliott","Collingwood","Mid","Home","Adelaide Crows",6,1,0,5,11,NA,75,0,0,0,11.33,12.4,NA,NA
+2023,15,"MCG","Taylor Adams","Collingwood","Forward","Home","Adelaide Crows",9,1,0,11,20,NA,76,7,0,0,23.33,19.4,NA,NA
+2023,15,"MCG","Mason Cox","Collingwood","Forward","Home","Adelaide Crows",5,2,0,5,10,NA,77,10,0,0,10.67,9.2,NA,NA
+2023,15,"MCG","Jack Crisp","Collingwood","Mid","Home","Adelaide Crows",7,0,2,7,14,NA,80,10,0,0,19.33,18.8,NA,NA
+2023,15,"MCG","Josh Daicos","Collingwood","Mid","Home","Adelaide Crows",18,1,0,15,33,NA,90,3,0,0,23.67,23.2,NA,NA
+2023,15,"MCG","Nick Daicos","Collingwood","INT","Home","Adelaide Crows",13,1,0,24,37,NA,78,22,0,0,31.33,30.6,NA,NA
+2023,15,"MCG","Jamie Elliott","Collingwood","Forward","Home","Adelaide Crows",8,2,1,2,10,NA,83,0,0,0,10,11.6,NA,NA
+2023,15,"MCG","Harvey Harrison","Collingwood","Forward","Home","Adelaide Crows",5,1,0,4,9,NA,65,0,0,0,9.67,NA,NA,NA
+2023,15,"MCG","Bobby Hill","Collingwood","INT","Home","Adelaide Crows",6,1,0,3,9,NA,72,0,0,0,8,10,NA,NA
+2023,15,"MCG","Ash Johnson","Collingwood","INT","Home","Adelaide Crows",3,1,0,3,6,NA,54,0,0,0,6,5.4,NA,NA
+2023,15,"MCG","Patrick Lipinski","Collingwood","Forward","Home","Adelaide Crows",11,0,1,9,20,NA,82,0,0,0,NA,NA,NA,NA
+2023,15,"MCG","Darcy Cameron","Collingwood","Ruck","Home","Adelaide Crows",9,0,1,10,19,NA,79,17,0,0,19.67,16,NA,NA
+2023,15,"MCG","Brayden Maynard","Collingwood","Back","Home","Adelaide Crows",20,0,0,7,27,NA,81,0,5,5,20.67,18.4,NA,NA
+2023,15,"MCG","Tom Mitchell","Collingwood","Mid","Home","Adelaide Crows",11,1,1,16,27,NA,82,19,0,0,29,28.4,NA,NA
+2023,15,"MCG","Isaac Quaynor","Collingwood","Back","Home","Adelaide Crows",12,0,0,3,15,NA,84,0,0,0,16.33,16.2,NA,NA
+2023,15,"MCG","Nathan Murphy","Collingwood","Back","Home","Adelaide Crows",5,0,0,2,7,NA,100,0,0,0,11,10,NA,NA
+2023,15,"MCG","Jeremy Howe","Collingwood","Back","Home","Adelaide Crows",14,0,0,6,20,NA,83,0,4,2,NA,NA,NA,NA
+2023,15,"MCG","Oleg Markov","Collingwood","INT","Home","Adelaide Crows",7,0,0,4,11,NA,76,0,0,0,6,8.2,NA,NA
+2023,15,"MCG","Beau McCreery","Collingwood","SUB","Home","Adelaide Crows",0,0,0,3,3,NA,27,0,0,0,6.33,7.4,NA,NA
+2023,15,"MCG","Brody Mihocek","Collingwood","Forward","Home","Adelaide Crows",6,0,2,2,8,NA,90,0,0,0,10.33,9.8,NA,NA
+2023,15,"MCG","Darcy Moore","Collingwood","Back","Home","Adelaide Crows",13,0,0,2,15,NA,96,0,4,4,14.67,16.6,NA,NA
+2023,15,"MCG","John Noble","Collingwood","Back","Home","Adelaide Crows",12,0,0,2,14,NA,84,0,1,1,17,18.6,NA,NA
+2023,15,"MCG","Scott Pendlebury","Collingwood","Mid","Home","Adelaide Crows",15,0,0,9,24,NA,85,20,0,0,23.67,23,NA,NA
+2023,15,"MCG","Jordon Butts","Adelaide Crows","Back","Away","Collingwood",4,0,0,4,8,NA,96,0,0,0,10.67,8.6,NA,NA
+2023,15,"MCG","Lachlan Murphy","Adelaide Crows","Forward","Away","Collingwood",6,1,1,1,7,NA,74,0,0,0,13,13.2,NA,NA
+2023,15,"MCG","Luke Pedlar","Adelaide Crows","Forward","Away","Collingwood",10,1,1,1,11,NA,80,3,0,0,12.33,11.8,NA,NA
+2023,15,"MCG","Josh Rachele","Adelaide Crows","Forward","Away","Collingwood",5,0,3,6,11,NA,87,0,0,0,12.67,13.8,NA,NA
+2023,15,"MCG","Izak Rankine","Adelaide Crows","Forward","Away","Collingwood",14,1,1,7,21,NA,90,0,0,0,18,17,NA,NA
+2023,15,"MCG","Lachlan Sholl","Adelaide Crows","Mid","Away","Collingwood",8,0,0,3,11,NA,80,0,0,0,14.33,15,NA,NA
+2023,15,"MCG","Rory Sloane","Adelaide Crows","INT","Away","Collingwood",3,0,0,16,19,NA,65,13,0,0,18.33,17.4,NA,NA
+2023,15,"MCG","Brodie Smith","Adelaide Crows","Back","Away","Collingwood",13,0,1,6,19,NA,84,0,1,1,21,21.8,NA,NA
+2023,15,"MCG","Jake Soligo","Adelaide Crows","INT","Away","Collingwood",6,1,1,5,11,NA,80,1,0,0,11.67,12,NA,NA
+2023,15,"MCG","Riley Thilthorpe","Adelaide Crows","INT","Away","Collingwood",6,1,0,8,14,NA,60,5,0,0,13.33,11.8,NA,NA
+2023,15,"MCG","Taylor Walker","Adelaide Crows","Forward","Away","Collingwood",12,5,1,1,13,NA,86,0,0,0,13.67,13.2,NA,NA
+2023,15,"MCG","Josh Worrell","Adelaide Crows","INT","Away","Collingwood",9,0,0,5,14,NA,71,0,1,1,17,NA,NA,NA
+2023,15,"MCG","Jordan Dawson","Adelaide Crows","Mid","Away","Collingwood",27,0,0,8,35,NA,81,21,0,0,32.33,30.2,NA,NA
+2023,15,"MCG","Mitchell Hinge","Adelaide Crows","Back","Away","Collingwood",19,0,0,4,23,NA,86,0,5,5,19,16.2,NA,NA
+2023,15,"MCG","Rory Laird","Adelaide Crows","Mid","Away","Collingwood",10,0,0,21,31,NA,79,22,0,0,29,29.6,NA,NA
+2023,15,"MCG","Max Michalanney","Adelaide Crows","Back","Away","Collingwood",7,0,0,2,9,NA,92,0,1,1,9.33,9.4,NA,NA
+2023,15,"MCG","Wayne Milera","Adelaide Crows","Back","Away","Collingwood",7,0,0,11,18,NA,86,0,2,2,19.67,20.4,NA,NA
+2023,15,"MCG","Ben Keays","Adelaide Crows","Mid","Away","Collingwood",11,0,1,18,29,NA,84,21,0,0,27.67,24.4,NA,NA
+2023,15,"MCG","Nick Murray","Adelaide Crows","Back","Away","Collingwood",1,0,0,1,2,NA,40,0,0,0,6,8.8,NA,NA
+2023,15,"MCG","Reilly O'Brien","Adelaide Crows","Ruck","Away","Collingwood",5,0,0,7,12,NA,79,22,0,0,13.33,13.4,NA,NA
+2023,15,"MCG","Chayce Jones","Adelaide Crows","Mid","Away","Collingwood",14,0,0,9,23,NA,88,0,0,0,20.33,20.2,NA,NA
+2023,15,"MCG","Ned McHenry","Adelaide Crows","SUB","Away","Collingwood",7,0,0,9,16,NA,48,0,0,0,13.33,13.6,NA,NA
+2023,15,"MCG","Darcy Fogarty","Adelaide Crows","Forward","Away","Collingwood",5,1,0,4,9,NA,84,0,0,0,13.33,11.2,NA,NA
+2023,15,"Heritage Bank Stadium","Lachie Weller","Gold Coast Suns","INT","Home","Hawthorn",8,0,0,4,12,NA,56,0,0,0,19.33,21.6,NA,NA
+2023,15,"Heritage Bank Stadium","Noah Anderson","Gold Coast Suns","Mid","Home","Hawthorn",19,2,0,9,28,NA,81,11,0,0,27.67,25.6,NA,NA
+2023,15,"Heritage Bank Stadium","Mac Andrew","Gold Coast Suns","Back","Home","Hawthorn",9,0,0,3,12,NA,84,0,0,0,11.67,11.6,NA,NA
+2023,15,"Heritage Bank Stadium","Rory Atkins","Gold Coast Suns","SUB","Home","Hawthorn",5,0,0,2,7,NA,24,0,0,0,15,14.2,NA,NA
+2023,15,"Heritage Bank Stadium","Levi Casboult","Gold Coast Suns","Forward","Home","Hawthorn",9,0,3,2,11,NA,90,5,0,0,11,10.4,NA,NA
+2023,15,"Heritage Bank Stadium","Brayden Fiorini","Gold Coast Suns","INT","Home","Hawthorn",25,0,0,10,35,NA,77,17,0,0,22.67,19.8,NA,NA
+2023,15,"Heritage Bank Stadium","Bailey Humphrey","Gold Coast Suns","Forward","Home","Hawthorn",8,0,2,5,13,NA,71,0,0,0,13.67,17.2,NA,NA
+2023,15,"Heritage Bank Stadium","Ben King","Gold Coast Suns","Forward","Home","Hawthorn",8,2,2,4,12,NA,86,0,0,0,10.33,9,NA,NA
+2023,15,"Heritage Bank Stadium","Jack Lukosius","Gold Coast Suns","Forward","Home","Hawthorn",10,2,2,1,11,NA,76,0,0,0,15,13,NA,NA
+2023,15,"Heritage Bank Stadium","Hewago Oea","Gold Coast Suns","INT","Home","Hawthorn",5,0,0,3,8,NA,76,0,0,0,10.67,NA,NA,NA
+2023,15,"Heritage Bank Stadium","Sam Flanders","Gold Coast Suns","Forward","Home","Hawthorn",13,0,0,14,27,NA,79,10,0,0,15.67,15.4,NA,NA
+2023,15,"Heritage Bank Stadium","Nick Holman","Gold Coast Suns","Forward","Home","Hawthorn",6,1,0,4,10,NA,87,0,0,0,15,14.2,NA,NA
+2023,15,"Heritage Bank Stadium","Ben Ainsworth","Gold Coast Suns","Mid","Home","Hawthorn",18,1,0,9,27,NA,85,0,0,0,21,17.4,NA,NA
+2023,15,"Heritage Bank Stadium","Matt Rowell","Gold Coast Suns","Mid","Home","Hawthorn",10,0,0,10,20,NA,84,21,0,0,18.67,20.6,NA,NA
+2023,15,"Heritage Bank Stadium","Wil Powell","Gold Coast Suns","Back","Home","Hawthorn",17,0,0,2,19,NA,77,0,2,1,18,17.8,NA,NA
+2023,15,"Heritage Bank Stadium","David Swallow","Gold Coast Suns","Mid","Home","Hawthorn",6,1,0,4,10,NA,72,10,0,0,14.67,16.8,NA,NA
+2023,15,"Heritage Bank Stadium","Brandon Ellis","Gold Coast Suns","Mid","Home","Hawthorn",14,1,1,2,16,NA,87,0,0,0,14,15.6,NA,NA
+2023,15,"Heritage Bank Stadium","Ben Long","Gold Coast Suns","Back","Home","Hawthorn",7,0,0,4,11,NA,85,0,0,0,10,11.4,NA,NA
+2023,15,"Heritage Bank Stadium","Darcy Macpherson","Gold Coast Suns","Back","Home","Hawthorn",17,0,0,8,25,NA,83,0,2,2,19.67,19.4,NA,NA
+2023,15,"Heritage Bank Stadium","Malcolm Rosas","Gold Coast Suns","INT","Home","Hawthorn",11,3,2,4,15,NA,72,0,0,0,11.67,9.8,NA,NA
+2023,15,"Heritage Bank Stadium","Jarrod Witts","Gold Coast Suns","Ruck","Home","Hawthorn",10,1,0,4,14,NA,77,18,0,0,10,11.2,NA,NA
+2023,15,"Heritage Bank Stadium","Sam Collins","Gold Coast Suns","Back","Home","Hawthorn",8,0,0,5,13,NA,96,0,0,0,11.33,11.8,NA,NA
+2023,15,"Heritage Bank Stadium","Charlie Ballard","Gold Coast Suns","Back","Home","Hawthorn",9,0,0,3,12,NA,96,0,0,0,12.67,13.8,NA,NA
+2023,15,"Heritage Bank Stadium","Luke Breust","Hawthorn","Forward","Away","Gold Coast Suns",5,2,0,3,8,NA,82,0,0,0,11.33,11.8,NA,NA
+2023,15,"Heritage Bank Stadium","Tyler Brockman","Hawthorn","Forward","Away","Gold Coast Suns",4,0,0,5,9,NA,82,0,0,0,13.67,12.8,NA,NA
+2023,15,"Heritage Bank Stadium","Jacob Koschitzke","Hawthorn","INT","Away","Gold Coast Suns",2,0,1,4,6,NA,84,1,0,0,6.67,7.4,NA,NA
+2023,15,"Heritage Bank Stadium","Cam Mackenzie","Hawthorn","INT","Away","Gold Coast Suns",4,0,0,12,16,NA,73,1,0,0,13.33,15.2,NA,NA
+2023,15,"Heritage Bank Stadium","Lloyd Meek","Hawthorn","Forward","Away","Gold Coast Suns",1,0,0,1,2,NA,45,6,0,0,6.67,9.8,NA,NA
+2023,15,"Heritage Bank Stadium","Seamus Mitchell","Hawthorn","Back","Away","Gold Coast Suns",13,0,0,11,24,NA,85,0,1,1,21.67,22.2,NA,NA
+2023,15,"Heritage Bank Stadium","Dylan Moore","Hawthorn","Mid","Away","Gold Coast Suns",9,1,1,8,17,NA,89,2,0,0,21.33,23.4,NA,NA
+2023,15,"Heritage Bank Stadium","Conor Nash","Hawthorn","Forward","Away","Gold Coast Suns",15,0,0,9,24,NA,73,18,0,0,23.33,25.4,NA,NA
+2023,15,"Heritage Bank Stadium","Jai Newcombe","Hawthorn","Mid","Away","Gold Coast Suns",10,0,0,10,20,NA,74,13,0,0,22.33,24.4,NA,NA
+2023,15,"Heritage Bank Stadium","Ned Reeves","Hawthorn","Ruck","Away","Gold Coast Suns",3,0,0,4,7,NA,76,16,0,0,8,7.6,NA,NA
+2023,15,"Heritage Bank Stadium","Jack Scrimshaw","Hawthorn","INT","Away","Gold Coast Suns",19,0,0,12,31,NA,85,0,5,4,23,19,NA,NA
+2023,15,"Heritage Bank Stadium","Josh Weddle","Hawthorn","Back","Away","Gold Coast Suns",6,0,0,4,10,NA,84,0,0,0,17.67,20,NA,NA
+2023,15,"Heritage Bank Stadium","James Worpel","Hawthorn","INT","Away","Gold Coast Suns",12,0,0,16,28,NA,83,14,0,0,31,28.8,NA,NA
+2023,15,"Heritage Bank Stadium","Jarman Impey","Hawthorn","Mid","Away","Gold Coast Suns",20,0,0,9,29,NA,85,0,1,1,30,26,NA,NA
+2023,15,"Heritage Bank Stadium","Will Day","Hawthorn","Back","Away","Gold Coast Suns",14,0,0,15,29,NA,84,19,2,2,25.33,26,NA,NA
+2023,15,"Heritage Bank Stadium","James Blanck","Hawthorn","Back","Away","Gold Coast Suns",3,0,0,6,9,NA,82,0,0,0,8,7.6,NA,NA
+2023,15,"Heritage Bank Stadium","Blake Hardwick","Hawthorn","Back","Away","Gold Coast Suns",20,0,0,18,38,NA,86,1,7,6,28.33,23.8,NA,NA
+2023,15,"Heritage Bank Stadium","Mitch Lewis","Hawthorn","Forward","Away","Gold Coast Suns",7,2,0,8,15,NA,81,0,0,0,15.33,16,NA,NA
+2023,15,"Heritage Bank Stadium","Lachlan Bramble","Hawthorn","Mid","Away","Gold Coast Suns",13,0,1,3,16,NA,77,0,0,0,16.67,19.4,NA,NA
+2023,15,"Heritage Bank Stadium","Sam Frost","Hawthorn","Forward","Away","Gold Coast Suns",4,0,0,5,9,NA,96,0,0,0,10.67,12.6,NA,NA
+2023,15,"Heritage Bank Stadium","Karl Amon","Hawthorn","Mid","Away","Gold Coast Suns",14,0,0,4,18,NA,79,0,0,0,21,21.8,NA,NA
+2023,15,"Heritage Bank Stadium","Sam Butler","Hawthorn","SUB","Away","Gold Coast Suns",3,0,0,4,7,NA,36,0,0,0,8.67,11.4,NA,NA
+2023,15,"Heritage Bank Stadium","Connor Macdonald","Hawthorn","Back","Away","Gold Coast Suns",4,0,0,9,13,NA,80,1,0,0,20.33,16,NA,NA

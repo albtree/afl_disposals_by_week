@@ -6071,3 +6071,141 @@
 2023,16,"MCG","Darcy Byrne-Jones","Port Adelaide","Forward","Away","Essendon",6,1,2,2,8,NA,75,0,0,0,9.67,10.6,NA,NA
 2023,16,"MCG","Jason Horne-Francis","Port Adelaide","Mid","Away","Essendon",7,0,0,3,10,NA,80,16,0,0,12,15.4,NA,NA
 2023,16,"MCG","Todd Marshall","Port Adelaide","Forward","Away","Essendon",6,0,1,2,8,NA,89,0,0,0,11,9.8,NA,NA
+2023,16,"MCG","Ned Reeves","Hawthorn","Ruck","Home","Carlton",4,0,0,1,5,NA,50,6,0,0,6.33,7.2,NA,NA
+2023,16,"MCG","Josh Ward","Hawthorn","Forward","Home","Carlton",9,0,0,19,28,NA,80,15,0,0,21,21.2,NA,NA
+2023,16,"MCG","Jai Newcombe","Hawthorn","Mid","Home","Carlton",8,0,0,13,21,NA,73,17,0,0,23,23.8,NA,NA
+2023,16,"MCG","James Worpel","Hawthorn","Forward","Home","Carlton",9,0,0,17,26,NA,78,20,0,0,28,28.6,NA,NA
+2023,16,"MCG","Harry Morrison","Hawthorn","INT","Home","Carlton",17,0,0,7,24,NA,77,0,1,1,21.33,20,NA,NA
+2023,16,"MCG","Chad Wingard","Hawthorn","INT","Home","Carlton",11,0,0,7,18,NA,74,0,0,0,12.67,14.2,NA,NA
+2023,16,"MCG","Josh Weddle","Hawthorn","Mid","Home","Carlton",9,0,0,14,23,NA,89,0,0,0,17,19,NA,NA
+2023,16,"MCG","Karl Amon","Hawthorn","Mid","Home","Carlton",13,0,0,6,19,NA,82,3,0,0,19,21,NA,NA
+2023,16,"MCG","James Blanck","Hawthorn","Back","Home","Carlton",1,0,0,2,3,NA,92,0,0,0,5.33,6.2,NA,NA
+2023,16,"MCG","Luke Breust","Hawthorn","Forward","Home","Carlton",5,2,0,5,10,NA,78,0,0,0,9.67,11,NA,NA
+2023,16,"MCG","Sam Butler","Hawthorn","Back","Home","Carlton",5,0,0,4,9,NA,78,0,0,0,7.67,10,NA,NA
+2023,16,"MCG","Will Day","Hawthorn","Mid","Home","Carlton",16,0,1,10,26,NA,84,15,2,2,27.33,26.4,NA,NA
+2023,16,"MCG","Sam Frost","Hawthorn","Back","Home","Carlton",3,0,0,6,9,NA,91,0,0,0,8.67,12,NA,NA
+2023,16,"MCG","Fergus Greene","Hawthorn","Forward","Home","Carlton",6,2,2,5,11,NA,80,0,0,0,7,8,NA,NA
+2023,16,"MCG","Blake Hardwick","Hawthorn","Back","Home","Carlton",9,0,0,3,12,NA,85,0,3,2,24,22.8,NA,NA
+2023,16,"MCG","Mitch Lewis","Hawthorn","Forward","Home","Carlton",5,2,0,4,9,NA,92,0,0,0,11.67,13,NA,NA
+2023,16,"MCG","Connor Macdonald","Hawthorn","Forward","Home","Carlton",10,1,2,5,15,NA,83,0,0,0,18.67,16.2,NA,NA
+2023,16,"MCG","Finn Maginness","Hawthorn","SUB","Home","Carlton",3,0,0,2,5,NA,35,0,0,0,8.67,9.6,NA,NA
+2023,16,"MCG","Lloyd Meek","Hawthorn","INT","Home","Carlton",0,0,0,7,7,NA,73,19,0,0,7.67,7.6,NA,NA
+2023,16,"MCG","Seamus Mitchell","Hawthorn","Back","Home","Carlton",11,0,0,6,17,NA,86,0,1,1,20.67,20.2,NA,NA
+2023,16,"MCG","Dylan Moore","Hawthorn","Mid","Home","Carlton",7,0,0,8,15,NA,85,0,0,0,19,22,NA,NA
+2023,16,"MCG","Conor Nash","Hawthorn","INT","Home","Carlton",9,0,0,9,18,NA,75,17,0,0,22.33,23,NA,NA
+2023,16,"MCG","Jack Scrimshaw","Hawthorn","Back","Home","Carlton",12,0,0,6,18,NA,80,0,3,2,22.67,20.6,NA,NA
+2023,16,"MCG","Jordan Boyd","Carlton","Back","Away","Hawthorn",10,0,0,4,14,NA,87,0,2,1,13,12.4,NA,NA
+2023,16,"MCG","Lachie Fogarty","Carlton","Forward","Away","Hawthorn",8,1,0,10,18,NA,80,3,0,0,NA,NA,NA,NA
+2023,16,"MCG","Mitch McGovern","Carlton","Back","Away","Hawthorn",17,0,0,3,20,NA,82,0,4,4,17.33,18.2,NA,NA
+2023,16,"MCG","Nic Newman","Carlton","Back","Away","Hawthorn",11,0,0,6,17,NA,90,0,1,1,14,16.8,NA,NA
+2023,16,"MCG","Adam Saad","Carlton","Back","Away","Hawthorn",18,0,0,6,24,NA,79,0,3,3,21.33,19.2,NA,NA
+2023,16,"MCG","David Cuningham","Carlton","Forward","Away","Hawthorn",5,2,0,11,16,NA,76,6,0,0,NA,NA,NA,NA
+2023,16,"MCG","Sam Docherty","Carlton","Mid","Away","Hawthorn",17,1,0,9,26,NA,88,0,0,0,28.33,27.2,NA,NA
+2023,16,"MCG","Matthew Owies","Carlton","Forward","Away","Hawthorn",4,1,0,5,9,NA,74,0,0,0,9.33,9,NA,NA
+2023,16,"MCG","Charlie Curnow","Carlton","Forward","Away","Hawthorn",9,3,2,4,13,NA,71,0,0,0,15,14.8,NA,NA
+2023,16,"MCG","Brodie Kemp","Carlton","Back","Away","Hawthorn",13,0,0,6,19,NA,94,0,0,0,18.67,17.2,NA,NA
+2023,16,"MCG","Matthew Kennedy","Carlton","INT","Away","Hawthorn",9,0,0,7,16,NA,70,15,0,0,21.33,20,NA,NA
+2023,16,"MCG","Blake Acres","Carlton","Mid","Away","Hawthorn",14,1,1,8,22,NA,85,0,0,0,20,20,NA,NA
+2023,16,"MCG","Ed Curnow","Carlton","Forward","Away","Hawthorn",7,0,1,9,16,NA,88,0,0,0,14.33,13.2,NA,NA
+2023,16,"MCG","Harry McKay","Carlton","Forward","Away","Hawthorn",16,2,3,3,19,NA,92,0,0,0,14.33,12.6,NA,NA
+2023,16,"MCG","Alex Cincotta","Carlton","INT","Away","Hawthorn",5,0,0,6,11,NA,77,0,0,0,13.33,11.8,NA,NA
+2023,16,"MCG","Adam Cerra","Carlton","Mid","Away","Hawthorn",11,2,0,16,27,NA,78,19,0,0,28.33,27.8,NA,NA
+2023,16,"MCG","Patrick Cripps","Carlton","Mid","Away","Hawthorn",10,0,0,18,28,NA,77,20,0,0,24.67,23.2,NA,NA
+2023,16,"MCG","George Hewett","Carlton","SUB","Away","Hawthorn",0,0,0,6,6,NA,16,5,0,0,7.67,13.8,NA,NA
+2023,16,"MCG","Jack Silvagni","Carlton","INT","Away","Hawthorn",8,1,0,9,17,NA,77,13,0,0,11.67,11.8,NA,NA
+2023,16,"MCG","Sam Walsh","Carlton","Mid","Away","Hawthorn",10,0,0,15,25,NA,79,16,0,0,29.67,28.4,NA,NA
+2023,16,"MCG","Jacob Weitering","Carlton","Back","Away","Hawthorn",15,0,0,2,17,NA,91,0,0,0,16,16.4,NA,NA
+2023,16,"MCG","Lewis Young","Carlton","Ruck","Away","Hawthorn",8,0,1,5,13,NA,77,15,0,0,10.67,12.4,NA,NA
+2023,16,"MCG","Jack Martin","Carlton","INT","Away","Hawthorn",12,3,1,0,12,NA,71,0,0,0,9.33,NA,NA,NA
+2023,16,"TIO Traeger Park","Alex Neal-Bullen","Melbourne","Forward","Home","GWS Giants",13,0,1,6,19,NA,81,0,0,0,16.33,15.6,NA,NA
+2023,16,"TIO Traeger Park","Joel Smith","Melbourne","Forward","Home","GWS Giants",2,0,0,3,5,NA,80,0,0,0,8.67,NA,NA,NA
+2023,16,"TIO Traeger Park","Kade Chandler","Melbourne","INT","Home","GWS Giants",4,0,0,8,12,NA,75,0,0,0,12,11.2,NA,NA
+2023,16,"TIO Traeger Park","Jake Bowey","Melbourne","INT","Home","GWS Giants",12,1,0,7,19,NA,73,0,0,0,18,15.6,NA,NA
+2023,16,"TIO Traeger Park","Angus Brayshaw","Melbourne","INT","Home","GWS Giants",15,0,0,9,24,NA,67,12,0,0,24.33,24.8,NA,NA
+2023,16,"TIO Traeger Park","Ben Brown","Melbourne","Forward","Home","GWS Giants",4,0,1,8,12,NA,88,0,0,0,9.67,NA,NA,NA
+2023,16,"TIO Traeger Park","Bayley Fritsch","Melbourne","Forward","Home","GWS Giants",1,0,1,0,1,NA,7,0,0,0,6.33,9.8,NA,NA
+2023,16,"TIO Traeger Park","Brodie Grundy","Melbourne","INT","Home","GWS Giants",5,1,0,10,15,NA,62,7,0,0,13.67,14.2,NA,NA
+2023,16,"TIO Traeger Park","James Harmes","Melbourne","Mid","Home","GWS Giants",10,0,0,9,19,NA,71,3,0,0,12.67,9.4,NA,NA
+2023,16,"TIO Traeger Park","Lachie Hunter","Melbourne","Mid","Home","GWS Giants",21,0,2,9,30,NA,91,0,0,0,27,25.4,NA,NA
+2023,16,"TIO Traeger Park","Jake Lever","Melbourne","Back","Home","GWS Giants",9,0,0,10,19,NA,100,0,0,0,14.67,13.6,NA,NA
+2023,16,"TIO Traeger Park","Jake Melksham","Melbourne","SUB","Home","GWS Giants",5,1,0,1,6,NA,69,0,0,0,7,5.4,NA,NA
+2023,16,"TIO Traeger Park","Christian Salem","Melbourne","Back","Home","GWS Giants",16,0,0,8,24,NA,83,0,1,1,23.33,21.8,NA,NA
+2023,16,"TIO Traeger Park","Trent Rivers","Melbourne","Back","Home","GWS Giants",10,0,0,7,17,NA,77,2,0,0,21.67,20.4,NA,NA
+2023,16,"TIO Traeger Park","Jack Viney","Melbourne","Mid","Home","GWS Giants",20,0,1,21,41,NA,79,11,0,0,32.67,26.8,NA,NA
+2023,16,"TIO Traeger Park","Judd McVee","Melbourne","Back","Home","GWS Giants",9,0,0,5,14,NA,85,0,0,0,13.33,13.4,NA,NA
+2023,16,"TIO Traeger Park","Ed Langdon","Melbourne","Mid","Home","GWS Giants",13,1,0,11,24,NA,90,0,0,0,19.67,20.6,NA,NA
+2023,16,"TIO Traeger Park","Harrison Petty","Melbourne","Back","Home","GWS Giants",8,0,0,9,17,NA,92,0,0,0,10,9.4,NA,NA
+2023,16,"TIO Traeger Park","Tom Sparrow","Melbourne","Forward","Home","GWS Giants",18,0,2,8,26,NA,76,8,0,0,21.33,19.4,NA,NA
+2023,16,"TIO Traeger Park","Steven May","Melbourne","Back","Home","GWS Giants",18,0,0,4,22,NA,95,0,3,2,18.67,16.4,NA,NA
+2023,16,"TIO Traeger Park","Kysaiah Pickett","Melbourne","Mid","Home","GWS Giants",15,1,2,4,19,NA,93,0,0,0,12.33,10.8,NA,NA
+2023,16,"TIO Traeger Park","Christian Petracca","Melbourne","Forward","Home","GWS Giants",17,0,4,17,34,NA,84,12,0,0,31.67,31.4,NA,NA
+2023,16,"TIO Traeger Park","Max Gawn","Melbourne","Ruck","Home","GWS Giants",13,0,0,7,20,NA,82,9,0,0,16.67,16.2,NA,NA
+2023,16,"TIO Traeger Park","Isaac Cumming","GWS Giants","Back","Away","Melbourne",10,1,0,4,14,NA,86,0,0,0,15.67,17.8,NA,NA
+2023,16,"TIO Traeger Park","Toby Bedford","GWS Giants","Forward","Away","Melbourne",2,0,0,7,9,NA,83,0,0,0,11.67,13.6,NA,NA
+2023,16,"TIO Traeger Park","Ryan Angwin","GWS Giants","SUB","Away","Melbourne",2,0,0,2,4,NA,11,0,0,0,4.67,6.8,NA,NA
+2023,16,"TIO Traeger Park","Kieren Briggs","GWS Giants","Ruck","Away","Melbourne",4,0,0,4,8,NA,75,14,0,0,12.33,13,NA,NA
+2023,16,"TIO Traeger Park","Callum M. Brown","GWS Giants","INT","Away","Melbourne",9,1,1,3,12,NA,76,0,0,0,13,12,NA,NA
+2023,16,"TIO Traeger Park","Connor Idun","GWS Giants","INT","Away","Melbourne",6,0,0,7,13,NA,88,0,0,0,13.67,15.4,NA,NA
+2023,16,"TIO Traeger Park","Lachlan Keeffe","GWS Giants","INT","Away","Melbourne",1,0,0,1,2,NA,64,2,0,0,6.33,6.8,NA,NA
+2023,16,"TIO Traeger Park","Jake Riccardi","GWS Giants","Forward","Away","Melbourne",6,0,1,2,8,NA,75,0,0,0,10.67,9.8,NA,NA
+2023,16,"TIO Traeger Park","Daniel Lloyd","GWS Giants","Forward","Away","Melbourne",6,0,0,4,10,NA,72,0,0,0,15,15.4,NA,NA
+2023,16,"TIO Traeger Park","Stephen Coniglio","GWS Giants","Mid","Away","Melbourne",21,0,0,9,30,NA,82,12,0,0,28.67,27,NA,NA
+2023,16,"TIO Traeger Park","Josh Kelly","GWS Giants","Mid","Away","Melbourne",12,2,0,14,26,NA,84,1,0,0,27.67,28.8,NA,NA
+2023,16,"TIO Traeger Park","Toby Greene","GWS Giants","Forward","Away","Melbourne",16,2,1,4,20,NA,91,4,0,0,20,18.6,NA,NA
+2023,16,"TIO Traeger Park","Callan Ward","GWS Giants","INT","Away","Melbourne",13,0,0,6,19,NA,74,12,0,0,20.33,22.4,NA,NA
+2023,16,"TIO Traeger Park","Harry Himmelberg","GWS Giants","Back","Away","Melbourne",20,0,0,8,28,NA,86,0,8,7,23,19,NA,NA
+2023,16,"TIO Traeger Park","Harry Perryman","GWS Giants","Mid","Away","Melbourne",15,0,0,4,19,NA,82,0,0,0,18,18.6,NA,NA
+2023,16,"TIO Traeger Park","Tom Green","GWS Giants","Mid","Away","Melbourne",10,0,0,28,38,NA,83,13,0,0,31.67,31.6,NA,NA
+2023,16,"TIO Traeger Park","Jack Buckley","GWS Giants","Back","Away","Melbourne",5,0,0,7,12,NA,94,0,0,0,11.33,11.4,NA,NA
+2023,16,"TIO Traeger Park","Finn Callaghan","GWS Giants","Mid","Away","Melbourne",13,0,1,10,23,NA,78,6,0,0,23.67,22.4,NA,NA
+2023,16,"TIO Traeger Park","Nick Haynes","GWS Giants","Back","Away","Melbourne",16,0,0,5,21,NA,81,0,0,0,17,15.4,NA,NA
+2023,16,"TIO Traeger Park","Lachie Ash","GWS Giants","Back","Away","Melbourne",17,0,0,3,20,NA,74,0,7,6,20.67,24.2,NA,NA
+2023,16,"TIO Traeger Park","Sam Taylor","GWS Giants","Back","Away","Melbourne",4,0,0,9,13,NA,96,0,0,0,9.33,12.6,NA,NA
+2023,16,"TIO Traeger Park","Xavier O'Halloran","GWS Giants","Forward","Away","Melbourne",8,1,0,8,16,NA,80,0,0,0,16,15.4,NA,NA
+2023,16,"TIO Traeger Park","Jesse Hogan","GWS Giants","Forward","Away","Melbourne",4,0,0,3,7,NA,86,0,0,0,11,13.2,NA,NA
+2023,16,"Optus Stadium","Jamie Cripps","West Coast Eagles","Forward","Home","St Kilda",5,1,1,5,10,NA,81,0,0,0,11,NA,NA,NA
+2023,16,"Optus Stadium","Ryan Maric","West Coast Eagles","Forward","Home","St Kilda",4,2,0,9,13,NA,81,0,0,0,9,NA,NA,NA
+2023,16,"Optus Stadium","Jack Williams","West Coast Eagles","INT","Home","St Kilda",5,1,1,3,8,NA,68,6,0,0,NA,NA,NA,NA
+2023,16,"Optus Stadium","Luke Shuey","West Coast Eagles","Mid","Home","St Kilda",17,0,0,11,28,NA,74,20,0,0,24,19.6,NA,NA
+2023,16,"Optus Stadium","Bailey J. Williams","West Coast Eagles","Ruck","Home","St Kilda",7,1,0,7,14,NA,76,22,0,0,15,14.6,NA,NA
+2023,16,"Optus Stadium","Rhett Bazzo","West Coast Eagles","Back","Home","St Kilda",9,0,0,3,12,NA,79,0,0,0,10,11.2,NA,NA
+2023,16,"Optus Stadium","Dom Sheed","West Coast Eagles","Mid","Home","St Kilda",11,0,0,14,25,NA,81,24,0,0,20.67,24.4,NA,NA
+2023,16,"Optus Stadium","Tom Barrass","West Coast Eagles","Back","Home","St Kilda",15,0,0,5,20,NA,100,0,0,0,14.67,12.8,NA,NA
+2023,16,"Optus Stadium","Alex Witherden","West Coast Eagles","Back","Home","St Kilda",23,0,0,6,29,NA,84,0,4,4,20.33,21.2,NA,NA
+2023,16,"Optus Stadium","Jack Darling","West Coast Eagles","Forward","Home","St Kilda",5,1,1,1,6,NA,86,0,0,0,8,7,NA,NA
+2023,16,"Optus Stadium","Elijah Hewett","West Coast Eagles","Mid","Home","St Kilda",6,2,0,5,11,NA,76,16,0,0,10.33,10.6,NA,NA
+2023,16,"Optus Stadium","Reuben Ginbey","West Coast Eagles","INT","Home","St Kilda",4,0,0,9,13,NA,78,9,0,0,17,16.6,NA,NA
+2023,16,"Optus Stadium","Xavier O'Neill","West Coast Eagles","Mid","Home","St Kilda",4,0,0,4,8,NA,83,0,0,0,12.33,12.8,NA,NA
+2023,16,"Optus Stadium","Andrew Gaff","West Coast Eagles","Forward","Home","St Kilda",6,0,0,15,21,NA,87,0,0,0,16.67,17.6,NA,NA
+2023,16,"Optus Stadium","Liam Duggan","West Coast Eagles","Back","Home","St Kilda",19,0,0,8,27,NA,86,0,2,2,25,24.8,NA,NA
+2023,16,"Optus Stadium","Oscar Allen","West Coast Eagles","Forward","Home","St Kilda",5,2,0,2,7,NA,95,0,0,0,8,9.6,NA,NA
+2023,16,"Optus Stadium","Noah Long","West Coast Eagles","Forward","Home","St Kilda",11,1,0,4,15,NA,73,0,0,0,8.67,9.8,NA,NA
+2023,16,"Optus Stadium","Jack Petruccelle","West Coast Eagles","INT","Home","St Kilda",9,1,1,7,16,NA,64,15,0,0,18.33,15.6,NA,NA
+2023,16,"Optus Stadium","Shannon Hurn","West Coast Eagles","Back","Home","St Kilda",22,0,0,8,30,NA,80,0,7,5,20.67,20.6,NA,NA
+2023,16,"Optus Stadium","Jayden Hunt","West Coast Eagles","INT","Home","St Kilda",15,0,0,4,19,NA,87,0,0,0,14,18.8,NA,NA
+2023,16,"Optus Stadium","Harry Barnett","West Coast Eagles","SUB","Home","St Kilda",0,0,0,2,2,NA,9,0,0,0,NA,NA,NA,NA
+2023,16,"Optus Stadium","Campbell Chesser","West Coast Eagles","Mid","Home","St Kilda",8,0,0,5,13,NA,87,0,0,0,11,11,NA,NA
+2023,16,"Optus Stadium","Brady Hough","West Coast Eagles","Back","Home","St Kilda",8,0,0,1,9,NA,83,0,0,0,13,15.2,NA,NA
+2023,16,"Optus Stadium","Callum Wilkie","St Kilda","Back","Away","West Coast Eagles",12,0,0,4,16,NA,100,0,0,0,16,18.4,NA,NA
+2023,16,"Optus Stadium","Marcus Windhager","St Kilda","Mid","Away","West Coast Eagles",9,0,0,11,20,NA,78,10,0,0,17.33,14.2,NA,NA
+2023,16,"Optus Stadium","Mason Wood","St Kilda","Mid","Away","West Coast Eagles",14,1,1,10,24,NA,85,0,0,0,22,20,NA,NA
+2023,16,"Optus Stadium","Mitch Owens","St Kilda","Forward","Away","West Coast Eagles",9,4,0,5,14,NA,86,0,0,0,11.33,12.4,NA,NA
+2023,16,"Optus Stadium","Jade Gresham","St Kilda","Forward","Away","West Coast Eagles",12,1,1,9,21,NA,86,7,0,0,16,16.2,NA,NA
+2023,16,"Optus Stadium","Rowan Marshall","St Kilda","Ruck","Away","West Coast Eagles",16,0,0,10,26,NA,85,25,0,0,18.67,17.8,NA,NA
+2023,16,"Optus Stadium","Josh Battle","St Kilda","Back","Away","West Coast Eagles",0,0,0,1,1,NA,21,0,0,0,11.67,11.4,NA,NA
+2023,16,"Optus Stadium","Jimmy Webster","St Kilda","Back","Away","West Coast Eagles",9,0,0,6,15,NA,82,0,1,0,14.33,15.6,NA,NA
+2023,16,"Optus Stadium","Jack Sinclair","St Kilda","Back","Away","West Coast Eagles",17,0,0,13,30,NA,81,11,1,1,32.33,29.4,NA,NA
+2023,16,"Optus Stadium","Mattaes Phillipou","St Kilda","INT","Away","West Coast Eagles",3,0,0,8,11,NA,71,3,0,0,13.67,12.4,NA,NA
+2023,16,"Optus Stadium","Ryan Byrnes","St Kilda","INT","Away","West Coast Eagles",6,0,0,6,12,NA,68,0,0,0,9.67,13,NA,NA
+2023,16,"Optus Stadium","Bradley Hill","St Kilda","Forward","Away","West Coast Eagles",8,0,0,8,16,NA,79,0,0,0,24,22,NA,NA
+2023,16,"Optus Stadium","Liam Stocker","St Kilda","INT","Away","West Coast Eagles",2,0,0,7,9,NA,78,0,0,0,13.33,15.2,NA,NA
+2023,16,"Optus Stadium","Sebastian Ross","St Kilda","Mid","Away","West Coast Eagles",7,0,0,9,16,NA,68,7,0,0,18.33,16.6,NA,NA
+2023,16,"Optus Stadium","Jack Higgins","St Kilda","Forward","Away","West Coast Eagles",7,1,4,2,9,NA,82,0,0,0,10.33,11,NA,NA
+2023,16,"Optus Stadium","Max King","St Kilda","Forward","Away","West Coast Eagles",11,1,0,3,14,NA,90,0,0,0,10.33,10.2,NA,NA
+2023,16,"Optus Stadium","Brad Crouch","St Kilda","Mid","Away","West Coast Eagles",7,0,1,19,26,NA,84,23,0,0,28,28.6,NA,NA
+2023,16,"Optus Stadium","Dougal Howard","St Kilda","Back","Away","West Coast Eagles",13,0,1,5,18,NA,100,0,0,0,14.67,14.6,NA,NA
+2023,16,"Optus Stadium","Anthony Caminiti","St Kilda","Forward","Away","West Coast Eagles",3,2,1,6,9,NA,77,3,0,0,7.67,7,NA,NA
+2023,16,"Optus Stadium","Dan Butler","St Kilda","INT","Away","West Coast Eagles",8,2,1,2,10,NA,86,0,0,0,11,11.4,NA,NA
+2023,16,"Optus Stadium","Cooper Sharman","St Kilda","SUB","Away","West Coast Eagles",8,0,0,2,10,NA,56,0,1,0,5.67,5.8,NA,NA
+2023,16,"Optus Stadium","Nasiah Wanganeen-Milera","St Kilda","Back","Away","West Coast Eagles",18,0,0,4,22,NA,80,0,2,2,22.67,24.6,NA,NA
+2023,16,"Optus Stadium","Jack Steele","St Kilda","Mid","Away","West Coast Eagles",13,0,1,9,22,NA,76,23,0,0,21.33,20.4,NA,NA

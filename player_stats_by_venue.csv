@@ -323,7 +323,7 @@
 "Adam Cerra","Fremantle",2020,"Heritage Bank Stadium",15.17,11,17,6
 "Adam Cerra","Fremantle",2020,"Marvel Stadium",15,15,15,1
 "Adam Cerra","Fremantle",2020,"Optus Stadium",18.29,13,26,7
-"Adam Cerra","Fremantle",2021,"Adelaide Oval",4,4,4,1
+"Adam Cerra","Fremantle",2021,"Adelaide Oval",15.5,4,27,2
 "Adam Cerra","Fremantle",2021,"Heritage Bank Stadium",30,30,30,1
 "Adam Cerra","Fremantle",2021,"MCG",24,24,24,2
 "Adam Cerra","Fremantle",2021,"Marvel Stadium",22,19,28,3
@@ -1159,7 +1159,7 @@
 "Alexis Georgiou","Melbourne",2014,"GIANTS Stadium",9,9,9,1
 "Alexis Georgiou","Melbourne",2014,"MCG",10.75,6,16,4
 "Alexis Georgiou","Melbourne",2014,"Marvel Stadium",14,14,14,1
-"Aliir Aliir","Port Adelaide",2021,"Adelaide Oval",16,10,23,10
+"Aliir Aliir","Port Adelaide",2021,"Adelaide Oval",16,10,23,11
 "Aliir Aliir","Port Adelaide",2021,"Gabba",18,18,18,1
 "Aliir Aliir","Port Adelaide",2021,"Heritage Bank Stadium",20,20,20,1
 "Aliir Aliir","Port Adelaide",2021,"MCG",15.5,14,17,2
@@ -1299,7 +1299,7 @@
 "Andrew Brayshaw","Fremantle",2020,"Heritage Bank Stadium",17.83,13,23,6
 "Andrew Brayshaw","Fremantle",2020,"Marvel Stadium",14,14,14,1
 "Andrew Brayshaw","Fremantle",2020,"Optus Stadium",23,16,33,7
-"Andrew Brayshaw","Fremantle",2021,"Adelaide Oval",33,33,33,1
+"Andrew Brayshaw","Fremantle",2021,"Adelaide Oval",30.5,28,33,2
 "Andrew Brayshaw","Fremantle",2021,"Blundstone Arena",29,29,29,1
 "Andrew Brayshaw","Fremantle",2021,"Gabba",28,28,28,1
 "Andrew Brayshaw","Fremantle",2021,"Heritage Bank Stadium",34,34,34,1
@@ -3166,7 +3166,7 @@
 "Blake Acres","Fremantle",2020,"Cazalys Stadium",22.5,22,23,2
 "Blake Acres","Fremantle",2020,"Heritage Bank Stadium",20.67,11,27,3
 "Blake Acres","Fremantle",2020,"Optus Stadium",13.5,10,17,2
-"Blake Acres","Fremantle",2021,"Adelaide Oval",19,19,19,1
+"Blake Acres","Fremantle",2021,"Adelaide Oval",17.5,16,19,2
 "Blake Acres","Fremantle",2021,"Blundstone Arena",16,16,16,1
 "Blake Acres","Fremantle",2021,"Gabba",13,13,13,1
 "Blake Acres","Fremantle",2021,"MCG",14,12,16,2
@@ -4190,7 +4190,7 @@
 "Brennan Cox","Fremantle",2020,"Heritage Bank Stadium",11.67,8,15,3
 "Brennan Cox","Fremantle",2020,"Marvel Stadium",10,10,10,1
 "Brennan Cox","Fremantle",2020,"Optus Stadium",11.5,8,16,6
-"Brennan Cox","Fremantle",2021,"Adelaide Oval",11,11,11,1
+"Brennan Cox","Fremantle",2021,"Adelaide Oval",13,11,15,2
 "Brennan Cox","Fremantle",2021,"Gabba",10,10,10,1
 "Brennan Cox","Fremantle",2021,"MCG",10,10,10,1
 "Brennan Cox","Fremantle",2021,"Marvel Stadium",12.5,6,19,2
@@ -4798,7 +4798,7 @@
 "Caleb Serong","Fremantle",2020,"Cazalys Stadium",21.5,18,25,2
 "Caleb Serong","Fremantle",2020,"Heritage Bank Stadium",13.8,10,22,5
 "Caleb Serong","Fremantle",2020,"Optus Stadium",17.71,10,24,7
-"Caleb Serong","Fremantle",2021,"Adelaide Oval",20,20,20,1
+"Caleb Serong","Fremantle",2021,"Adelaide Oval",18,16,20,2
 "Caleb Serong","Fremantle",2021,"Blundstone Arena",35,35,35,1
 "Caleb Serong","Fremantle",2021,"Gabba",19,19,19,1
 "Caleb Serong","Fremantle",2021,"Heritage Bank Stadium",26,26,26,1
@@ -5866,7 +5866,7 @@
 "Charlie Dixon","Port Adelaide",2020,"Adelaide Oval",10,7,14,7
 "Charlie Dixon","Port Adelaide",2020,"Gabba",9.25,5,15,4
 "Charlie Dixon","Port Adelaide",2020,"Heritage Bank Stadium",9.6,3,15,5
-"Charlie Dixon","Port Adelaide",2021,"Adelaide Oval",12.2,7,19,10
+"Charlie Dixon","Port Adelaide",2021,"Adelaide Oval",12.73,7,19,11
 "Charlie Dixon","Port Adelaide",2021,"Gabba",12,12,12,1
 "Charlie Dixon","Port Adelaide",2021,"Heritage Bank Stadium",16,16,16,1
 "Charlie Dixon","Port Adelaide",2021,"MCG",13,13,13,2
@@ -6508,6 +6508,7 @@
 "Connor Blakely","Fremantle",2019,"Optus Stadium",18.86,12,31,7
 "Connor Blakely","Fremantle",2019,"UTAS Stadium",25,25,25,1
 "Connor Blakely","Fremantle",2020,"Optus Stadium",15,6,23,5
+"Connor Blakely","Fremantle",2021,"Adelaide Oval",11,11,11,1
 "Connor Blakely","Fremantle",2021,"Gabba",16,16,16,1
 "Connor Blakely","Fremantle",2021,"Heritage Bank Stadium",9,9,9,1
 "Connor Blakely","Fremantle",2021,"MCG",14,14,14,1
@@ -6609,7 +6610,7 @@
 "Connor Rozee","Port Adelaide",2020,"Adelaide Oval",14.6,11,18,5
 "Connor Rozee","Port Adelaide",2020,"Gabba",10.25,8,13,4
 "Connor Rozee","Port Adelaide",2020,"Heritage Bank Stadium",14,8,21,5
-"Connor Rozee","Port Adelaide",2021,"Adelaide Oval",14.89,6,23,9
+"Connor Rozee","Port Adelaide",2021,"Adelaide Oval",14.9,6,23,10
 "Connor Rozee","Port Adelaide",2021,"Gabba",23,23,23,1
 "Connor Rozee","Port Adelaide",2021,"Heritage Bank Stadium",19,19,19,1
 "Connor Rozee","Port Adelaide",2021,"MCG",12.5,8,17,2
@@ -7164,7 +7165,7 @@
 "Dan Houston","Port Adelaide",2020,"Adelaide Oval",15.8,12,18,5
 "Dan Houston","Port Adelaide",2020,"Gabba",19.5,15,23,4
 "Dan Houston","Port Adelaide",2020,"Heritage Bank Stadium",16.83,12,22,6
-"Dan Houston","Port Adelaide",2021,"Adelaide Oval",22.11,14,32,9
+"Dan Houston","Port Adelaide",2021,"Adelaide Oval",22.8,14,32,10
 "Dan Houston","Port Adelaide",2021,"Gabba",17,17,17,1
 "Dan Houston","Port Adelaide",2021,"Heritage Bank Stadium",27,27,27,1
 "Dan Houston","Port Adelaide",2021,"MCG",10.5,9,12,2
@@ -7842,7 +7843,7 @@
 "Darcy Byrne-Jones","Port Adelaide",2020,"Adelaide Oval",17.86,14,25,7
 "Darcy Byrne-Jones","Port Adelaide",2020,"Gabba",16.25,12,20,4
 "Darcy Byrne-Jones","Port Adelaide",2020,"Heritage Bank Stadium",17.33,10,25,6
-"Darcy Byrne-Jones","Port Adelaide",2021,"Adelaide Oval",20.7,13,27,10
+"Darcy Byrne-Jones","Port Adelaide",2021,"Adelaide Oval",20.45,13,27,11
 "Darcy Byrne-Jones","Port Adelaide",2021,"Gabba",11,11,11,1
 "Darcy Byrne-Jones","Port Adelaide",2021,"Heritage Bank Stadium",25,25,25,1
 "Darcy Byrne-Jones","Port Adelaide",2021,"MCG",21,18,24,2
@@ -8208,6 +8209,7 @@
 "Darcy Tucker","Fremantle",2020,"Heritage Bank Stadium",16.25,14,20,4
 "Darcy Tucker","Fremantle",2020,"Marvel Stadium",23,23,23,1
 "Darcy Tucker","Fremantle",2020,"Optus Stadium",3.5,0,7,2
+"Darcy Tucker","Fremantle",2021,"Adelaide Oval",20,20,20,1
 "Darcy Tucker","Fremantle",2021,"Blundstone Arena",7,7,7,1
 "Darcy Tucker","Fremantle",2021,"Gabba",18,18,18,1
 "Darcy Tucker","Fremantle",2021,"Heritage Bank Stadium",20,20,20,1
@@ -8503,7 +8505,7 @@
 "David Mundy","Fremantle",2020,"Gabba",13,13,13,1
 "David Mundy","Fremantle",2020,"Heritage Bank Stadium",17.83,12,25,6
 "David Mundy","Fremantle",2020,"Optus Stadium",20.29,14,24,7
-"David Mundy","Fremantle",2021,"Adelaide Oval",28,28,28,1
+"David Mundy","Fremantle",2021,"Adelaide Oval",26.5,25,28,2
 "David Mundy","Fremantle",2021,"Blundstone Arena",24,24,24,1
 "David Mundy","Fremantle",2021,"Gabba",27,27,27,1
 "David Mundy","Fremantle",2021,"Heritage Bank Stadium",17,17,17,1
@@ -14888,7 +14890,7 @@
 "James Aish","Fremantle",2020,"Heritage Bank Stadium",16.33,10,23,6
 "James Aish","Fremantle",2020,"Marvel Stadium",12,12,12,1
 "James Aish","Fremantle",2020,"Optus Stadium",15.5,8,21,6
-"James Aish","Fremantle",2021,"Adelaide Oval",22,22,22,1
+"James Aish","Fremantle",2021,"Adelaide Oval",23.5,22,25,2
 "James Aish","Fremantle",2021,"Blundstone Arena",19,19,19,1
 "James Aish","Fremantle",2021,"Gabba",21,21,21,1
 "James Aish","Fremantle",2021,"Heritage Bank Stadium",16,16,16,1
@@ -19007,7 +19009,7 @@
 "Josh Thomas","Collingwood",2021,"Marvel Stadium",13.33,12,14,3
 "Josh Thomas","Collingwood",2021,"Optus Stadium",15,15,15,1
 "Josh Thomas","Collingwood",2021,"SCG",14.5,13,16,2
-"Josh Treacy","Fremantle",2021,"Adelaide Oval",5,5,5,1
+"Josh Treacy","Fremantle",2021,"Adelaide Oval",6,5,7,2
 "Josh Treacy","Fremantle",2021,"Blundstone Arena",4,4,4,1
 "Josh Treacy","Fremantle",2021,"MCG",6,6,6,1
 "Josh Treacy","Fremantle",2021,"Marvel Stadium",4,4,4,1
@@ -19575,7 +19577,7 @@
 "Kane Farrell","Port Adelaide",2020,"Adelaide Oval",7,4,10,4
 "Kane Farrell","Port Adelaide",2020,"Gabba",10.67,10,11,3
 "Kane Farrell","Port Adelaide",2020,"Heritage Bank Stadium",10.5,6,19,4
-"Kane Farrell","Port Adelaide",2021,"Adelaide Oval",10.8,5,19,5
+"Kane Farrell","Port Adelaide",2021,"Adelaide Oval",11.83,5,19,6
 "Kane Farrell","Port Adelaide",2021,"Heritage Bank Stadium",16,16,16,1
 "Kane Farrell","Port Adelaide",2021,"MCG",23,23,23,1
 "Kane Farrell","Port Adelaide",2021,"Marvel Stadium",6,1,11,2
@@ -19690,7 +19692,7 @@
 "Karl Amon","Port Adelaide",2020,"Adelaide Oval",16.86,14,21,7
 "Karl Amon","Port Adelaide",2020,"Gabba",14.75,10,25,4
 "Karl Amon","Port Adelaide",2020,"Heritage Bank Stadium",16.83,14,21,6
-"Karl Amon","Port Adelaide",2021,"Adelaide Oval",23.9,14,34,10
+"Karl Amon","Port Adelaide",2021,"Adelaide Oval",24.18,14,34,11
 "Karl Amon","Port Adelaide",2021,"Gabba",20,20,20,1
 "Karl Amon","Port Adelaide",2021,"Heritage Bank Stadium",26,26,26,1
 "Karl Amon","Port Adelaide",2021,"MCG",21.5,15,28,2
@@ -20279,7 +20281,7 @@
 "Lachie Hunter","Western Bulldogs",2022,"Marvel Stadium",21,17,28,4
 "Lachie Hunter","Western Bulldogs",2022,"SCG",18,18,18,1
 "Lachie Hunter","Western Bulldogs",2022,"UTAS Stadium",23,23,23,1
-"Lachie Jones","Port Adelaide",2021,"Adelaide Oval",12.5,8,17,2
+"Lachie Jones","Port Adelaide",2021,"Adelaide Oval",14.33,8,18,3
 "Lachie Jones","Port Adelaide",2021,"Heritage Bank Stadium",9,9,9,1
 "Lachie Jones","Port Adelaide",2021,"MCG",14.5,12,17,2
 "Lachie Jones","Port Adelaide",2022,"Adelaide Oval",9.25,0,17,8
@@ -20432,7 +20434,7 @@
 "Lachie Schultz","Fremantle",2020,"Heritage Bank Stadium",9.33,7,14,6
 "Lachie Schultz","Fremantle",2020,"Marvel Stadium",9,9,9,1
 "Lachie Schultz","Fremantle",2020,"Optus Stadium",10.71,7,19,7
-"Lachie Schultz","Fremantle",2021,"Adelaide Oval",13,13,13,1
+"Lachie Schultz","Fremantle",2021,"Adelaide Oval",12,11,13,2
 "Lachie Schultz","Fremantle",2021,"Gabba",10,10,10,1
 "Lachie Schultz","Fremantle",2021,"Heritage Bank Stadium",7,7,7,1
 "Lachie Schultz","Fremantle",2021,"MCG",7,4,10,2
@@ -21319,6 +21321,7 @@
 "Liam Duggan","West Coast Eagles",2023,"UTAS Stadium",14,14,14,1
 "Liam Henry","Fremantle",2020,"Cazalys Stadium",5,5,5,1
 "Liam Henry","Fremantle",2020,"Optus Stadium",8.5,8,9,2
+"Liam Henry","Fremantle",2021,"Adelaide Oval",9,9,9,1
 "Liam Henry","Fremantle",2021,"Blundstone Arena",15,15,15,1
 "Liam Henry","Fremantle",2021,"Gabba",9,9,9,1
 "Liam Henry","Fremantle",2021,"Heritage Bank Stadium",10,10,10,1
@@ -22401,7 +22404,7 @@
 "Luke Ryan","Fremantle",2020,"Heritage Bank Stadium",14.67,10,18,6
 "Luke Ryan","Fremantle",2020,"Marvel Stadium",11,11,11,1
 "Luke Ryan","Fremantle",2020,"Optus Stadium",21.57,13,26,7
-"Luke Ryan","Fremantle",2021,"Adelaide Oval",24,24,24,1
+"Luke Ryan","Fremantle",2021,"Adelaide Oval",22.5,21,24,2
 "Luke Ryan","Fremantle",2021,"Blundstone Arena",23,23,23,1
 "Luke Ryan","Fremantle",2021,"Heritage Bank Stadium",15,15,15,1
 "Luke Ryan","Fremantle",2021,"MCG",23,21,25,2
@@ -24806,7 +24809,7 @@
 "Michael Walters","Fremantle",2020,"Heritage Bank Stadium",16.83,10,26,6
 "Michael Walters","Fremantle",2020,"Marvel Stadium",21,21,21,1
 "Michael Walters","Fremantle",2020,"Optus Stadium",17.2,10,22,5
-"Michael Walters","Fremantle",2021,"Adelaide Oval",14,14,14,1
+"Michael Walters","Fremantle",2021,"Adelaide Oval",13.5,13,14,2
 "Michael Walters","Fremantle",2021,"Gabba",8,8,8,1
 "Michael Walters","Fremantle",2021,"Heritage Bank Stadium",9,9,9,1
 "Michael Walters","Fremantle",2021,"MCG",9,9,9,1
@@ -24844,7 +24847,7 @@
 "Mike Pyke","Sydney Swans",2015,"MCG",8.5,6,11,2
 "Mike Pyke","Sydney Swans",2015,"Marvel Stadium",9,5,13,2
 "Mike Pyke","Sydney Swans",2015,"SCG",8.67,4,12,6
-"Miles Bergman","Port Adelaide",2021,"Adelaide Oval",16.44,11,23,9
+"Miles Bergman","Port Adelaide",2021,"Adelaide Oval",15,2,23,10
 "Miles Bergman","Port Adelaide",2021,"Gabba",19,19,19,1
 "Miles Bergman","Port Adelaide",2021,"Heritage Bank Stadium",23,23,23,1
 "Miles Bergman","Port Adelaide",2021,"MCG",8,0,16,2
@@ -24907,7 +24910,7 @@
 "Mitch Crowden","Fremantle",2020,"Cazalys Stadium",6,6,6,2
 "Mitch Crowden","Fremantle",2020,"Heritage Bank Stadium",9.5,7,12,2
 "Mitch Crowden","Fremantle",2020,"Optus Stadium",8.6,5,12,5
-"Mitch Crowden","Fremantle",2021,"Adelaide Oval",7,7,7,1
+"Mitch Crowden","Fremantle",2021,"Adelaide Oval",9,7,11,2
 "Mitch Crowden","Fremantle",2021,"Blundstone Arena",21,21,21,1
 "Mitch Crowden","Fremantle",2021,"Gabba",12,12,12,1
 "Mitch Crowden","Fremantle",2021,"Heritage Bank Stadium",16,16,16,1
@@ -24986,7 +24989,7 @@
 "Mitch Georgiades","Port Adelaide",2020,"Adelaide Oval",8.25,7,10,4
 "Mitch Georgiades","Port Adelaide",2020,"Gabba",11,11,11,1
 "Mitch Georgiades","Port Adelaide",2020,"Heritage Bank Stadium",3,3,3,1
-"Mitch Georgiades","Port Adelaide",2021,"Adelaide Oval",10.7,6,14,10
+"Mitch Georgiades","Port Adelaide",2021,"Adelaide Oval",10.73,6,14,11
 "Mitch Georgiades","Port Adelaide",2021,"Gabba",8,8,8,1
 "Mitch Georgiades","Port Adelaide",2021,"Heritage Bank Stadium",10,10,10,1
 "Mitch Georgiades","Port Adelaide",2021,"MCG",12.5,10,15,2
@@ -25432,7 +25435,7 @@
 "Nat Fyfe","Fremantle",2020,"Heritage Bank Stadium",20,11,25,5
 "Nat Fyfe","Fremantle",2020,"Marvel Stadium",26,26,26,1
 "Nat Fyfe","Fremantle",2020,"Optus Stadium",21.2,11,28,5
-"Nat Fyfe","Fremantle",2021,"Adelaide Oval",24,24,24,1
+"Nat Fyfe","Fremantle",2021,"Adelaide Oval",22,20,24,2
 "Nat Fyfe","Fremantle",2021,"Gabba",27,27,27,1
 "Nat Fyfe","Fremantle",2021,"Heritage Bank Stadium",15,15,15,1
 "Nat Fyfe","Fremantle",2021,"MCG",23.5,20,27,2
@@ -25746,7 +25749,7 @@
 "Nathan Wilson","Fremantle",2020,"Cazalys Stadium",16,16,16,2
 "Nathan Wilson","Fremantle",2020,"Heritage Bank Stadium",10.5,5,13,6
 "Nathan Wilson","Fremantle",2020,"Optus Stadium",15.71,9,21,7
-"Nathan Wilson","Fremantle",2021,"Adelaide Oval",17,17,17,1
+"Nathan Wilson","Fremantle",2021,"Adelaide Oval",14.5,12,17,2
 "Nathan Wilson","Fremantle",2021,"Gabba",24,24,24,1
 "Nathan Wilson","Fremantle",2021,"Heritage Bank Stadium",24,24,24,1
 "Nathan Wilson","Fremantle",2021,"MCG",17,17,17,1
@@ -26906,7 +26909,7 @@
 "Ollie Wines","Port Adelaide",2020,"Adelaide Oval",22.17,17,28,6
 "Ollie Wines","Port Adelaide",2020,"Gabba",20.5,14,25,4
 "Ollie Wines","Port Adelaide",2020,"Heritage Bank Stadium",21.6,14,30,5
-"Ollie Wines","Port Adelaide",2021,"Adelaide Oval",30.5,24,38,10
+"Ollie Wines","Port Adelaide",2021,"Adelaide Oval",30.91,24,38,11
 "Ollie Wines","Port Adelaide",2021,"Gabba",37,37,37,1
 "Ollie Wines","Port Adelaide",2021,"Heritage Bank Stadium",43,43,43,1
 "Ollie Wines","Port Adelaide",2021,"MCG",29.5,27,32,2
@@ -26957,7 +26960,7 @@
 "Orazio Fantasia","Essendon",2020,"Heritage Bank Stadium",14,9,19,2
 "Orazio Fantasia","Essendon",2020,"MCG",7.5,6,9,2
 "Orazio Fantasia","Essendon",2020,"Marvel Stadium",6,6,6,1
-"Orazio Fantasia","Port Adelaide",2021,"Adelaide Oval",13.43,6,18,7
+"Orazio Fantasia","Port Adelaide",2021,"Adelaide Oval",13.12,6,18,8
 "Orazio Fantasia","Port Adelaide",2021,"Gabba",7,7,7,1
 "Orazio Fantasia","Port Adelaide",2021,"MCG",15,15,15,1
 "Orazio Fantasia","Port Adelaide",2021,"Marvel Stadium",12.5,11,14,2
@@ -27653,7 +27656,7 @@
 "Peter Ladhams","Port Adelaide",2020,"Adelaide Oval",14.5,8,20,4
 "Peter Ladhams","Port Adelaide",2020,"Gabba",14,8,21,3
 "Peter Ladhams","Port Adelaide",2020,"Heritage Bank Stadium",12,12,12,1
-"Peter Ladhams","Port Adelaide",2021,"Adelaide Oval",13.67,7,18,6
+"Peter Ladhams","Port Adelaide",2021,"Adelaide Oval",14.57,7,20,7
 "Peter Ladhams","Port Adelaide",2021,"Heritage Bank Stadium",15,15,15,1
 "Peter Ladhams","Port Adelaide",2021,"MCG",21,21,21,1
 "Peter Ladhams","Port Adelaide",2021,"Marvel Stadium",13,8,17,5
@@ -28183,7 +28186,7 @@
 "Riley Bonner","Port Adelaide",2020,"Adelaide Oval",14.2,9,19,5
 "Riley Bonner","Port Adelaide",2020,"Gabba",15,14,16,2
 "Riley Bonner","Port Adelaide",2020,"Heritage Bank Stadium",10.5,10,11,2
-"Riley Bonner","Port Adelaide",2021,"Adelaide Oval",17.5,13,21,4
+"Riley Bonner","Port Adelaide",2021,"Adelaide Oval",18,13,21,5
 "Riley Bonner","Port Adelaide",2021,"MCG",15,15,15,1
 "Riley Bonner","Port Adelaide",2021,"Marvel Stadium",20.33,14,25,6
 "Riley Bonner","Port Adelaide",2022,"Adelaide Oval",18.64,0,37,11
@@ -28374,7 +28377,7 @@
 "Robbie Gray","Port Adelaide",2020,"Adelaide Oval",17.86,7,27,7
 "Robbie Gray","Port Adelaide",2020,"Gabba",16.75,11,25,4
 "Robbie Gray","Port Adelaide",2020,"Heritage Bank Stadium",14.5,10,20,6
-"Robbie Gray","Port Adelaide",2021,"Adelaide Oval",17.12,13,26,8
+"Robbie Gray","Port Adelaide",2021,"Adelaide Oval",17.78,13,26,9
 "Robbie Gray","Port Adelaide",2021,"Gabba",22,22,22,1
 "Robbie Gray","Port Adelaide",2021,"Heritage Bank Stadium",9,9,9,1
 "Robbie Gray","Port Adelaide",2021,"MCG",17,16,18,2
@@ -28692,7 +28695,7 @@
 "Rory Lobb","Fremantle",2020,"Heritage Bank Stadium",11.17,7,14,6
 "Rory Lobb","Fremantle",2020,"Marvel Stadium",15,15,15,1
 "Rory Lobb","Fremantle",2020,"Optus Stadium",9.29,7,13,7
-"Rory Lobb","Fremantle",2021,"Adelaide Oval",11,11,11,1
+"Rory Lobb","Fremantle",2021,"Adelaide Oval",10.5,10,11,2
 "Rory Lobb","Fremantle",2021,"Gabba",17,17,17,1
 "Rory Lobb","Fremantle",2021,"MCG",10,10,10,1
 "Rory Lobb","Fremantle",2021,"Marvel Stadium",14.5,12,17,2
@@ -28974,7 +28977,7 @@
 "Ryan Burton","Port Adelaide",2020,"Adelaide Oval",13.5,12,15,2
 "Ryan Burton","Port Adelaide",2020,"Gabba",20,20,20,1
 "Ryan Burton","Port Adelaide",2020,"Heritage Bank Stadium",12.33,2,18,3
-"Ryan Burton","Port Adelaide",2021,"Adelaide Oval",18.7,10,28,10
+"Ryan Burton","Port Adelaide",2021,"Adelaide Oval",18,10,28,11
 "Ryan Burton","Port Adelaide",2021,"Gabba",10,10,10,1
 "Ryan Burton","Port Adelaide",2021,"Heritage Bank Stadium",11,11,11,1
 "Ryan Burton","Port Adelaide",2021,"MCG",17,15,19,2
@@ -30169,7 +30172,7 @@
 "Sam Powell-Pepper","Port Adelaide",2020,"Adelaide Oval",15.14,11,21,7
 "Sam Powell-Pepper","Port Adelaide",2020,"Gabba",12,9,14,4
 "Sam Powell-Pepper","Port Adelaide",2020,"Heritage Bank Stadium",16,10,22,6
-"Sam Powell-Pepper","Port Adelaide",2021,"Adelaide Oval",14.83,8,20,6
+"Sam Powell-Pepper","Port Adelaide",2021,"Adelaide Oval",15.57,8,20,7
 "Sam Powell-Pepper","Port Adelaide",2021,"Gabba",17,17,17,1
 "Sam Powell-Pepper","Port Adelaide",2021,"Heritage Bank Stadium",15,15,15,1
 "Sam Powell-Pepper","Port Adelaide",2021,"MCG",18,18,18,1
@@ -30311,6 +30314,7 @@
 "Sam Switkowski","Fremantle",2019,"Marvel Stadium",12.5,10,15,2
 "Sam Switkowski","Fremantle",2019,"Optus Stadium",11.9,8,15,10
 "Sam Switkowski","Fremantle",2019,"UTAS Stadium",7,7,7,1
+"Sam Switkowski","Fremantle",2021,"Adelaide Oval",6,6,6,1
 "Sam Switkowski","Fremantle",2021,"Blundstone Arena",5,5,5,1
 "Sam Switkowski","Fremantle",2021,"MCG",12,9,15,2
 "Sam Switkowski","Fremantle",2021,"Marvel Stadium",13,10,15,3
@@ -30735,7 +30739,7 @@
 "Sean Darcy","Fremantle",2020,"Heritage Bank Stadium",8.25,6,13,4
 "Sean Darcy","Fremantle",2020,"Marvel Stadium",6,6,6,1
 "Sean Darcy","Fremantle",2020,"Optus Stadium",9.29,6,12,7
-"Sean Darcy","Fremantle",2021,"Adelaide Oval",14,14,14,1
+"Sean Darcy","Fremantle",2021,"Adelaide Oval",15.5,14,17,2
 "Sean Darcy","Fremantle",2021,"Blundstone Arena",10,10,10,1
 "Sean Darcy","Fremantle",2021,"Gabba",17,17,17,1
 "Sean Darcy","Fremantle",2021,"Heritage Bank Stadium",19,19,19,1
@@ -32019,7 +32023,7 @@
 "Steven Motlop","Port Adelaide",2020,"Adelaide Oval",15,8,24,3
 "Steven Motlop","Port Adelaide",2020,"Gabba",8.33,6,13,3
 "Steven Motlop","Port Adelaide",2020,"Heritage Bank Stadium",9.67,5,15,6
-"Steven Motlop","Port Adelaide",2021,"Adelaide Oval",14.12,9,21,8
+"Steven Motlop","Port Adelaide",2021,"Adelaide Oval",15.22,9,24,9
 "Steven Motlop","Port Adelaide",2021,"Gabba",19,19,19,1
 "Steven Motlop","Port Adelaide",2021,"Heritage Bank Stadium",26,26,26,1
 "Steven Motlop","Port Adelaide",2021,"MCG",13,11,15,2
@@ -32139,6 +32143,7 @@
 "Taylin Duman","Fremantle",2020,"Heritage Bank Stadium",11.25,9,15,4
 "Taylin Duman","Fremantle",2020,"Marvel Stadium",10,10,10,1
 "Taylin Duman","Fremantle",2020,"Optus Stadium",12,9,16,7
+"Taylin Duman","Fremantle",2021,"Adelaide Oval",10,10,10,1
 "Taylin Duman","Fremantle",2021,"Gabba",15,15,15,1
 "Taylin Duman","Fremantle",2021,"Marvel Stadium",18,18,18,1
 "Taylin Duman","Fremantle",2021,"Optus Stadium",16,12,22,3
@@ -32771,6 +32776,7 @@
 "Timothy Smith","Melbourne",2018,"TIO Traeger Park",19,19,19,1
 "Tobe Watson","Fremantle",2020,"Heritage Bank Stadium",10,10,10,1
 "Tobe Watson","Fremantle",2020,"Optus Stadium",10,8,12,2
+"Tobe Watson","Fremantle",2021,"Adelaide Oval",10,10,10,1
 "Tobe Watson","Fremantle",2021,"Blundstone Arena",16,16,16,1
 "Tobe Watson","Fremantle",2021,"Gabba",7,7,7,1
 "Tobe Watson","Fremantle",2021,"MCG",8,8,8,1
@@ -33057,7 +33063,7 @@
 "Todd Marshall","Port Adelaide",2020,"Adelaide Oval",8.5,6,11,4
 "Todd Marshall","Port Adelaide",2020,"Gabba",8.33,4,15,3
 "Todd Marshall","Port Adelaide",2020,"Heritage Bank Stadium",8.6,7,10,5
-"Todd Marshall","Port Adelaide",2021,"Adelaide Oval",8.12,0,14,8
+"Todd Marshall","Port Adelaide",2021,"Adelaide Oval",8.44,0,14,9
 "Todd Marshall","Port Adelaide",2021,"Gabba",7,7,7,1
 "Todd Marshall","Port Adelaide",2021,"MCG",13,7,19,2
 "Todd Marshall","Port Adelaide",2021,"Marvel Stadium",12.5,10,16,6
@@ -33753,7 +33759,7 @@
 "Tom Jonas","Port Adelaide",2020,"Adelaide Oval",9.86,5,14,7
 "Tom Jonas","Port Adelaide",2020,"Gabba",11.5,6,20,4
 "Tom Jonas","Port Adelaide",2020,"Heritage Bank Stadium",10.33,5,16,6
-"Tom Jonas","Port Adelaide",2021,"Adelaide Oval",13.8,8,26,10
+"Tom Jonas","Port Adelaide",2021,"Adelaide Oval",14.18,8,26,11
 "Tom Jonas","Port Adelaide",2021,"Gabba",21,21,21,1
 "Tom Jonas","Port Adelaide",2021,"Heritage Bank Stadium",18,18,18,1
 "Tom Jonas","Port Adelaide",2021,"MCG",16.5,15,18,2
@@ -34715,7 +34721,7 @@
 "Travis Boak","Port Adelaide",2020,"Adelaide Oval",22.71,10,34,7
 "Travis Boak","Port Adelaide",2020,"Gabba",22.5,18,26,4
 "Travis Boak","Port Adelaide",2020,"Heritage Bank Stadium",24,16,34,6
-"Travis Boak","Port Adelaide",2021,"Adelaide Oval",28.3,25,31,10
+"Travis Boak","Port Adelaide",2021,"Adelaide Oval",28.55,25,31,11
 "Travis Boak","Port Adelaide",2021,"Heritage Bank Stadium",25,25,25,1
 "Travis Boak","Port Adelaide",2021,"MCG",28,27,29,2
 "Travis Boak","Port Adelaide",2021,"Marvel Stadium",27.17,24,31,6
@@ -34789,7 +34795,7 @@
 "Travis Colyer","Fremantle",2020,"Heritage Bank Stadium",8.67,8,9,3
 "Travis Colyer","Fremantle",2020,"Marvel Stadium",13,13,13,1
 "Travis Colyer","Fremantle",2020,"Optus Stadium",7.67,5,11,3
-"Travis Colyer","Fremantle",2021,"Adelaide Oval",13,13,13,1
+"Travis Colyer","Fremantle",2021,"Adelaide Oval",12.5,12,13,2
 "Travis Colyer","Fremantle",2021,"Blundstone Arena",14,14,14,1
 "Travis Colyer","Fremantle",2021,"Gabba",15,15,15,1
 "Travis Colyer","Fremantle",2021,"Heritage Bank Stadium",11,11,11,1
@@ -35001,7 +35007,7 @@
 "Trent McKenzie","Port Adelaide",2020,"Adelaide Oval",12.17,3,15,6
 "Trent McKenzie","Port Adelaide",2020,"Gabba",10.33,7,13,3
 "Trent McKenzie","Port Adelaide",2020,"Heritage Bank Stadium",12.5,7,16,6
-"Trent McKenzie","Port Adelaide",2021,"Adelaide Oval",15.75,13,18,4
+"Trent McKenzie","Port Adelaide",2021,"Adelaide Oval",16,13,18,5
 "Trent McKenzie","Port Adelaide",2021,"Heritage Bank Stadium",16,16,16,1
 "Trent McKenzie","Port Adelaide",2021,"MCG",16,16,16,1
 "Trent McKenzie","Port Adelaide",2021,"Marvel Stadium",16.2,7,22,5
@@ -35682,7 +35688,7 @@
 "Willem Drew","Port Adelaide",2019,"MCG",21,21,21,1
 "Willem Drew","Port Adelaide",2019,"Marvel Stadium",12,12,12,1
 "Willem Drew","Port Adelaide",2019,"Optus Stadium",20,20,20,1
-"Willem Drew","Port Adelaide",2021,"Adelaide Oval",18.3,13,25,10
+"Willem Drew","Port Adelaide",2021,"Adelaide Oval",17.73,12,25,11
 "Willem Drew","Port Adelaide",2021,"Gabba",32,32,32,1
 "Willem Drew","Port Adelaide",2021,"Heritage Bank Stadium",27,27,27,1
 "Willem Drew","Port Adelaide",2021,"MCG",14.5,14,15,2

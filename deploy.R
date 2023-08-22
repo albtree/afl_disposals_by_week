@@ -4,6 +4,7 @@ library(dplyr)
 library(ggplot2)
 library(ggrepel)
 library(hrbrthemes)
+install.packages("rsconnect", repos='http://cran.us.r-project.org')
 library(rsconnect)
 
 # Authenticate
@@ -11,4 +12,4 @@ setAccountInfo(name = Sys.getenv("SHINY_ACC_NAME"),
                token = Sys.getenv("TOKEN"),
                secret = Sys.getenv("SECRET"))
 # Deploy
-deployApp(appFiles = c("ui.R", "server.R", "player_stats_2023.csv", "player_disp_tog.csv"))
+deployApp(appFiles = c("ui.R", "server.R", "player_stats_2023.csv", "player_disp_tog.csv"), forceUpdate = TRUE)

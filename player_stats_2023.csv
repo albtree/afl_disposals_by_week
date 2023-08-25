@@ -9107,3 +9107,49 @@
 2023,23,"Optus Stadium","Kane Farrell","Port Adelaide","Back","Away","Fremantle",17,0,0,1,18,85,82,0,2,2,14.33,15.8,61.67,63
 2023,23,"Optus Stadium","Ryan Burton","Port Adelaide","Back","Away","Fremantle",9,0,0,1,10,38,40,0,4,4,18.33,17.6,71.33,72.4
 2023,23,"Optus Stadium","Xavier Duursma","Port Adelaide","Mid","Away","Fremantle",12,0,0,8,20,81,80,0,0,0,15.67,15.6,74,71.4
+2023,24,"MCG","Kyle Langford","Essendon","Forward","Home","Collingwood",11,1,4,4,15,NA,96,0,0,0,13.33,12.6,NA,NA
+2023,24,"MCG","Jayden Laverde","Essendon","Back","Home","Collingwood",21,0,0,10,31,NA,95,0,0,0,19,16.4,NA,NA
+2023,24,"MCG","Nic Martin","Essendon","Mid","Home","Collingwood",12,0,0,14,26,NA,89,1,0,0,24.33,21,NA,NA
+2023,24,"MCG","Anthony McDonald-Tipungwuti","Essendon","SUB","Home","Collingwood",2,0,0,2,4,NA,62,0,0,0,6.33,8,NA,NA
+2023,24,"MCG","Andrew McGrath","Essendon","Back","Home","Collingwood",13,0,0,10,23,NA,75,0,0,0,24,21.4,NA,NA
+2023,24,"MCG","Jye Menzie","Essendon","Forward","Home","Collingwood",3,0,0,4,7,NA,83,0,0,0,8.33,8.4,NA,NA
+2023,24,"MCG","Archie Perkins","Essendon","Forward","Home","Collingwood",5,0,0,7,12,NA,84,7,0,0,16,15.6,NA,NA
+2023,24,"MCG","Elijah Tsatas","Essendon","INT","Home","Collingwood",8,0,0,11,19,NA,66,2,0,0,17,NA,NA,NA
+2023,24,"MCG","Brandon Zerk-Thatcher","Essendon","Back","Home","Collingwood",10,0,0,5,15,NA,100,0,0,0,11,12.2,NA,NA
+2023,24,"MCG","Kaine Baldwin","Essendon","Back","Home","Collingwood",0,0,0,0,0,NA,3,0,0,0,7.33,NA,NA,NA
+2023,24,"MCG","Nick Bryan","Essendon","INT","Home","Collingwood",7,0,0,4,11,NA,68,8,0,0,8.67,9,NA,NA
+2023,24,"MCG","Nik Cox","Essendon","Mid","Home","Collingwood",8,0,0,7,15,NA,91,0,0,0,12,11.6,NA,NA
+2023,24,"MCG","Darcy Parish","Essendon","Mid","Home","Collingwood",13,0,1,16,29,NA,88,19,0,0,29,29.4,NA,NA
+2023,24,"MCG","Andrew Phillips","Essendon","Ruck","Home","Collingwood",5,0,1,2,7,NA,77,13,0,0,8,8.4,NA,NA
+2023,24,"MCG","Zach Merrett","Essendon","Forward","Home","Collingwood",21,0,2,15,36,NA,90,16,0,0,28,30.4,NA,NA
+2023,24,"MCG","Sam Weideman","Essendon","Forward","Home","Collingwood",5,2,0,2,7,NA,84,0,0,0,7.67,8,NA,NA
+2023,24,"MCG","Will Setterfield","Essendon","Mid","Home","Collingwood",4,0,0,10,14,NA,72,13,0,0,17.67,18.8,NA,NA
+2023,24,"MCG","Will Snelling","Essendon","Forward","Home","Collingwood",4,0,1,7,11,NA,82,0,0,0,8.67,9.2,NA,NA
+2023,24,"MCG","Nick Hind","Essendon","Back","Home","Collingwood",14,0,0,6,20,NA,83,0,2,1,23.67,25,NA,NA
+2023,24,"MCG","Sam Durham","Essendon","Mid","Home","Collingwood",14,0,0,11,25,NA,80,0,0,0,19,18.4,NA,NA
+2023,24,"MCG","Ben Hobbs","Essendon","INT","Home","Collingwood",11,0,1,9,20,NA,69,5,0,0,22.67,21,NA,NA
+2023,24,"MCG","Dyson Heppell","Essendon","INT","Home","Collingwood",12,0,0,11,23,NA,87,0,1,0,17.67,20.2,NA,NA
+2023,24,"MCG","Mason Redman","Essendon","Back","Home","Collingwood",17,0,1,3,20,NA,75,0,2,2,19.67,20.4,NA,NA
+2023,24,"MCG","Darcy Cameron","Collingwood","Ruck","Away","Essendon",7,1,0,4,11,NA,66,10,0,0,11.33,11.4,NA,NA
+2023,24,"MCG","Jamie Elliott","Collingwood","Forward","Away","Essendon",4,2,0,4,8,NA,39,0,0,0,10.33,10.6,NA,NA
+2023,24,"MCG","Daniel McStay","Collingwood","Forward","Away","Essendon",2,1,0,5,7,NA,88,0,0,0,11,9.6,NA,NA
+2023,24,"MCG","Brody Mihocek","Collingwood","Forward","Away","Essendon",11,3,1,3,14,NA,87,0,0,0,12.67,11.6,NA,NA
+2023,24,"MCG","Tom Mitchell","Collingwood","INT","Away","Essendon",11,1,0,22,33,NA,77,14,0,0,29.33,24,NA,NA
+2023,24,"MCG","John Noble","Collingwood","INT","Away","Essendon",10,0,0,11,21,NA,78,0,3,3,17.67,18.2,NA,NA
+2023,24,"MCG","Scott Pendlebury","Collingwood","Back","Away","Essendon",7,1,0,14,21,NA,70,8,1,0,24.33,23.2,NA,NA
+2023,24,"MCG","Isaac Quaynor","Collingwood","Back","Away","Essendon",13,0,0,5,18,NA,86,0,1,0,15.67,14.4,NA,NA
+2023,24,"MCG","Steele Sidebottom","Collingwood","Mid","Away","Essendon",13,0,0,6,19,NA,81,0,0,0,19,20.4,NA,NA
+2023,24,"MCG","Jack Crisp","Collingwood","Back","Away","Essendon",13,0,0,8,21,NA,76,7,0,0,22.67,23,NA,NA
+2023,24,"MCG","Josh Daicos","Collingwood","Mid","Away","Essendon",12,1,0,13,25,NA,87,1,0,0,29.67,27,NA,NA
+2023,24,"MCG","Jeremy Howe","Collingwood","Forward","Away","Essendon",13,0,0,7,20,NA,88,0,6,5,12.67,13.8,NA,NA
+2023,24,"MCG","Taylor Adams","Collingwood","Mid","Away","Essendon",11,0,0,8,19,NA,76,9,0,0,19,16.4,NA,NA
+2023,24,"MCG","Oleg Markov","Collingwood","Back","Away","Essendon",11,0,0,8,19,NA,85,0,0,0,15.67,13.4,NA,NA
+2023,24,"MCG","Jack Ginnivan","Collingwood","INT","Away","Essendon",12,3,0,5,17,NA,84,0,0,0,12,12,NA,NA
+2023,24,"MCG","Will Hoskin-Elliott","Collingwood","Mid","Away","Essendon",17,0,0,3,20,NA,92,0,0,0,15.67,10.4,NA,NA
+2023,24,"MCG","Brayden Maynard","Collingwood","Back","Away","Essendon",15,0,0,6,21,NA,82,0,2,1,22.33,21,NA,NA
+2023,24,"MCG","Jordan De Goey","Collingwood","Forward","Away","Essendon",17,1,0,10,27,NA,87,19,0,0,21.33,21.6,NA,NA
+2023,24,"MCG","Mason Cox","Collingwood","INT","Away","Essendon",6,0,0,5,11,NA,77,11,0,0,6.33,6.6,NA,NA
+2023,24,"MCG","Finlay Macrae","Collingwood","SUB","Away","Essendon",0,0,0,7,7,NA,37,5,0,0,NA,NA,NA,NA
+2023,24,"MCG","Billy Frampton","Collingwood","Back","Away","Essendon",6,0,0,3,9,NA,100,0,0,0,10,7.6,NA,NA
+2023,24,"MCG","Bobby Hill","Collingwood","Forward","Away","Essendon",9,1,0,3,12,NA,77,0,0,0,13.67,10,NA,NA
+2023,24,"MCG","Patrick Lipinski","Collingwood","Mid","Away","Essendon",9,1,1,7,16,NA,80,0,0,0,18.67,19,NA,NA
